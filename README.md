@@ -24,7 +24,7 @@
 | MCBBS |    https://mcbbs.run/    | 是 | 2024/02/27 | 画了个圈的论坛，未公安网备 |
 | 小黑资源论坛 | https://www.blmcpia.com/ | 是 | 2024/02/27 | 私人论坛，未备案 |
 | 像素点之家 |   https://mcbar.club/    | 是 | 2024/02/27 | 百度minecraft吧的替代品 |
-|  |  |  |  |  |
+| SimpBBS | https://www.simpbbs.com/ | 是 | 2024/02/27 | 私人论坛，未备案 |
 |  |  |  |  |  |
 
 ## 资料来源
