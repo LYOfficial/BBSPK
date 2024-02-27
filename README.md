@@ -42,6 +42,7 @@
 
 MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！https://www.bilibili.com/video/BV1hW421A7dm/
 
+再见Mcbbs，新生McFun https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g 
 
 
 ## 统计信息
