@@ -25,8 +25,10 @@
 | 小黑资源论坛 | https://www.blmcpia.com/ | 是 | 2024/02/27 | 私人论坛，未备案 |
 | 像素点之家 |   https://mcbar.club/    | 是 | 2024/02/27 | 百度minecraft吧的替代品 |
 | SimpBBS | https://www.simpbbs.com/ | 是 | 2024/02/27 | 私人论坛，未备案 |
+| MCPPS | https://mcpps.cn | 是 | 2024/02/27 | 私人论坛，已备案 |
+| MC-BBS | https://mc-bbs.net | 半死 | 2024/02/27 | 私人论坛，情况不明 |
+| 萝卜我的世界论坛 | https://www.luobomc.top | 死了 | 2024/02/27 | 私人论坛，无法加载 |
 | MCFUN | https://www.mcshuo.com/ | 是 | 2024/02/27 | 企业备案，未公安网备 |
-|  |  |  |  |  |
 
 ## 资料来源
 
@@ -42,7 +44,11 @@
 
 MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！https://www.bilibili.com/video/BV1hW421A7dm/
 
+
+我做了个Minecraft论坛？比MCBBS使用简单？ —MC萝卜论坛！https://www.bilibili.com/video/BV1bG411G7Pk
+
 再见Mcbbs，新生McFun https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g 
+
 
 
 ## 统计信息
