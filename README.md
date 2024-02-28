@@ -45,24 +45,32 @@
 
 ## 资料来源
 
-- 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛<br>
-  https://www.bilibili.com/video/BV1su4m1w7vH
-- 我的世界论坛 2nd已发布！欢迎各位加入我们！<br>
-  https://www.bilibili.com/video/BV1hW421A7dm
-- 【黑曜石论坛】mcbbs关站了？我的世界黑曜石论坛欢迎您！<br>
-  https://www.bilibili.com/video/BV1wm411f7W4
-- 求求你，让我成为你的下一个mcbbs平替论坛<br>
-  https://www.bilibili.com/video/BV1Hr421s7DK/
-- 我的世界中文论坛BBS关停，你们要的新论坛来啦<br>
-  https://www.bilibili.com/video/BV1uA4m1G7KL
-- MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！<br>
-  https://www.bilibili.com/video/BV1hW421A7dm/
-- 我做了个Minecraft论坛？比MCBBS使用简单？ —MC萝卜论坛！<br>
-  https://www.bilibili.com/video/BV1bG411G7Pk
-- 再见Mcbbs，新生McFun<br>
-  https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g 
-- B站动态 900600276318158885<br>
-  https://www.bilibili.com/opus/900600276318158885
+- 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛
+  [https://www.bilibili.com/video/BV1su4m1w7vH](https://www.bilibili.com/video/BV1su4m1w7vH)
+
+- 我的世界论坛 2nd已发布！欢迎各位加入我们！
+  [https://www.bilibili.com/video/BV1hW421A7dm](https://www.bilibili.com/video/BV1hW421A7dm)
+
+- 【黑曜石论坛】mcbbs关站了？我的世界黑曜石论坛欢迎您！
+  [https://www.bilibili.com/video/BV1wm411f7W4](https://www.bilibili.com/video/BV1wm411f7W4)
+
+- 求求你，让我成为你的下一个mcbbs平替论坛 
+  [https://www.bilibili.com/video/BV1Hr421s7DK/](https://www.bilibili.com/video/BV1Hr421s7DK/)
+
+- 我的世界中文论坛BBS关停，你们要的新论坛来啦 
+  [https://www.bilibili.com/video/BV1uA4m1G7KL](https://www.bilibili.com/video/BV1uA4m1G7KL)
+
+- MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！
+  [https://www.bilibili.com/video/BV1hW421A7dm/](https://www.bilibili.com/video/BV1hW421A7dm/)
+
+- 我做了个Minecraft论坛？比MCBBS使用简单？ —MC萝卜论坛！
+  [https://www.bilibili.com/video/BV1bG411G7Pk](https://www.bilibili.com/video/BV1bG411G7Pk)
+
+- 再见Mcbbs，新生McFun
+  [https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g](https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g)
+
+- B站动态 900600276318158885
+  [https://www.bilibili.com/opus/900600276318158885](https://www.bilibili.com/opus/900600276318158885)
 
 
 
