@@ -49,7 +49,6 @@
 | 回来吧MCBBS | http://mcbbs.win/ | 2024/02/29 |  |
 | Minecraft中文综合交流站 | http://mcforum.wikidot.com/ | 2024/02/29 | 基于 WikiDot 建立 | 
 
-
 ## 资料来源
 
 - ICP/IP地址/域名信息备案管理系统<br>
@@ -85,7 +84,11 @@
 - B站动态 900600276318158885<br>
   [https://www.bilibili.com/opus/900600276318158885](https://www.bilibili.com/opus/900600276318158885)
 
+- MineForum，一个全新的Minecraft论坛<br>
+  [https://www.bilibili.com/video/BV1Hu4m1P7BY/](https://www.bilibili.com/video/BV1Hu4m1P7BY/)
 
+- Minepixel 论坛招人了！<br>
+  [https://www.bilibili.com/video/BV13A4m137tZ/](https://www.bilibili.com/video/BV13A4m137tZ/)
 
 ## 统计信息
 
