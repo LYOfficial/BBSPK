@@ -11,6 +11,8 @@
 
 ## 论坛列表
 
+目前登记在册选手 24 位
+
 | 论坛名称 | 论坛地址 | 是否存活 | 更新时间 | 备注 |
 |:----------: | :----------: | :-----------:  | :-----------:  |------------ |
 |MCBBS|[https://www.mcbbs.net/](https://www.mcbbs.net/)|未知|2024/02/27|直属B站的我的世界中文论坛|
@@ -38,6 +40,8 @@
 | MCSBBS | [https://mcsbbs.thxymc.com/](https://mcsbbs.thxymc.com/) | 是 | 2024/02/28 | 私人论坛，已备案 |
 | MineSMSBBS | [https://bbs.minesms.lol](https://bbs.minesms.lol) | 是 | 2024/02/28 | 私人论坛，未备案 |
 
+
+
 ## 资料来源
 
 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛 https://www.bilibili.com/video/BV1su4m1w7vH
@@ -64,4 +68,5 @@ B站动态 900600276318158885 https://www.bilibili.com/opus/900600276318158885
 ## 统计信息
 
 ### Stargazers over time
-[![Stargazers over time](https://starchart.cc/LYOfficial/BBSPK.svg)](https://starchart.cc/LYOfficial/MinecraftPlayGuide)
+
+[![Stargazers over time](https://starchart.cc/LYOfficial/BBSPK.svg?variant=adaptive)](https://starchart.cc/LYOfficial/BBSPK)
