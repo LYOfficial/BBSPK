@@ -36,6 +36,7 @@
 | MCUTC | https://bbs.mcutc.cn/ | 是 | 2024/2/28 | 私人论坛，已备案 |
 | MCFUN | https://www.mcshuo.com/portal.php | 是 | 2024/2/28 | 私人论坛，未备案 |
 | MCSBBS | https://mcsbbs.thxymc.com/forum.php | 是 | 2024/2/28 | 私人论坛，已备案 |
+| MineSMSBBS | https://bbs.minesms.lol | 是 | 2024/2/28 | 私人论坛，未备案 |
 
 ## 资料来源
 
