@@ -39,7 +39,6 @@
 | MCFUN | [https://www.mcshuo.com/](https://www.mcshuo.com/) | 是 | 2024/02/28 | 私人论坛，未备案 |
 | MCSBBS | [https://mcsbbs.thxymc.com/](https://mcsbbs.thxymc.com/) | 是 | 2024/02/28 | 私人论坛，已备案 |
 | MineSMSBBS | [https://bbs.minesms.lol](https://bbs.minesms.lol) | 是 | 2024/02/28 | 私人论坛，未备案 |
-| iridiumeggs 论坛 | [https://ir-wsei.icu](https://ir.wsei.icu) | 是 | 2024/02/28 | 私人论坛，未备案 |
 
 
 
