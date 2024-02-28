@@ -16,7 +16,7 @@
 |MCBBS|https://www.mcbbs.net/|未知|2024/02/27|直属B站的我的世界中文论坛|
 | 苦力怕论坛 | https://klpbbs.com/ | 是 | 2024/02/27 | 主营基岩版的苦力怕论坛 |
 | MineBBS | https://www.minebbs.com/ | 是 | 2024/02/27 | 私人论坛，主营基岩版 |
-| Himcbbs | https://www.himcbbs.com/ | 死了 | 2024/02/27 | 私人论坛，情况不明 |
+| HiMCBBS | https://www.himcbbs.com/ | 是 | 2024/02/28 | 私人论坛，多分区，后期考虑备案 |
 | MCBBS 2ND | https://mcbbs.app/ | 半活 | 2024/02/27 | 私人论坛，加载很慢 |
 | 黑曜石论坛 | https://mcobs.xyz/ | 死了 | 2024/02/27 | 私人论坛，无法加载 |
 | PixelBBS | https://www.pixelbbs.cn/ | 是 | 2024/02/27 | 私人论坛，收费服务 |
