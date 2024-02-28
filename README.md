@@ -30,13 +30,13 @@
 | 萝卜我的世界论坛 | [https://www.luobomc.top](https://www.luobomc.top) | 死了 | 2024/02/27 | 私人论坛，无法加载 |
 | MCFUN | [https://www.mcshuo.com/](https://www.mcshuo.com/) | 是 | 2024/02/27 | 企业备案，未公安网备 |
 | CMCBBS | [https://www.cmcbbs.cn/](https://www.cmcbbs.cn/) | 是 | 2024/02/28 | 私人论坛，未备案 |
-| 小僵尸论坛 | [https://www.zitbbs.com/](https://www.zitbbs.com/) | 是 | 2024/2/28 | 私人论坛，未备案 |
-| 九域资源社区 | [https://bbs.mc9y.net/](https://bbs.mc9y.net/) | 是 | 2024/2/28 | 私人论坛，已备案 |
-| Tinksp | [https://www.tinksp.com/](https://www.tinksp.com/) | 是 | 2024/2/28 | 私人论坛，未备案 |
-| MCUTC | [https://bbs.mcutc.cn/](https://bbs.mcutc.cn/) | 是 | 2024/2/28 | 私人论坛，已备案 |
-| MCFUN | [https://www.mcshuo.com/](https://www.mcshuo.com/) | 是 | 2024/2/28 | 私人论坛，未备案 |
-| MCSBBS | [https://mcsbbs.thxymc.com/](https://mcsbbs.thxymc.com/) | 是 | 2024/2/28 | 私人论坛，已备案 |
-| MineSMSBBS | [https://bbs.minesms.lol](https://bbs.minesms.lol) | 是 | 2024/2/28 | 私人论坛，未备案 |
+| 小僵尸论坛 | [https://www.zitbbs.com/](https://www.zitbbs.com/) | 是 | 2024/02/28 | 私人论坛，未备案 |
+| 九域资源社区 | [https://bbs.mc9y.net/](https://bbs.mc9y.net/) | 是 | 2024/02/28 | 私人论坛，已备案 |
+| Tinksp | [https://www.tinksp.com/](https://www.tinksp.com/) | 是 | 2024/02/28 | 私人论坛，未备案 |
+| MCUTC | [https://bbs.mcutc.cn/](https://bbs.mcutc.cn/) | 是 | 2024/02/28 | 私人论坛，已备案 |
+| MCFUN | [https://www.mcshuo.com/](https://www.mcshuo.com/) | 是 | 2024/02/28 | 私人论坛，未备案 |
+| MCSBBS | [https://mcsbbs.thxymc.com/](https://mcsbbs.thxymc.com/) | 是 | 2024/02/28 | 私人论坛，已备案 |
+| MineSMSBBS | [https://bbs.minesms.lol](https://bbs.minesms.lol) | 是 | 2024/02/28 | 私人论坛，未备案 |
 
 ## 资料来源
 
