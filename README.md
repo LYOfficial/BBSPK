@@ -7,7 +7,7 @@
 
 表格内容均收集得来，不代表本人观点。
 
-欢迎各位在页面底部找到仓库，fork后进行增添，感谢每一位贡献者的pr！请同时填写表格和资料来源，谢谢！
+欢迎各位在页面底部找到仓库，fork后进行增添（请按照建站时间），感谢每一位贡献者的pr！请同时填写表格和资料来源，谢谢！
 
 ## 论坛列表
 
@@ -62,13 +62,10 @@
 
 - ICP/IP地址/域名信息备案管理系统<br>
   [https://beian.miit.gov.cn/](https://beian.miit.gov.cn/)
-
 - 全国互联网安全管理服务平台<br>
   [https://beian.mps.gov.cn/](https://beian.mps.gov.cn/)
-
 - 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛<br>
   [https://www.bilibili.com/video/BV1su4m1w7vH](https://www.bilibili.com/video/BV1su4m1w7vH)
-
 - 我的世界论坛 2nd已发布！欢迎各位加入我们！<br>
   [https://www.bilibili.com/video/BV1hW421A7dm](https://www.bilibili.com/video/BV1hW421A7dm)
 - 【黑曜石论坛】mcbbs关站了？我的世界黑曜石论坛欢迎您！<br>
@@ -85,10 +82,8 @@
   [https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g](https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g)
 - B站动态 900600276318158885<br>
   [https://www.bilibili.com/opus/900600276318158885](https://www.bilibili.com/opus/900600276318158885)
-
 - MineForum，一个全新的Minecraft论坛<br>
   [https://www.bilibili.com/video/BV1Hu4m1P7BY/](https://www.bilibili.com/video/BV1Hu4m1P7BY/)
-
 - Minepixel 论坛招人了！<br>
   [https://www.bilibili.com/video/BV13A4m137tZ/](https://www.bilibili.com/video/BV13A4m137tZ/)
 
