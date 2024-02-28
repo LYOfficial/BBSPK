@@ -21,12 +21,12 @@
 | 黑曜石论坛 | https://mcobs.xyz/ | 死了 | 2024/02/27 | 私人论坛，无法加载 |
 | PixelBBS | https://www.pixelbbs.cn/ | 是 | 2024/02/27 | 私人论坛，收费服务 |
 | MineTalk | https://www.minetalk.cn/ | 死了 | 2024/02/27 | 私人论坛，五百元卖数据库 |
-| MCBBS |    https://mcbbs.run/    | 是 | 2024/02/27 | 画了个圈的论坛，未公安网备 |
+| 喵呜MCBBS |    https://mcbbs.run/    | 是 | 2024/02/27 | 画了个圈的论坛，未公安网备 |
 | 小黑资源论坛 | https://www.blmcpia.com/ | 是 | 2024/02/27 | 私人论坛，未备案 |
 | 像素点之家 |   https://mcbar.club/    | 是 | 2024/02/27 | 百度minecraft吧的替代品 |
 | SimpBBS | https://www.simpbbs.com/ | 是 | 2024/02/27 | 私人论坛，未备案 |
 | MCPPS | https://mcpps.cn | 是 | 2024/02/27 | 私人论坛，已备案 |
-| MC-BBS | https://mc-bbs.net | 半死 | 2024/02/27 | 私人论坛，情况不明 |
+| MC-BBS | https://mc-bbs.net | 死了 | 2024/02/28 | 私人论坛，情况不明 |
 | 萝卜我的世界论坛 | https://www.luobomc.top | 死了 | 2024/02/27 | 私人论坛，无法加载 |
 | MCFUN | https://www.mcshuo.com/ | 是 | 2024/02/27 | 企业备案，未公安网备 |
 | CMCBBS | https://www.cmcbbs.cn/ | 是 | 2024/02/28 | 私人论坛，未备案 |
