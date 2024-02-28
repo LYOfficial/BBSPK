@@ -1,5 +1,5 @@
 # 新兴我的世界论坛晋级赛
-![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green) ![](https://img.shields.io/github/stars/LYOfficial/BBSPK)
+![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green) ![](https://img.shields.io/github/stars/LYOfficial/BBSPK)[![Page Views Count](https://badges.toozhao.com/badges/01HQQVTKDKVBPNJRYX9B8VEF3E/green.svg)](https://badges.toozhao.com/stats/01HQQVTKDKVBPNJRYX9B8VEF3E "Get your own page views count badge on badges.toozhao.com")
 
 **点击“Star”按钮来支持我们的编写。**
 
@@ -13,30 +13,30 @@
 
 | 论坛名称 | 论坛地址 | 是否存活 | 更新时间 | 备注 |
 |:----------: | :----------: | :-----------:  | :-----------:  |------------ |
-|MCBBS|https://www.mcbbs.net/|未知|2024/02/27|直属B站的我的世界中文论坛|
-| 苦力怕论坛 | https://klpbbs.com/ | 是 | 2024/02/27 | 主营基岩版的苦力怕论坛 |
-| MineBBS | https://www.minebbs.com/ | 是 | 2024/02/27 | 私人论坛，主营基岩版 |
-| HiMCBBS | https://www.himcbbs.com/ | 是 | 2024/02/28 | 私人论坛，多分区，后期考虑备案 |
-| MCBBS 2ND | https://mcbbs.app/ | 半活 | 2024/02/27 | 私人论坛，加载很慢 |
-| 黑曜石论坛 | https://mcobs.xyz/ | 死了 | 2024/02/27 | 私人论坛，无法加载 |
-| PixelBBS | https://www.pixelbbs.cn/ | 是 | 2024/02/27 | 私人论坛，收费服务 |
-| MineTalk | https://www.minetalk.cn/ | 死了 | 2024/02/27 | 私人论坛，五百元卖数据库 |
-| 喵呜MCBBS |    https://mcbbs.run/    | 是 | 2024/02/27 | 画了个圈的论坛，未公安网备 |
-| 小黑资源论坛 | https://www.blmcpia.com/ | 是 | 2024/02/27 | 私人论坛，未备案 |
-| 像素点之家 |   https://mcbar.club/    | 是 | 2024/02/27 | 百度minecraft吧的替代品 |
-| SimpBBS | https://www.simpbbs.com/ | 是 | 2024/02/27 | 私人论坛，未备案 |
-| MCPPS | https://mcpps.cn | 是 | 2024/02/27 | 私人论坛，已备案 |
-| MC-BBS | https://mc-bbs.net | 死了 | 2024/02/28 | 私人论坛，情况不明 |
-| 萝卜我的世界论坛 | https://www.luobomc.top | 死了 | 2024/02/27 | 私人论坛，无法加载 |
-| MCFUN | https://www.mcshuo.com/ | 是 | 2024/02/27 | 企业备案，未公安网备 |
-| CMCBBS | https://www.cmcbbs.cn/ | 是 | 2024/02/28 | 私人论坛，未备案 |
-| ZITBBS(小僵尸论坛) | https://www.zitbbs.com/ | 是 | 2024/2/28 | 私人论坛，未备案 |
-| 九域资源社区 | https://bbs.mc9y.net/ | 是 | 2024/2/28 | 私人论坛，已备案 |
-| Tinksp | https://www.tinksp.com/ | 是 | 2024/2/28 | 私人论坛，未备案 |
-| MCUTC | https://bbs.mcutc.cn/ | 是 | 2024/2/28 | 私人论坛，已备案 |
-| MCFUN | https://www.mcshuo.com/portal.php | 是 | 2024/2/28 | 私人论坛，未备案 |
-| MCSBBS | https://mcsbbs.thxymc.com/forum.php | 是 | 2024/2/28 | 私人论坛，已备案 |
-| MineSMSBBS | https://bbs.minesms.lol | 是 | 2024/2/28 | 私人论坛，未备案 |
+|MCBBS|[https://www.mcbbs.net/](https://www.mcbbs.net/)|未知|2024/02/27|直属B站的我的世界中文论坛|
+| 苦力怕论坛 | [https://klpbbs.com/](https://klpbbs.com/) | 是 | 2024/02/27 | 主营基岩版的苦力怕论坛 |
+| MineBBS | [https://www.minebbs.com/](https://www.minebbs.com/) | 是 | 2024/02/27 | 私人论坛，主营基岩版 |
+| HiMCBBS | [https://www.himcbbs.com/](https://www.himcbbs.com/) | 是 | 2024/02/28 | 私人论坛，多分区，后期考虑备案 |
+| MCBBS 2ND | [https://mcbbs.app/](https://mcbbs.app/) | 半活 | 2024/02/27 | 私人论坛，加载很慢 |
+| 黑曜石论坛 | [https://mcobs.xyz/](https://mcobs.xyz/) | 死了 | 2024/02/27 | 私人论坛，无法加载 |
+| PixelBBS | [https://www.pixelbbs.cn/](https://www.pixelbbs.cn/) | 是 | 2024/02/27 | 私人论坛，收费服务 |
+| MineTalk | [https://www.minetalk.cn/](https://www.minetalk.cn/) | 死了 | 2024/02/27 | 私人论坛，五百元卖数据库 |
+| 喵呜MCBBS |    [https://mcbbs.run/](https://mcbbs.run/)    | 是 | 2024/02/27 | 画了个圈的论坛，未公安网备 |
+| 小黑资源论坛 | [https://www.blmcpia.com/](https://www.blmcpia.com/) | 是 | 2024/02/27 | 私人论坛，未备案 |
+| 像素点之家 | [https://mcbar.club/](https://mcbar.club/) | 是 | 2024/02/27 | 百度minecraft吧的替代品 |
+| SimpBBS | [https://www.simpbbs.com/](https://www.simpbbs.com/) | 是 | 2024/02/27 | 私人论坛，未备案 |
+| MCPPS | [https://mcpps.cn](https://mcpps.cn) | 是 | 2024/02/27 | 私人论坛，已备案 |
+| MC-BBS | [https://mc-bbs.net](https://mc-bbs.net) | 死了 | 2024/02/28 | 私人论坛，情况不明 |
+| 萝卜我的世界论坛 | [https://www.luobomc.top](https://www.luobomc.top) | 死了 | 2024/02/27 | 私人论坛，无法加载 |
+| MCFUN | [https://www.mcshuo.com/](https://www.mcshuo.com/) | 是 | 2024/02/27 | 企业备案，未公安网备 |
+| CMCBBS | [https://www.cmcbbs.cn/](https://www.cmcbbs.cn/) | 是 | 2024/02/28 | 私人论坛，未备案 |
+| 小僵尸论坛 | [https://www.zitbbs.com/](https://www.zitbbs.com/) | 是 | 2024/2/28 | 私人论坛，未备案 |
+| 九域资源社区 | [https://bbs.mc9y.net/](https://bbs.mc9y.net/) | 是 | 2024/2/28 | 私人论坛，已备案 |
+| Tinksp | [https://www.tinksp.com/](https://www.tinksp.com/) | 是 | 2024/2/28 | 私人论坛，未备案 |
+| MCUTC | [https://bbs.mcutc.cn/](https://bbs.mcutc.cn/) | 是 | 2024/2/28 | 私人论坛，已备案 |
+| MCFUN | [https://www.mcshuo.com/](https://www.mcshuo.com/) | 是 | 2024/2/28 | 私人论坛，未备案 |
+| MCSBBS | [https://mcsbbs.thxymc.com/](https://mcsbbs.thxymc.com/) | 是 | 2024/2/28 | 私人论坛，已备案 |
+| MineSMSBBS | [https://bbs.minesms.lol](https://bbs.minesms.lol) | 是 | 2024/2/28 | 私人论坛，未备案 |
 
 ## 资料来源
 
