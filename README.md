@@ -50,6 +50,8 @@ MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！https://www.b
 
 再见Mcbbs，新生McFun https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g 
 
+B站动态 900600276318158885 https://www.bilibili.com/opus/900600276318158885
+
 
 
 ## 统计信息
