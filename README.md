@@ -29,6 +29,7 @@
 | MC-BBS | https://mc-bbs.net | 半死 | 2024/02/27 | 私人论坛，情况不明 |
 | 萝卜我的世界论坛 | https://www.luobomc.top | 死了 | 2024/02/27 | 私人论坛，无法加载 |
 | MCFUN | https://www.mcshuo.com/ | 是 | 2024/02/27 | 企业备案，未公安网备 |
+| CMCBBS | https://www.cmcbbs.cn/ | 是 | 2024/02/28 | 私人论坛，未备案 |
 
 ## 资料来源
 
