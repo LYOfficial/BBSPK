@@ -1,5 +1,5 @@
 # 新兴我的世界论坛晋级赛
-![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green) ![](https://img.shields.io/github/stars/LYOfficial/BBSPK)
+![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green) ![](https://img.shields.io/github/stars/LYOfficial/BBSPK)[![Page Views Count](https://badges.toozhao.com/badges/01HQQVTKDKVBPNJRYX9B8VEF3E/green.svg)](https://badges.toozhao.com/stats/01HQQVTKDKVBPNJRYX9B8VEF3E "Get your own page views count badge on badges.toozhao.com")
 
 **点击“Star”按钮来支持我们的编写。**
 
@@ -10,6 +10,7 @@
 欢迎各位在页面底部找到仓库，fork后进行增添，感谢每一位贡献者的pr！请同时填写表格和资料来源，谢谢！
 
 ## 论坛列表
+
 ### 晋级赛选手
 
 | 论坛名称 | 论坛地址 | 是否存活 | 创建时间 | 更新时间 | 备注 |
@@ -41,6 +42,7 @@
 | 回来吧MCBBS | http://mcbbs.win/ | 2024/02/28 |  |
 | Minecraft中文综合交流站 | http://mcforum.wikidot.com/ | 2024/02/28 | 基于 WikiDot 建立 | 
 
+
 ## 资料来源
 
 - 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛<br>
@@ -67,4 +69,5 @@
 ## 统计信息
 
 ### Stargazers over time
-[![Stargazers over time](https://starchart.cc/LYOfficial/BBSPK.svg)](https://starchart.cc/LYOfficial/MinecraftPlayGuide)
+
+[![Stargazers over time](https://starchart.cc/LYOfficial/BBSPK.svg?variant=adaptive)](https://starchart.cc/LYOfficial/BBSPK)
