@@ -34,9 +34,9 @@
 | PiboPibo | [https://www.pibopibo.com/](https://www.pibopibo.com/) | 是 | 2023/01/29 | 2024/02/29 | 无 | 非大陆服务器 |
 | Tinksp | [https://www.tinksp.com/](https://www.tinksp.com/) | 是 | 2023/02/25 | 2024/02/29 | 无 | 非大陆服务器 |
 | MCFUN | [https://www.mcshuo.com/](https://www.mcshuo.com/) | 是 | 2023/04/18 | 2024/02/29 | 仅ICP |  |
+| MCUTC | [https://bbs.mcutc.cn/](https://bbs.mcutc.cn/) | 是 | 2023/06/17 | 2024/02/29 | 无 | 非大陆服务器，有备案号，但无法查询，备案主体已注销 |
 | 末影论坛 | [https://enderbbs.wavemoe.com/](https://enderbbs.wavemoe.com/) | 是 | 2023/08/28 | 2024/02/29 | 无 | 非大陆服务器 |
 | ikunmc | [https://ikunmc.com/](https://ikunmc.com/) | 是 | 2023/10/28 | 2024/02/29 | 仅ICP | 非大陆 |
-| MCUTC | [https://bbs.mcutc.cn/](https://bbs.mcutc.cn/) | 是 | 2023/06/17 | 2024/02/29 | 无 | 非大陆服务器，有备案号，但无法查询，备案主体已注销 |
 | SimpBBS | [https://www.simpbbs.com/](https://www.simpbbs.com/) | 是 | 2023/10/28 | 2024/02/29 | 无 | 非大陆服务器 |
 | MinePixel | [https://minepixel.flarum.cloud/](https://minepixel.flarum.cloud/) | 是 | 2024/01/12 | 2024/02/29 | 无 | 非大陆服务器，使用FreeFlarum |
 | HiMCBBS | [https://www.himcbbs.com/](https://www.himcbbs.com/) | 是 | 2024/01/28 | 2024/02/29 | 无 | 非大陆服务器 |
