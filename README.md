@@ -34,7 +34,7 @@
 | CMCBBS | [https://www.cmcbbs.cn/](https://www.cmcbbs.cn/) | 是 | 2024/02/20 | 2024/02/28 | 私人论坛，未备案 |
 | 黑曜石论坛 | [https://mcobs.fun/](https://mcobs.fun/) | 是 | 2024/02/24 | 2024/02/28 | 私人论坛，未备案 |
 | MCBBS 2ND | [https://mcbbs.app/](https://mcbbs.app/) | 半活 | 2024/02/28 | 2024/02/27 | 私人论坛，加载很慢 |
-| MineTalk | [https://www.minetalk.cn/](https://www.minetalk.cn/) | 死了 | 未知 | 2024/02/27 | 私人论坛，五百元卖数据库 |
+| MineTalk | [https://www.minetalk.cn/](https://www.minetalk.cn/)  [https://www.minebox.store/](https://www.minebox.store/)| 半活| 未知 | 2024/02/27 | 私人论坛，五百元卖数据库 |
 | 萝卜我的世界论坛 | [https://www.luobomc.top](https://www.luobomc.top) | 死了 | 未知 | 2024/02/27 | 私人论坛，无法加载 |
 | MC-BBS | [https://mc-bbs.net](https://mc-bbs.net) | 半死 | 未知 | 2024/02/27 | 私人论坛，情况不明 |
 
