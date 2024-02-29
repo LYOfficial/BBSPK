@@ -36,10 +36,10 @@
 | MCFUN | [https://www.mcshuo.com/](https://www.mcshuo.com/) | 是 | 2023/04/18 | 2024/02/29 | 仅ICP |  |
 | MCUTC | [https://bbs.mcutc.cn/](https://bbs.mcutc.cn/) | 是 | 2023/06/17 | 2024/02/29 | 无 | 非大陆服务器，有备案号，但无法查询，备案主体已注销 |
 | 末影论坛 | [https://enderbbs.wavemoe.com/](https://enderbbs.wavemoe.com/) | 是 | 2023/08/28 | 2024/02/29 | 无 | 非大陆服务器 |
-| ikunmc | [https://ikunmc.com/](https://ikunmc.com/) | 是 | 2023/10/28 | 2024/02/29 | 仅ICP | 非大陆 |
+| ikunmc | [https://ikunmc.com/](https://ikunmc.com/) | 是 | 2023/10/28 | 2024/02/29 | 仅ICP | 非大陆服务器 |
 | SimpBBS | [https://www.simpbbs.com/](https://www.simpbbs.com/) | 是 | 2023/10/28 | 2024/02/29 | 无 | 非大陆服务器 |
 | MinePixel | [https://minepixel.flarum.cloud/](https://minepixel.flarum.cloud/) | 是 | 2024/01/12 | 2024/02/29 | 无 | 非大陆服务器，使用FreeFlarum |
-| HiMCBBS | [https://www.himcbbs.com/](https://www.himcbbs.com/) | 是 | 2024/01/28 | 2024/02/29 | 无 | 非大陆服务器 |
+| HiMCBBS | [https://www.himcbbs.com/](https://www.himcbbs.com/) | 是 | 2024/01/28 | 2024/02/29 | 无 | 非大陆服务器，主营Java版 |
 | 方块社区 | [https://www.mineforum.cn/](https://www.mineforum.cn/) | 是 | 2024/02/10 | 2024/02/29 | 无 | 非大陆服务器 |
 | MineSMS | [https://bbs.minesms.lol/](https://bbs.minesms.lol/) | 是 | 2024/02/11 | 2024/02/29 | 无 | 非大陆服务器 |
 | MineTalk | [https://www.minetalk.cn/](https://www.minetalk.cn/) | 半活 | 2024/02/12 | 2024/02/29 | 正在ICP备案 | [临时链接](https://www.minebox.store/)，非大陆服务器，五百元卖数据库 |
@@ -48,7 +48,7 @@
 | MineFriend | [http://ivp92c.cloud/](http://ivp92c.cloud/) | 未知 | 2024/02/20 | 2024/02/29 | 无 | 非大陆服务器，原名SC论坛 |
 | 大家的世界 | [https://bbs.mclqj.site/](https://bbs.mclqj.site/) | 是 | 2024/02/22 | 2024/02/29 | 无 | 非大陆服务器 |
 | 黑曜石论坛 | [https://mcobs.fun/](https://mcobs.fun/) | 是 | 2024/02/24 | 2024/02/29 | 无 | 非大陆服务器 |
-| MCBBS 2ND | [https://mcbbs.app/](https://mcbbs.app/) | 半活 | 2024/02/25 | 2024/02/29 | 无 | 非大陆服务器，加载很慢 |
+| MCBBS 2ND | [https://mcbbs.app/](https://mcbbs.app/) | 死了 | 2024/02/25 | 2024/02/29 | 无 | 非大陆服务器，CF 524报错 |
 | MC-BBS | [https://mc-bbs.net](https://mc-bbs.net) | 半活 | 未知 | 2024/02/29 | 无 | 非大陆服务器，情况不明 |
 | 青草原MC社区 | [https://qcymc.top](https://qcymc.top) | 是 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
 
