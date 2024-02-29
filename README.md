@@ -48,7 +48,7 @@
 | MineFriend | [http://ivp92c.cloud/](http://ivp92c.cloud/) | 未知 | 2024/02/20 | 2024/02/29 | 无 | 非大陆服务器，原名SC论坛 |
 | 大家的世界 | [https://bbs.mclqj.site/](https://bbs.mclqj.site/) | 是 | 2024/02/22 | 2024/02/29 | 无 | 非大陆服务器 |
 | 黑曜石论坛 | [https://mcobs.fun/](https://mcobs.fun/) | 是 | 2024/02/24 | 2024/02/29 | 无 | 非大陆服务器 |
-| MCBBS 2ND | [https://mcbbs.app/](https://mcbbs.app/) | 死了 | 2024/02/25 | 2024/02/29 | 无 | 非大陆服务器，CF 524报错 |
+| MCBBS 2ND | [https://mcbbs.app/](https://mcbbs.app/) | 是 | 2024/02/25 | 2024/02/29 | 无 | 非大陆服务器 |
 | MC-BBS | [https://mc-bbs.net](https://mc-bbs.net) | 半活 | 未知 | 2024/02/29 | 无 | 非大陆服务器，情况不明 |
 | 青草原MC社区 | [https://qcymc.top](https://qcymc.top) | 是 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
 
