@@ -19,11 +19,11 @@
 |:----------: | :----------: | :-----------: | :-----------: | :-----------: | :-----------: | ------------ |
 | MCBBS | [https://www.mcbbs.net/](https://www.mcbbs.net/) | 未知 | 2010/10/30 | 2024/02/29 | 有 | 直属B站的我的世界中文论坛 |
 | 网易我的世界论坛 | [https://mc.netease.com/](https://mc.netease.com/) | 是 | 2016/09/20 | 2024/02/29 | 有 | 网易论坛 |
-| MineBBS | [https://www.minebbs.com/](https://www.minebbs.com/) | 是 | 2018/03/16 | 2024/02/29 | 仅ICP | 主营基岩版，于新年期间重启Java版 |
+| MineBBS | [https://www.minebbs.com/](https://www.minebbs.com/) | 是 | 2018/03/16 | 2024/02/29 | 仅ICP | 主营基岩版，含有Java版 |
 | 九域资源社区 | [https://bbs.mc9y.net/](https://bbs.mc9y.net/) | 是 | 2019/01/07 | 2024/02/29 | 仅ICP |  |
-| 苦力怕论坛 | [https://klpbbs.com/](https://klpbbs.com/) | 是 | 2019/05/01 | 2024/02/29 | 有 | 重建过，主营基岩版 |
+| 苦力怕论坛 | [https://klpbbs.com/](https://klpbbs.com/) | 是 | 2019/05/01 | 2024/02/29 | 有 | 主营基岩版，含有Java版 |
 | 像素点之家 |   [https://mcbar.club/](https://mcbar.club/) | 是 | 2019/07/14 | 2024/02/29 | 无 | 非大陆服务器，百度minecraft吧的替代品 |
-| 小黑资源论坛 | [https://www.blmcpia.com/](https://www.blmcpia.com/) | 是 | 2020/10/11 | 2024/02/29 | 无 | 非大陆服务器 |
+| 小黑资源论坛 | [https://www.blmcpia.com/](https://www.blmcpia.com/) | 是 | 2019/10/04 | 2024/02/29 | 无 | 非大陆服务器，主营基岩版 |
 | 像素工坊 | [https://www.pixelecraft.com/](https://www.pixelecraft.com/) | 是 | 2021/01/09 | 2024/02/29 | 有 |  |
 | 小僵尸论坛 | [https://www.zitbbs.com/](https://www.zitbbs.com/) | 是 | 2021/07/20 | 2024/02/29 | 仅ICP |  |
 | MCPPS | [https://mcpps.cn](https://mcpps.cn) | 是 | 2022/02/04 | 2024/02/29 | 有 |  |
@@ -57,7 +57,7 @@
 | 网站名称 | 网站地址 | 更新时间 | 备注 |
 |:----------: | :----------: | :-----------:  |------------ |
 | 新兴我的世界论坛晋级赛 | https://mcbbs.rip/ | 2024/02/29 | 本项目 |
-| 回来吧MCBBS | http://mcbbs.win/ | 2024/02/29 |  |
+| 回来吧MCBBS | http://mcbbs.win/ | 2024/02/29 | 真诚祷告 |
 | Minecraft中文综合交流站 | http://mcforum.wikidot.com/ | 2024/02/29 | 基于 WikiDot 建立 | 
 
 ## 资料来源
