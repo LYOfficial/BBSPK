@@ -61,6 +61,7 @@
 | 回来吧MCBBS | [http://mcbbs.win/](http://mcbbs.win/) | 2024/02/29 | 真诚祷告 |
 | 这里**不是**MCBBS | [https://mcbbs.wang/](https://mcbbs.wang/) | 2024/03/01 | 这里不是MCBBS |
 | Minecraft中文综合交流站 | [http://mcforum.wikidot.com/](http://mcforum.wikidot.com/) | 2024/02/29 | 基于 WikiDot 建立 |
+| 坛破山河在，坟头草木深 | [https://mcbbs.homes/](https://mcbbs.homes/) | 2024/03/01 | 回来吧MCBBS，千万创作者的精神故乡！ |
 
 ## 资料来源
 
