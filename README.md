@@ -103,6 +103,11 @@
 - Minepixel 论坛招人了！<br>
   [https://www.bilibili.com/video/BV13A4m137tZ/](https://www.bilibili.com/video/BV13A4m137tZ/)
 
+
+## 贡献者
+
+[![Contrib](https://contrib.rocks/image?repo=LYOfficial/BBSPK)](https://github.com/LYOfficial/BBSPK/graphs/contributors)
+
 ## 统计信息
 
 ### Stargazers over time
