@@ -59,7 +59,7 @@
 |:----------: | :----------: | :-----------:  |------------ |
 | 新兴我的世界论坛晋级赛 | [https://mcbbs.rip/](https://mcbbs.rip/) | 2024/02/29 | 本项目 |
 | 回来吧MCBBS | [http://mcbbs.win/](http://mcbbs.win/) | 2024/02/29 | 真诚祷告 |
-| 这里**不是**MCBBS | https://mcbbs.wang/ | 2024/03/01 | 这里不是MCBBS |
+| 这里**不是**MCBBS | [https://mcbbs.wang/](https://mcbbs.wang/) | 2024/03/01 | 这里不是MCBBS |
 | Minecraft中文综合交流站 | [http://mcforum.wikidot.com/](http://mcforum.wikidot.com/) | 2024/02/29 | 基于 WikiDot 建立 |
 
 ## 资料来源
