@@ -14,6 +14,7 @@
 ### 晋级赛选手
 
 目前登记在册选手 33 位
+既然是中文论坛，即按照国内是否可以正常访问来确定是否存活，存活情况仅体现更新时状态，请以实际情况为准，欢迎提交pr更新状态！
 
 | 论坛名称 | 论坛地址 | 是否存活 | 创建时间 | 更新时间 | 备案情况 | 备注 |
 |:----------: | :----------: | :-----------: | :-----------: | :-----------: | :-----------: | ------------ |
@@ -45,11 +46,11 @@
 | MineTalk | [https://www.minetalk.cn/](https://www.minetalk.cn/) | 半活 | 2024/02/12 | 2024/02/29 | 正在ICP备案 | [临时链接](https://www.minebox.store/)，非大陆服务器，五百元卖数据库 |
 | 喵呜MCBBS | [https://mcbbs.run/](https://mcbbs.run/) | 是 | 2024/02/13 | 2024/02/29 | 仅ICP | 画了个圈的论坛 |
 | CMCBBS | [https://www.cmcbbs.cn/](https://www.cmcbbs.cn/) | 是 | 2024/02/20 | 2024/02/29 | 无 | 非大陆服务器 |
-| MineFriend | [http://ivp92c.cloud/](http://ivp92c.cloud/) | 未知 | 2024/02/20 | 2024/02/29 | 无 | 非大陆服务器，原名SC论坛 |
+| MineFriend | [http://ivp92c.cloud/](http://ivp92c.cloud/) | 死了 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，原名SC论坛 |
 | 大家的世界 | [https://bbs.mclqj.site/](https://bbs.mclqj.site/) | 是 | 2024/02/22 | 2024/02/29 | 无 | 非大陆服务器 |
 | 黑曜石论坛 | [https://mcobs.fun/](https://mcobs.fun/) | 是 | 2024/02/24 | 2024/02/29 | 无 | 非大陆服务器 |
 | MCBBS 2ND | [https://mcbbs.app/](https://mcbbs.app/) | 是 | 2024/02/25 | 2024/02/29 | 无 | 非大陆服务器 |
-| MC-BBS | [https://mc-bbs.net](https://mc-bbs.net) | 半活 | 未知 | 2024/02/29 | 无 | 非大陆服务器，情况不明 |
+| MC-BBS | [https://mc-bbs.net](https://mc-bbs.net) | 死了 | 未知 | 2024/03/02 | 无 | 非大陆服务器，情况不明 |
 | 青草原MC社区 | [https://qcymc.top](https://qcymc.top) | 是 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
 
 ### 表演赛选手
