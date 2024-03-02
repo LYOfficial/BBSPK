@@ -59,11 +59,11 @@
 | 网站名称 | 网站地址 | 更新时间 | 备注 |
 |:----------: | :----------: | :-----------:  |------------ |
 | 新兴我的世界论坛晋级赛 | [https://mcbbs.rip/](https://mcbbs.rip/) | 2024/02/29 | 本项目 |
-| 回来吧MCBBS | [http://mcbbs.win/](http://mcbbs.win/) | 2024/02/29 | 真诚祷告 |
-| 这里**不是**MCBBS | [https://mcbbs.wang/](https://mcbbs.wang/) | 2024/03/01 | 这里不是MCBBS |
+| 回来吧MCBBS | [http://mcbbs.win/](http://mcbbs.win/)（[存档](https://web.archive.org/web/20240302042136/http://mcbbs.win/)） | 2024/02/29 | 真诚祷告 |
+| 这里**不是**MCBBS | [https://mcbbs.wang/](https://mcbbs.wang/)（[存档](https://web.archive.org/web/20240301071710/https://www.mcbbs.wang/)） | 2024/03/01 | 这里不是MCBBS |
 | Minecraft中文综合交流站 | [http://mcforum.wikidot.com/](http://mcforum.wikidot.com/) | 2024/02/29 | 基于 WikiDot 建立 |
-| 坛破山河在，坟头草木深 | [https://mcbbs.homes/](https://mcbbs.homes/) | 2024/03/01 | 回来吧MCBBS，千万创作者的精神故乡！ |
-| 您今天 MCBBS 了吗？ | [https://mcbbs.today/](https://mcbbs.today/) | 2024/03/02 | 如果您今天还没有 MCBBS，那就来看看专为您提供的解决方案吧！ :arrow_down: |
+| 坛破山河在，坟头草木深 | [https://mcbbs.homes/](https://mcbbs.homes/)（[存档](https://web.archive.org/web/20240302042152/https://mcbbs.homes/)） | 2024/03/01 | 回来吧MCBBS，千万创作者的精神故乡！ |
+| 您今天 MCBBS 了吗？ | [https://mcbbs.today/](https://mcbbs.today/)（[存档](https://web.archive.org/web/20240302042305/https://mcbbs.today/)） | 2024/03/02 | 如果您今天还没有 MCBBS，那就来看看专为您提供的解决方案吧！ :arrow_down: |
 | 一站式 MCBBS 解决方案 | [https://mcbbs.solutions/](https://mcbbs.solutions/) | 2024/03/02 | :arrow_up: 专为您打造的一站式回忆 MCBBS 解决方案，但解决不了一点。 |
 
 ## 资料来源
