@@ -7,13 +7,13 @@
 
 表格内容均收集得来，不代表本人观点。
 
-欢迎各位在页面底部找到仓库，fork后进行增添（请按照建站时间），感谢每一位贡献者的pr！请同时填写表格和资料来源，谢谢！
+欢迎各位对此项目做出贡献！教程可在此页面底部查看，Fork后进行增添 **（请自觉按照建站时间排序）** ，感谢每一位贡献者的pr！如果有宣传来源，请在下方添加【资料来源】，谢谢！
 
 ## 论坛列表
 
 ### 晋级赛选手
 
-目前登记在册选手 33 位
+目前登记在册选手 35 位（计算公式：尾行数-21+1）
 既然是中文论坛，即按照国内是否可以正常访问来确定是否存活，存活情况仅体现更新时状态，请以实际情况为准，欢迎提交pr更新状态！
 
 | 论坛名称 | 论坛地址 | 是否存活 | 创建时间 | 更新时间 | 备案情况 | 备注 |
@@ -31,6 +31,7 @@
 | PixelBBS | [https://www.pixelbbs.cn/](https://www.pixelbbs.cn/) | 是 | 2022/08/12 | 2024/02/29 | 仅ICP | 收费服务 |
 | 萝卜我的世界论坛 | [https://www.luobomc.top](https://www.luobomc.top) | 半活 | 2022/08/28 | 2024/02/29 | 无 | 非大陆服务器，无法加载 |
 | MCSBBS | [https://mcsbbs.thxymc.com/](https://mcsbbs.thxymc.com/) | 是 | 2022/09/12 | 2024/02/29 | 仅ICP |  |
+| MCMXY | [https://www.mcmxy.cn/](https://www.mcmxy.cn/) | 是 | 2022/11/10 | 2024/03/02 | 仅ICP | 主营Java版，无基岩版 |
 | SarBBS | [https://forum.sarskin.cn/](https://forum.sarskin.cn/) | 是 | 2023/01/05 | 2024/02/29 | 无 | 非大陆服务器 |
 | PiboPibo | [https://www.pibopibo.com/](https://www.pibopibo.com/) | 是 | 2023/01/29 | 2024/02/29 | 无 | 非大陆服务器 |
 | Tinksp | [https://www.tinksp.com/](https://www.tinksp.com/) | 是 | 2023/02/25 | 2024/02/29 | 无 | 非大陆服务器 |
@@ -74,8 +75,8 @@
 - 全国互联网安全管理服务平台<br>
   [https://beian.mps.gov.cn/](https://beian.mps.gov.cn/)
 
-- 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛<br>
-  [https://www.bilibili.com/video/BV1su4m1w7vH](https://www.bilibili.com/video/BV1su4m1w7vH)
+- 我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~<br>
+  [https://www.bilibili.com/video/BV1n2421M7yt/](https://www.bilibili.com/video/BV1n2421M7yt/)
 
 - 我的世界论坛 2nd已发布！欢迎各位加入我们！<br>
   [https://www.bilibili.com/video/BV1hW421A7dm](https://www.bilibili.com/video/BV1hW421A7dm)
@@ -112,8 +113,17 @@
 
 [![Contrib](https://contrib.rocks/image?repo=LYOfficial/BBSPK)](https://github.com/LYOfficial/BBSPK/graphs/contributors)
 
+[![Stargazers over time](https://starchart.cc/LYOfficial/BBSPK.svg?variant=adaptive)](https://starchart.cc/LYOfficial/BBSPK)
+
+## 贡献教程
+
+**您需要拥有一个GitHub账号！**
+1.[点击这里Fork此仓库](https://github.com/LYOfficial/BBSPK/fork)
+2.在Fork的仓库内进行修改
+3.点击顶部的【Pull requests】，右上角【New pull request】
+4.填写标题和说明，比如您做了什么修改
+5.等待此项目所有者[@LYOfficial](https://github.com/LYOfficial)通过审核
+
 ## 统计信息
 
 ### Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/LYOfficial/BBSPK.svg?variant=adaptive)](https://starchart.cc/LYOfficial/BBSPK)
