@@ -49,7 +49,7 @@
 | 喵呜MCBBS | [mcbbs.run](https://mcbbs.run) | 是 | 2024/02/13 | 2024/02/29 | 仅ICP | 画了个圈的论坛 |
 | CMCBBS | [www.cmcbbs.cn](https://www.cmcbbs.cn) | 是 | 2024/02/20 | 2024/02/29 | 无 | 非大陆服务器 | [[8]] |
 | MineFriend | [ivp92c.cloud](http://ivp92c.cloud) | 死了 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，原名SC论坛 |
-| PRT社区平台 | [http://mcprt.cn](http://mcprt.cn) | 是 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，主营光影材质包 |
+| PRT社区平台 | [mcprt.cn](https://mcprt.cn) | 是 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，主营光影材质包 |
 | 大家的世界 | [bbs.mclqj.site](https://bbs.mclqj.site) | 是 | 2024/02/22 | 2024/02/29 | 无 | 非大陆服务器 |
 | 黑曜石论坛 | [mcobs.fun](https://mcobs.fun) | 是 | 2024/02/24 | 2024/02/29 | 无 | 非大陆服务器 | [[3]] |
 | MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 是 | 2024/02/25 | 2024/02/29 | 无 | 非大陆服务器 | [[2]] |
