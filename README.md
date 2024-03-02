@@ -76,43 +76,43 @@
 
   [beian.mps.gov.cn](https://beian.mps.gov.cn)
 
-- 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛
+1. [1]这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛
 
   [1]: https://web.archive.org/web/20240228161444/https://www.bilibili.com/video/BV1su4m1w7vH
 
-- MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！
+2. [2]MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！
 
   [2]: https://www.bilibili.com/video/BV1hW421A7dm
 
-- 【黑曜石论坛】mcbbs关站了？我的世界黑曜石论坛欢迎您！
+3. [3]【黑曜石论坛】mcbbs关站了？我的世界黑曜石论坛欢迎您！
 
   [3]: https://www.bilibili.com/video/BV1wm411f7W4
 
-- 求求你，让我成为你的下一个mcbbs平替论坛 
+4. [4]求求你，让我成为你的下一个mcbbs平替论坛
 
   [4]: https://www.bilibili.com/video/BV1Hr421s7DK
 
-- 我的世界中文论坛BBS关停，你们要的新论坛来啦 
+5. [5]我的世界中文论坛BBS关停，你们要的新论坛来啦
 
   [5]: https://www.bilibili.com/video/BV1uA4m1G7KL
 
-- 我做了个Minecraft论坛？比MCBBS使用简单？ —MC萝卜论坛！
+6. [6]我做了个Minecraft论坛？比MCBBS使用简单？ —MC萝卜论坛！
 
   [6]: https://www.bilibili.com/video/BV1bG411G7Pk
 
-- 再见Mcbbs，新生McFun
+7. [7]再见Mcbbs，新生McFun
 
   [7]: https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g
 
-- [@你的小蕉呀](https://space.bilibili.com/436928745)的B站动态
+8. [8][@你的小蕉呀](https://space.bilibili.com/436928745)的B站动态
 
   [8]: [www.bilibili.com/opus/900600276318158885](https://www.bilibili.com/opus/900600276318158885)
 
-- MineForum，一个全新的Minecraft论坛
+9. [9]MineForum，一个全新的Minecraft论坛
 
   [9]: https://www.bilibili.com/video/BV1Hu4m1P7BY
-  
-- Minepixel 论坛招人了！
+
+10. [10]Minepixel 论坛招人了！
 
   [10]: https://www.bilibili.com/video/BV13A4m137tZ
 
