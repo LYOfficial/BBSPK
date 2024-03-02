@@ -21,20 +21,20 @@
 | MCBBS | [www.mcbbs.net](https://www.mcbbs.net/) | 未知 | 2010/10/30 | 2024/02/29 | 有 | 直属B站的我的世界中文论坛 |
 | 网易我的世界论坛 | [mc.netease.com](https://mc.netease.com/) | 是 | 2016/09/20 | 2024/02/29 | 有 | 网易论坛 |
 | MineBBS | [www.minebbs.com](https://www.minebbs.com/) | 是 | 2018/03/16 | 2024/02/29 | 仅ICP | 主营基岩版，含有Java版 |
-| 九域资源社区 | [bbs.mc9y.net](https://bbs.mc9y.net/) | 是 | 2019/01/07 | 2024/02/29 | 仅ICP |  |
-| 像素点之家 |   [mcbar.club](https://mcbar.club/) | 是 | 2019/07/14 | 2024/02/29 | 无 | 非大陆服务器，百度minecraft吧的替代品 |
+| 九域资源社区 | [bbs.mc9y.net](https://bbs.mc9y.net/) | 是 | 2019/01/07 | 2024/02/29 | 仅ICP | |
+| 像素点之家 | [mcbar.club](https://mcbar.club/) | 是 | 2019/07/14 | 2024/02/29 | 无 | 非大陆服务器，百度minecraft吧的替代品 |
 | 小黑资源论坛 | [www.blmcpia.com](https://www.blmcpia.com/) | 是 | 2019/10/04 | 2024/02/29 | 无 | 非大陆服务器，主营基岩版 |
 | 苦力怕论坛 | [klpbbs.com](https://klpbbs.com/) | 是 | 2020/03/01 | 2024/03/01 | 有 | 主营基岩版，含有Java版 |
-| 像素工坊 | [www.pixelecraft.com](https://www.pixelecraft.com/) | 是 | 2021/01/09 | 2024/02/29 | 有 |  |
-| 小僵尸论坛 | [www.zitbbs.com](https://www.zitbbs.com/) | 是 | 2021/07/20 | 2024/02/29 | 仅ICP |  |
-| MCPPS | [mcpps.cn](https://mcpps.cn) | 是 | 2022/02/04 | 2024/02/29 | 有 |  |
+| 像素工坊 | [www.pixelecraft.com](https://www.pixelecraft.com/) | 是 | 2021/01/09 | 2024/02/29 | 有 | |
+| 小僵尸论坛 | [www.zitbbs.com](https://www.zitbbs.com/) | 是 | 2021/07/20 | 2024/02/29 | 仅ICP | |
+| MCPPS | [mcpps.cn](https://mcpps.cn) | 是 | 2022/02/04 | 2024/02/29 | 有 | |
 | PixelBBS | [www.pixelbbs.cn](https://www.pixelbbs.cn/) | 是 | 2022/08/12 | 2024/02/29 | 仅ICP | 收费服务 |
 | 萝卜我的世界论坛 | [www.luobomc.top](https://www.luobomc.top) | 半活 | 2022/08/28 | 2024/02/29 | 无 | 非大陆服务器，无法加载 |
-| MCSBBS | [mcsbbs.thxymc.com](https://mcsbbs.thxymc.com/) | 是 | 2022/09/12 | 2024/02/29 | 仅ICP |  |
+| MCSBBS | [mcsbbs.thxymc.com](https://mcsbbs.thxymc.com/) | 是 | 2022/09/12 | 2024/02/29 | 仅ICP | |
 | SarBBS | [forum.sarskin.cn](https://forum.sarskin.cn/) | 是 | 2023/01/05 | 2024/02/29 | 无 | 非大陆服务器 |
 | PiboPibo | [www.pibopibo.com](https://www.pibopibo.com/) | 是 | 2023/01/29 | 2024/02/29 | 无 | 非大陆服务器 |
 | Tinksp | [www.tinksp.com](https://www.tinksp.com/) | 是 | 2023/02/25 | 2024/02/29 | 无 | 非大陆服务器 |
-| MCFUN | [www.mcshuo.com](https://www.mcshuo.com/) | 是 | 2023/04/18 | 2024/02/29 | 仅ICP |  |
+| MCFUN | [www.mcshuo.com](https://www.mcshuo.com/) | 是 | 2023/04/18 | 2024/02/29 | 仅ICP | |
 | MCUTC | [bbs.mcutc.cn](https://bbs.mcutc.cn/) | 是 | 2023/06/17 | 2024/02/29 | 无 | 非大陆服务器，有备案号，但无法查询，备案主体已注销 |
 | 末影论坛 | [enderbbs.wavemoe.com](https://enderbbs.wavemoe.com/) | 是 | 2023/08/28 | 2024/02/29 | 无 | 非大陆服务器 |
 | ikunmc | [ikunmc.com](https://ikunmc.com/) | 是 | 2023/10/28 | 2024/02/29 | 仅ICP | 非大陆服务器 |
