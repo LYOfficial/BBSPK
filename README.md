@@ -75,34 +75,34 @@
   [beian.mps.gov.cn](https://beian.mps.gov.cn)
 
 - 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛<br>
-  [1]: [BV1su4m1w7vH](https://web.archive.org/web/20240228161444/https://www.bilibili.com/video/BV1su4m1w7vH)
+  [1]: https://web.archive.org/web/20240228161444/https://www.bilibili.com/video/BV1su4m1w7vH
 
 - MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！<br>
-  [2]: [BV1hW421A7dm](https://www.bilibili.com/video/BV1hW421A7dm)
+  [2]: https://www.bilibili.com/video/BV1hW421A7dm
 
 - 【黑曜石论坛】mcbbs关站了？我的世界黑曜石论坛欢迎您！<br>
-  [3]: [BV1wm411f7W4](https://www.bilibili.com/video/BV1wm411f7W4)
+  [3]: https://www.bilibili.com/video/BV1wm411f7W4
 
 - 求求你，让我成为你的下一个mcbbs平替论坛 <br>
-  [4]: [BV1Hr421s7DK](https://www.bilibili.com/video/BV1Hr421s7DK)
+  [4]: https://www.bilibili.com/video/BV1Hr421s7DK
 
 - 我的世界中文论坛BBS关停，你们要的新论坛来啦 <br>
-  [5]: [BV1uA4m1G7KL](https://www.bilibili.com/video/BV1uA4m1G7KL)
+  [5]: https://www.bilibili.com/video/BV1uA4m1G7KL
 
 - 我做了个Minecraft论坛？比MCBBS使用简单？ —MC萝卜论坛！<br>
-  [6]: [BV1bG411G7Pk](https://www.bilibili.com/video/BV1bG411G7Pk)
+  [6]: https://www.bilibili.com/video/BV1bG411G7Pk
 
 - 再见Mcbbs，新生McFun<br>
-  [7]: [mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g](https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g)
+  [7]: https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g
 
 - [@你的小蕉呀](https://space.bilibili.com/436928745)的B站动态<br>
-  [8]: [www.bilibili.com/opus/900600276318158885](https://www.bilibili.com/opus/900600276318158885)
+  [8]: https://www.bilibili.com/opus/900600276318158885
 
 - MineForum，一个全新的Minecraft论坛<br>
-  [9]: [BV1Hu4m1P7BY](https://www.bilibili.com/video/BV1Hu4m1P7BY)
+  [9]: https://www.bilibili.com/video/BV1Hu4m1P7BY
   
 - Minepixel 论坛招人了！<br>
-  [10]: [BV13A4m137tZ](https://www.bilibili.com/video/BV13A4m137tZ)
+  [10]: https://www.bilibili.com/video/BV13A4m137tZ
 
 ## 贡献者
 
