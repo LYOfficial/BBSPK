@@ -21,40 +21,40 @@
 | 论坛名称 | 论坛地址 | 是否存活 | 创建时间 | 更新时间 | 备案情况 | 备注 | 参考 |
 |-|-|-|-|-|-|-|-|
 | MCBBS | [www.mcbbs.net](https://www.mcbbs.net) | 未知 | 2010/10/30 | 2024/02/29 | 有 | 直属B站的我的世界中文论坛 |
-| 网易我的世界论坛 | [mc.netease.com](https://mc.netease.com) | 是 | 2016/09/20 | 2024/02/29 | 有 | 网易论坛 |
-| MineBBS | [www.minebbs.com](https://www.minebbs.com) | 是 | 2018/03/16 | 2024/02/29 | 仅ICP | 主营基岩版，含有Java版 |
-| 九域资源社区 | [bbs.mc9y.net](https://bbs.mc9y.net) | 是 | 2019/01/07 | 2024/02/29 | 仅ICP | |
-| 像素点之家 | [mcbar.club](https://mcbar.club) | 是 | 2019/07/14 | 2024/02/29 | 无 | 非大陆服务器，百度minecraft吧的替代品 |
-| 小黑资源论坛 | [www.blmcpia.com](https://www.blmcpia.com) | 是 | 2019/10/04 | 2024/02/29 | 无 | 非大陆服务器，主营基岩版 |
-| 苦力怕论坛 | [klpbbs.com](https://klpbbs.com) | 是 | 2020/03/01 | 2024/03/01 | 有 | 主营基岩版，含有Java版 |
-| 像素工坊 | [www.pixelecraft.com](https://www.pixelecraft.com) | 是 | 2021/01/09 | 2024/02/29 | 有 | |
-| 小僵尸论坛 | [www.zitbbs.com](https://www.zitbbs.com) | 是 | 2021/07/20 | 2024/02/29 | 仅ICP | |
-| MCPPS | [mcpps.cn](https://mcpps.cn) | 是 | 2022/02/04 | 2024/02/29 | 有 | |
-| PixelBBS | [www.pixelbbs.cn](https://www.pixelbbs.cn) | 是 | 2022/08/12 | 2024/02/29 | 仅ICP | 收费服务 | [[4]] |
+| 网易我的世界论坛 | [mc.netease.com](https://mc.netease.com) | 存活 | 2016/09/20 | 2024/02/29 | 有 | 网易论坛 |
+| MineBBS | [www.minebbs.com](https://www.minebbs.com) | 存活 | 2018/03/16 | 2024/02/29 | 仅ICP | 主营基岩版，含有Java版 |
+| 九域资源社区 | [bbs.mc9y.net](https://bbs.mc9y.net) | 存活 | 2019/01/07 | 2024/02/29 | 仅ICP | |
+| 像素点之家 | [mcbar.club](https://mcbar.club) | 存活 | 2019/07/14 | 2024/02/29 | 无 | 非大陆服务器，百度minecraft吧的替代品 |
+| 小黑资源论坛 | [www.blmcpia.com](https://www.blmcpia.com) | 存活 | 2019/10/04 | 2024/02/29 | 无 | 非大陆服务器，主营基岩版 |
+| 苦力怕论坛 | [klpbbs.com](https://klpbbs.com) | 存活 | 2020/03/01 | 2024/03/01 | 有 | 主营基岩版，含有Java版 |
+| 像素工坊 | [www.pixelecraft.com](https://www.pixelecraft.com) | 存活 | 2021/01/09 | 2024/02/29 | 有 | |
+| 小僵尸论坛 | [www.zitbbs.com](https://www.zitbbs.com) | 存活 | 2021/07/20 | 2024/02/29 | 仅ICP | |
+| MCPPS | [mcpps.cn](https://mcpps.cn) | 存活 | 2022/02/04 | 2024/02/29 | 有 | |
+| PixelBBS | [www.pixelbbs.cn](https://www.pixelbbs.cn) | 存活 | 2022/08/12 | 2024/02/29 | 仅ICP | 收费服务 | [[4]] |
 | 萝卜我的世界论坛 | [www.luobomc.top](https://www.luobomc.top) | 半活 | 2022/08/28 | 2024/02/29 | 无 | 非大陆服务器，无法加载 | [[6]] |
-| MCSBBS | [mcsbbs.thxymc.com](https://mcsbbs.thxymc.com) | 是 | 2022/09/12 | 2024/02/29 | 仅ICP | |
-| SarBBS | [forum.sarskin.cn](https://forum.sarskin.cn) | 是 | 2023/01/05 | 2024/02/29 | 无 | 非大陆服务器 |
-| PiboPibo | [www.pibopibo.com](https://www.pibopibo.com) | 是 | 2023/01/29 | 2024/02/29 | 无 | 非大陆服务器 |
-| Tinksp | [www.tinksp.com](https://www.tinksp.com) | 是 | 2023/02/25 | 2024/02/29 | 无 | 非大陆服务器 |
-| MCFUN | [www.mcshuo.com](https://www.mcshuo.com) | 是 | 2023/04/18 | 2024/02/29 | 仅ICP | | [[7]] |
-| MCUTC | [bbs.mcutc.cn](https://bbs.mcutc.cn) | 是 | 2023/06/17 | 2024/02/29 | 无 | 非大陆服务器，有备案号，但无法查询，备案主体已注销 |
-| 末影论坛 | [enderbbs.wavemoe.com](https://enderbbs.wavemoe.com) | 是 | 2023/08/28 | 2024/02/29 | 无 | 非大陆服务器 |
-| ikunmc | [ikunmc.com](https://ikunmc.com) | 是 | 2023/10/28 | 2024/02/29 | 仅ICP | 非大陆服务器 |
-| SimpBBS | [www.simpbbs.com](https://www.simpbbs.com) | 是 | 2023/10/28 | 2024/02/29 | 无 | 非大陆服务器 |
-| MinePixel | [minepixel.flarum.cloud](https://minepixel.flarum.cloud) | 是 | 2024/01/12 | 2024/02/29 | 无 | 非大陆服务器，使用FreeFlarum | [[10]] |
-| HiMCBBS | [www.himcbbs.com](https://www.himcbbs.com) | 是 | 2024/01/28 | 2024/02/29 | 无 | 非大陆服务器，主营Java版 | [[1]] |
-| 方块社区 | [www.mineforum.cn](https://www.mineforum.cn) | 是 | 2024/02/10 | 2024/02/29 | 无 | 非大陆服务器 | [[9]] |
-| MineSMS | [bbs.minesms.lol](https://bbs.minesms.lol) | 是 | 2024/02/11 | 2024/02/29 | 无 | 非大陆服务器 |
-| MineTalk | [www.minetalk.cn](https://www.minetalk.cn) | 半活 | 2024/02/12 | 2024/02/29 | 正在ICP备案 | [临时链接](https://www.minebox.store)，非大陆服务器，五百元卖数据库 | [[5]] |
-| 喵呜MCBBS | [mcbbs.run](https://mcbbs.run) | 是 | 2024/02/13 | 2024/02/29 | 仅ICP | 画了个圈的论坛 |
-| CMCBBS | [www.cmcbbs.cn](https://www.cmcbbs.cn) | 是 | 2024/02/20 | 2024/02/29 | 无 | 非大陆服务器 | [[8]] |
-| MineFriend | [ivp92c.cloud](http://ivp92c.cloud) | 死了 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，原名SC论坛 |
-| PRT社区平台 | [http://mcprt.cn](http://mcprt.cn) | 是 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，主营光影材质包 |
-| 大家的世界 | [bbs.mclqj.site](https://bbs.mclqj.site) | 是 | 2024/02/22 | 2024/02/29 | 无 | 非大陆服务器 |
-| 黑曜石论坛 | [mcobs.fun](https://mcobs.fun) | 是 | 2024/02/24 | 2024/02/29 | 无 | 非大陆服务器 | [[3]] |
-| MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 是 | 2024/02/25 | 2024/02/29 | 无 | 非大陆服务器 | [[2]] |
+| MCSBBS | [mcsbbs.thxymc.com](https://mcsbbs.thxymc.com) | 存活 | 2022/09/12 | 2024/02/29 | 仅ICP | |
+| SarBBS | [forum.sarskin.cn](https://forum.sarskin.cn) | 存活 | 2023/01/05 | 2024/02/29 | 无 | 非大陆服务器 |
+| PiboPibo | [www.pibopibo.com](https://www.pibopibo.com) | 存活 | 2023/01/29 | 2024/02/29 | 无 | 非大陆服务器 |
+| Tinksp | [www.tinksp.com](https://www.tinksp.com) | 存活 | 2023/02/25 | 2024/02/29 | 无 | 非大陆服务器 |
+| MCFUN | [www.mcshuo.com](https://www.mcshuo.com) | 存活 | 2023/04/18 | 2024/02/29 | 仅ICP | | [[7]] |
+| MCUTC | [bbs.mcutc.cn](https://bbs.mcutc.cn) | 存活 | 2023/06/17 | 2024/02/29 | 无 | 非大陆服务器，有备案号，但无法查询，备案主体已注销 |
+| 末影论坛 | [enderbbs.wavemoe.com](https://enderbbs.wavemoe.com) | 存活 | 2023/08/28 | 2024/02/29 | 无 | 非大陆服务器 |
+| ikunmc | [ikunmc.com](https://ikunmc.com) | 存活 | 2023/10/28 | 2024/02/29 | 仅ICP | 非大陆服务器 |
+| SimpBBS | [www.simpbbs.com](https://www.simpbbs.com) | 存活 | 2023/10/28 | 2024/02/29 | 无 | 非大陆服务器 |
+| MinePixel | [minepixel.flarum.cloud](https://minepixel.flarum.cloud) | 存活 | 2024/01/12 | 2024/02/29 | 无 | 非大陆服务器，使用FreeFlarum | [[10]] |
+| HiMCBBS | [www.himcbbs.com](https://www.himcbbs.com) | 存活 | 2024/01/28 | 2024/02/29 | 无 | 非大陆服务器，主营Java版 | [[1]] |
+| 方块社区 | [www.mineforum.cn](https://www.mineforum.cn) | 存活 | 2024/02/10 | 2024/02/29 | 无 | 非大陆服务器 | [[9]] |
+| MineSMS | [bbs.minesms.lol](https://bbs.minesms.lol) | 存活 | 2024/02/11 | 2024/02/29 | 无 | 非大陆服务器 |
+| MineTalk | [www.minetalk.cn](https://www.minetalk.cn) | 存活 | 2024/02/12 | 2024/02/29 | 正在ICP备案 | [临时链接](https://www.minebox.store)，非大陆服务器，五百元卖数据库 | [[5]] |
+| 喵呜MCBBS | [mcbbs.run](https://mcbbs.run) | 存活 | 2024/02/13 | 2024/02/29 | 仅ICP | 画了个圈的论坛 |
+| CMCBBS | [www.cmcbbs.cn](https://www.cmcbbs.cn) | 存活 | 2024/02/20 | 2024/02/29 | 无 | 非大陆服务器 | [[8]] |
+| MineFriend | [feiyutang.cn](http://feiyutang.cn/) | 存活 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，原名SC论坛 |
+| PRT社区平台 | [mcprt.cn](http://mcprt.cn) | 存活 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，主营光影材质包 |
+| 大家的世界 | [bbs.mclqj.site](https://bbs.mclqj.site) | 存活 | 2024/02/22 | 2024/02/29 | 无 | 非大陆服务器 |
+| 黑曜石论坛 | [mcobs.fun](https://mcobs.fun) | 存活 | 2024/02/24 | 2024/02/29 | 无 | 非大陆服务器 | [[3]] |
+| MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 存活 | 2024/02/25 | 2024/02/29 | 无 | 非大陆服务器 | [[2]] |
+| 青草原MC社区 | [qcymc.top](https://qcymc.top) | 存活 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
 | MC-BBS | [mc-bbs.net](https://mc-bbs.net) | 死了 | 未知 | 2024/03/02 | 无 | 非大陆服务器，情况不明 |
-| 青草原MC社区 | [qcymc.top](https://qcymc.top) | 是 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
 
 ### 表演赛选手
 这些网站之所以列在这里通常是因为其本身不具有论坛性质、依赖于农场建立或纯粹为了节目效果而建立。
