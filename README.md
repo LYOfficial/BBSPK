@@ -75,9 +75,9 @@
 
 - 全国互联网安全管理服务平台  [https://beian.mps.gov.cn/](https://beian.mps.gov.cn/)
 
-- [[1]] 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛
+- [[1]] 我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~
 
-  [1]: https://web.archive.org/web/20240228161444/https://www.bilibili.com/video/BV1su4m1w7vH
+  [1]: https://www.bilibili.com/video/BV1n2421M7yt
 
 - [[2]] MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！
 
