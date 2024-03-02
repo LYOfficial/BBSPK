@@ -70,8 +70,7 @@
 
 ## 资料来源
 
-- ICP/IP地址/域名信息备案管理系统  
-[beian.mps.gov.cn](https://beian.mps.gov.cn)
+- ICP/IP地址/域名信息备案管理系统 [beian.mps.gov.cn](https://beian.mps.gov.cn)
 
 - [[1]] 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛
 
