@@ -17,7 +17,7 @@
 既然是中文论坛，即按照国内是否可以正常访问来确定是否存活，存活情况仅体现更新时状态，请以实际情况为准，欢迎提交pr更新状态！
 
 | 论坛名称 | 论坛地址 | 是否存活 | 创建时间 | 更新时间 | 备案情况 | 备注 |
-|:----------: | :----------: | :-----------: | :-----------: | :-----------: | :-----------: | ------------ |
+|-|-|-|-|-|-|-|
 | MCBBS | [www.mcbbs.net](https://www.mcbbs.net) | 未知 | 2010/10/30 | 2024/02/29 | 有 | 直属B站的我的世界中文论坛 |
 | 网易我的世界论坛 | [mc.netease.com](https://mc.netease.com) | 是 | 2016/09/20 | 2024/02/29 | 有 | 网易论坛 |
 | MineBBS | [www.minebbs.com](https://www.minebbs.com) | 是 | 2018/03/16 | 2024/02/29 | 仅ICP | 主营基岩版，含有Java版 |
@@ -43,7 +43,7 @@
 | HiMCBBS | [www.himcbbs.com](https://www.himcbbs.com) | 是 | 2024/01/28 | 2024/02/29 | 无 | 非大陆服务器，主营Java版 |
 | 方块社区 | [www.mineforum.cn](https://www.mineforum.cn) | 是 | 2024/02/10 | 2024/02/29 | 无 | 非大陆服务器 |
 | MineSMS | [bbs.minesms.lol](https://bbs.minesms.lol) | 是 | 2024/02/11 | 2024/02/29 | 无 | 非大陆服务器 |
-| MineTalk | [www.minetalk.cn](https://www.minetalk.cn/) | 半活 | 2024/02/12 | 2024/02/29 | 正在ICP备案 | [临时链接](https://www.minebox.store)，非大陆服务器，五百元卖数据库 |
+| MineTalk | [www.minetalk.cn](https://www.minetalk.cn) | 半活 | 2024/02/12 | 2024/02/29 | 正在ICP备案 | [临时链接](https://www.minebox.store)，非大陆服务器，五百元卖数据库 |
 | 喵呜MCBBS | [mcbbs.run](https://mcbbs.run) | 是 | 2024/02/13 | 2024/02/29 | 仅ICP | 画了个圈的论坛 |
 | CMCBBS | [www.cmcbbs.cn](https://www.cmcbbs.cn) | 是 | 2024/02/20 | 2024/02/29 | 无 | 非大陆服务器 |
 | MineFriend | [ivp92c.cloud](http://ivp92c.cloud) | 死了 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，原名SC论坛 |
@@ -57,7 +57,7 @@
 这些网站之所以列在这里通常是因为其本身不具有论坛性质、依赖于农场建立或纯粹为了节目效果而建立。
 
 | 网站名称 | 网站地址 | 更新时间 | 备注 |
-|:----------: | :----------: | :-----------:  |------------ |
+|-|-|-|-|
 | 新兴我的世界论坛晋级赛 | [mcbbs.rip](https://mcbbs.rip) | 2024/02/29 | 本项目 |
 | 回来吧MCBBS | [mcbbs.win](http://mcbbs.win) | 2024/02/29 | 真诚祷告 |
 | 这里**不是**MCBBS | [mcbbs.wang](https://mcbbs.wang) | 2024/03/01 | 这里不是MCBBS |
