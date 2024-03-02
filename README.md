@@ -70,9 +70,8 @@
 
 ## 资料来源
 
-- ICP/IP地址/域名信息备案管理系统
-
-  [beian.mps.gov.cn](https://beian.mps.gov.cn)
+- ICP/IP地址/域名信息备案管理系统  
+[beian.mps.gov.cn](https://beian.mps.gov.cn)
 
 - [[1]] 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛
 
@@ -127,8 +126,14 @@
 ## 贡献教程
 
 **您需要拥有一个GitHub账号！**
+
 1.[点击这里Fork此仓库](https://github.com/LYOfficial/BBSPK/fork)
+
 2.在Fork的仓库内进行修改
+
 3.点击顶部的【Pull requests】，右上角【New pull request】
+
 4.填写标题和说明，比如您做了什么修改
+
 5.等待此项目所有者[@LYOfficial](https://github.com/LYOfficial)通过审核
+
