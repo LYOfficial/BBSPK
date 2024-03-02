@@ -9,7 +9,7 @@
 
 欢迎各位对此项目做出贡献！教程可在此页面底部查看，Fork后进行增添 **（请自觉按照建站时间排序）** ，感谢每一位贡献者的pr！如果有宣传来源，请在下方添加【资料来源】，谢谢！
 
-** 注意：请确保您Fork的是最新版的项目仓库，再提交pr，旧版仓库的合并会带来很多麻烦，感谢您的支持！**
+**注意：请确保您Fork的是最新版的项目仓库，再提交pr，旧版仓库的合并会带来很多麻烦，感谢您的支持！**
 
 ## 论坛列表
 
@@ -49,7 +49,7 @@
 | 喵呜MCBBS | [mcbbs.run](https://mcbbs.run) | 存活 | 2024/02/13 | 2024/02/29 | 仅ICP | 画了个圈的论坛 |
 | CMCBBS | [www.cmcbbs.cn](https://www.cmcbbs.cn) | 存活 | 2024/02/20 | 2024/02/29 | 无 | 非大陆服务器 | [[8]] |
 | MineFriend | [feiyutang.cn](http://feiyutang.cn/) | 存活 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，原名SC论坛 |
-| PRT社区平台 | [mcprt.cn](http://mcprt.cn) | 存活 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，主营光影材质包 |
+| PRT社区平台 | [mcprt.cn](https://mcprt.cn) | 存活 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，主营光影材质包 |
 | 大家的世界 | [bbs.mclqj.site](https://bbs.mclqj.site) | 存活 | 2024/02/22 | 2024/02/29 | 无 | 非大陆服务器 |
 | 黑曜石论坛 | [mcobs.fun](https://mcobs.fun) | 存活 | 2024/02/24 | 2024/02/29 | 无 | 非大陆服务器 | [[3]] |
 | MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 存活 | 2024/02/25 | 2024/02/29 | 无 | 非大陆服务器 | [[2]] |
@@ -105,7 +105,7 @@
 
 - [[8]] [@你的小蕉呀](https://space.bilibili.com/436928745)的B站动态
 
-  [8]: [www.bilibili.com/opus/900600276318158885](https://www.bilibili.com/opus/900600276318158885)
+  [8]: https://www.bilibili.com/opus/900600276318158885
 
 - [[9]] MineForum，一个全新的Minecraft论坛
 
