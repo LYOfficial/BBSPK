@@ -31,6 +31,7 @@
 | PixelBBS | [https://www.pixelbbs.cn/](https://www.pixelbbs.cn/) | 是 | 2022/08/12 | 2024/02/29 | 仅ICP | 收费服务 |
 | 萝卜我的世界论坛 | [https://www.luobomc.top](https://www.luobomc.top) | 半活 | 2022/08/28 | 2024/02/29 | 无 | 非大陆服务器，无法加载 |
 | MCSBBS | [https://mcsbbs.thxymc.com/](https://mcsbbs.thxymc.com/) | 是 | 2022/09/12 | 2024/02/29 | 仅ICP |  |
+| MCMXY | [https://www.mcmxy.cn/](https://www.mcmxy.cn/) | 是 | 2022/11/10 | 2024/03/02 | 仅ICP | 主营Java版，无基岩版 |
 | SarBBS | [https://forum.sarskin.cn/](https://forum.sarskin.cn/) | 是 | 2023/01/05 | 2024/02/29 | 无 | 非大陆服务器 |
 | PiboPibo | [https://www.pibopibo.com/](https://www.pibopibo.com/) | 是 | 2023/01/29 | 2024/02/29 | 无 | 非大陆服务器 |
 | Tinksp | [https://www.tinksp.com/](https://www.tinksp.com/) | 是 | 2023/02/25 | 2024/02/29 | 无 | 非大陆服务器 |
