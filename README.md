@@ -7,14 +7,15 @@
 
 表格内容均收集得来，不代表本人观点。
 
-欢迎各位在页面底部找到仓库，fork后进行增添（请按照建站时间），感谢每一位贡献者的pr！请同时填写表格和资料来源，谢谢！
+欢迎各位对此项目做出贡献！教程可在此页面底部查看，Fork后进行增添 **（请自觉按照建站时间排序）** ，感谢每一位贡献者的pr！如果有宣传来源，请在下方添加【资料来源】，谢谢！
 
 ## 论坛列表
 
 ### 晋级赛选手
 
-目前登记在册选手 33 位
+目前登记在册选手 35 位（计算公式：尾行数-21+1）
 既然是中文论坛，即按照国内是否可以正常访问来确定是否存活，存活情况仅体现更新时状态，请以实际情况为准，欢迎提交pr更新状态！
+
 
 | 论坛名称 | 论坛地址 | 是否存活 | 创建时间 | 更新时间 | 备案情况 | 备注 | 参考 |
 |-|-|-|-|-|-|-|-|
@@ -59,20 +60,17 @@
 | 网站名称 | 网站地址 | 更新时间 | 备注 |
 |-|-|-|-|
 | 新兴我的世界论坛晋级赛 | [mcbbs.rip](https://mcbbs.rip) | 2024/02/29 | 本项目 |
-| 回来吧MCBBS | [mcbbs.win](http://mcbbs.win) | 2024/02/29 | 真诚祷告 |
-| 这里**不是**MCBBS | [mcbbs.wang](https://mcbbs.wang) | 2024/03/01 | 这里不是MCBBS |
+| 回来吧MCBBS | [mcbbs.win](http://mcbbs.win)（[存档](https://web.archive.org/web/20240302042136/http://mcbbs.win/)）| 2024/02/29 | 真诚祷告 |
+| 这里**不是**MCBBS | [mcbbs.wang](https://mcbbs.wang)（[存档](https://web.archive.org/web/20240301071710/https://www.mcbbs.wang/)）| 2024/03/01 | 这里不是MCBBS |
 | Minecraft中文综合交流站 | [mcforum.wikidot.com](http://mcforum.wikidot.com) | 2024/02/29 | 基于 WikiDot 建立 |
-| 坛破山河在，坟头草木深 | [mcbbs.homes](https://mcbbs.homes) | 2024/03/01 | 回来吧MCBBS，千万创作者的精神故乡！ |
-| 您今天 MCBBS 了吗？ | [mcbbs.today](https://mcbbs.today) | 2024/03/02 | 如果您今天还没有 MCBBS，那就来看看专为您提供的解决方案吧！ :arrow_down: |
+| 坛破山河在，坟头草木深 | [mcbbs.homes](https://mcbbs.homes)（[存档](https://web.archive.org/web/20240302042152/https://mcbbs.homes/)） | 2024/03/01 | 回来吧MCBBS，千万创作者的精神故乡！ |
+| 您今天 MCBBS 了吗？ | [mcbbs.today](https://mcbbs.today)（[存档](https://web.archive.org/web/20240302042305/https://mcbbs.today/)）| 2024/03/02 | 如果您今天还没有 MCBBS，那就来看看专为您提供的解决方案吧！ :arrow_down: |
 | 一站式 MCBBS 解决方案 | [mcbbs.solutions](https://mcbbs.solutions) | 2024/03/02 | :arrow_up: 专为您打造的一站式回忆 MCBBS 解决方案，但解决不了一点。 |
+
 
 ## 资料来源
 
 - ICP/IP地址/域名信息备案管理系统
-
-  [beian.miit.gov.cn](https://beian.miit.gov.cn)
-
-- 全国互联网安全管理服务平台
 
   [beian.mps.gov.cn](https://beian.mps.gov.cn)
 
@@ -116,12 +114,21 @@
 
   [10]: https://www.bilibili.com/video/BV13A4m137tZ
 
+## 统计信息
+
 ## 贡献者
 
 [![Contrib](https://contrib.rocks/image?repo=LYOfficial/BBSPK)](https://github.com/LYOfficial/BBSPK/graphs/contributors)
 
-## 统计信息
-
 ### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/LYOfficial/BBSPK.svg?variant=adaptive)](https://starchart.cc/LYOfficial/BBSPK)
+
+## 贡献教程
+
+**您需要拥有一个GitHub账号！**
+1.[点击这里Fork此仓库](https://github.com/LYOfficial/BBSPK/fork)
+2.在Fork的仓库内进行修改
+3.点击顶部的【Pull requests】，右上角【New pull request】
+4.填写标题和说明，比如您做了什么修改
+5.等待此项目所有者[@LYOfficial](https://github.com/LYOfficial)通过审核
