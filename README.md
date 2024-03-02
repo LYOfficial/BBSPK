@@ -28,28 +28,28 @@
 | 像素工坊 | [www.pixelecraft.com](https://www.pixelecraft.com) | 是 | 2021/01/09 | 2024/02/29 | 有 | |
 | 小僵尸论坛 | [www.zitbbs.com](https://www.zitbbs.com) | 是 | 2021/07/20 | 2024/02/29 | 仅ICP | |
 | MCPPS | [mcpps.cn](https://mcpps.cn) | 是 | 2022/02/04 | 2024/02/29 | 有 | |
-| PixelBBS | [www.pixelbbs.cn](https://www.pixelbbs.cn) | 是 | 2022/08/12 | 2024/02/29 | 仅ICP | 收费服务 |
-| 萝卜我的世界论坛 | [www.luobomc.top](https://www.luobomc.top) | 半活 | 2022/08/28 | 2024/02/29 | 无 | 非大陆服务器，无法加载 |
+| PixelBBS | [www.pixelbbs.cn](https://www.pixelbbs.cn) | 是 | 2022/08/12 | 2024/02/29 | 仅ICP | 收费服务 [4] |
+| 萝卜我的世界论坛 | [www.luobomc.top](https://www.luobomc.top) | 半活 | 2022/08/28 | 2024/02/29 | 无 | 非大陆服务器，无法加载 [6] |
 | MCSBBS | [mcsbbs.thxymc.com](https://mcsbbs.thxymc.com) | 是 | 2022/09/12 | 2024/02/29 | 仅ICP | |
 | SarBBS | [forum.sarskin.cn](https://forum.sarskin.cn) | 是 | 2023/01/05 | 2024/02/29 | 无 | 非大陆服务器 |
 | PiboPibo | [www.pibopibo.com](https://www.pibopibo.com) | 是 | 2023/01/29 | 2024/02/29 | 无 | 非大陆服务器 |
 | Tinksp | [www.tinksp.com](https://www.tinksp.com) | 是 | 2023/02/25 | 2024/02/29 | 无 | 非大陆服务器 |
-| MCFUN | [www.mcshuo.com](https://www.mcshuo.com) | 是 | 2023/04/18 | 2024/02/29 | 仅ICP | |
+| MCFUN | [www.mcshuo.com](https://www.mcshuo.com) | 是 | 2023/04/18 | 2024/02/29 | 仅ICP | [7] |
 | MCUTC | [bbs.mcutc.cn](https://bbs.mcutc.cn) | 是 | 2023/06/17 | 2024/02/29 | 无 | 非大陆服务器，有备案号，但无法查询，备案主体已注销 |
 | 末影论坛 | [enderbbs.wavemoe.com](https://enderbbs.wavemoe.com) | 是 | 2023/08/28 | 2024/02/29 | 无 | 非大陆服务器 |
 | ikunmc | [ikunmc.com](https://ikunmc.com) | 是 | 2023/10/28 | 2024/02/29 | 仅ICP | 非大陆服务器 |
 | SimpBBS | [www.simpbbs.com](https://www.simpbbs.com) | 是 | 2023/10/28 | 2024/02/29 | 无 | 非大陆服务器 |
-| MinePixel | [minepixel.flarum.cloud](https://minepixel.flarum.cloud) | 是 | 2024/01/12 | 2024/02/29 | 无 | 非大陆服务器，使用FreeFlarum |
-| HiMCBBS | [www.himcbbs.com](https://www.himcbbs.com) | 是 | 2024/01/28 | 2024/02/29 | 无 | 非大陆服务器，主营Java版 |
-| 方块社区 | [www.mineforum.cn](https://www.mineforum.cn) | 是 | 2024/02/10 | 2024/02/29 | 无 | 非大陆服务器 |
+| MinePixel | [minepixel.flarum.cloud](https://minepixel.flarum.cloud) | 是 | 2024/01/12 | 2024/02/29 | 无 | 非大陆服务器，使用FreeFlarum [10] |
+| HiMCBBS | [www.himcbbs.com](https://www.himcbbs.com) | 是 | 2024/01/28 | 2024/02/29 | 无 | 非大陆服务器，主营Java版 [1] |
+| 方块社区 | [www.mineforum.cn](https://www.mineforum.cn) | 是 | 2024/02/10 | 2024/02/29 | 无 | 非大陆服务器 [9] |
 | MineSMS | [bbs.minesms.lol](https://bbs.minesms.lol) | 是 | 2024/02/11 | 2024/02/29 | 无 | 非大陆服务器 |
-| MineTalk | [www.minetalk.cn](https://www.minetalk.cn) | 半活 | 2024/02/12 | 2024/02/29 | 正在ICP备案 | [临时链接](https://www.minebox.store)，非大陆服务器，五百元卖数据库 |
+| MineTalk | [www.minetalk.cn](https://www.minetalk.cn) | 半活 | 2024/02/12 | 2024/02/29 | 正在ICP备案 | [临时链接](https://www.minebox.store)，非大陆服务器，五百元卖数据库 [5] |
 | 喵呜MCBBS | [mcbbs.run](https://mcbbs.run) | 是 | 2024/02/13 | 2024/02/29 | 仅ICP | 画了个圈的论坛 |
-| CMCBBS | [www.cmcbbs.cn](https://www.cmcbbs.cn) | 是 | 2024/02/20 | 2024/02/29 | 无 | 非大陆服务器 |
+| CMCBBS | [www.cmcbbs.cn](https://www.cmcbbs.cn) | 是 | 2024/02/20 | 2024/02/29 | 无 | 非大陆服务器 [8] |
 | MineFriend | [ivp92c.cloud](http://ivp92c.cloud) | 死了 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，原名SC论坛 |
 | 大家的世界 | [bbs.mclqj.site](https://bbs.mclqj.site) | 是 | 2024/02/22 | 2024/02/29 | 无 | 非大陆服务器 |
-| 黑曜石论坛 | [mcobs.fun](https://mcobs.fun) | 是 | 2024/02/24 | 2024/02/29 | 无 | 非大陆服务器 |
-| MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 是 | 2024/02/25 | 2024/02/29 | 无 | 非大陆服务器 |
+| 黑曜石论坛 | [mcobs.fun](https://mcobs.fun) | 是 | 2024/02/24 | 2024/02/29 | 无 | 非大陆服务器 [3] |
+| MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 是 | 2024/02/25 | 2024/02/29 | 无 | 非大陆服务器 [2] |
 | MC-BBS | [mc-bbs.net](https://mc-bbs.net) | 死了 | 未知 | 2024/03/02 | 无 | 非大陆服务器，情况不明 |
 | 青草原MC社区 | [qcymc.top](https://qcymc.top) | 是 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
 
@@ -74,39 +74,35 @@
 - 全国互联网安全管理服务平台<br>
   [beian.mps.gov.cn](https://beian.mps.gov.cn)
 
-- 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛<br>
-  [BV1su4m1w7vH](https://www.bilibili.com/video/BV1su4m1w7vH)
+- [^1] 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛<br>
+  [BV1su4m1w7vH](https://web.archive.org/web/20240228161444/https://www.bilibili.com/video/BV1su4m1w7vH)
 
-- 我的世界论坛 2nd已发布！欢迎各位加入我们！<br>
+- [^2] MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！<br>
   [BV1hW421A7dm](https://www.bilibili.com/video/BV1hW421A7dm)
 
-- 【黑曜石论坛】mcbbs关站了？我的世界黑曜石论坛欢迎您！<br>
+- [^3] 【黑曜石论坛】mcbbs关站了？我的世界黑曜石论坛欢迎您！<br>
   [BV1wm411f7W4](https://www.bilibili.com/video/BV1wm411f7W4)
 
-- 求求你，让我成为你的下一个mcbbs平替论坛 <br>
+- [^4] 求求你，让我成为你的下一个mcbbs平替论坛 <br>
   [BV1Hr421s7DK](https://www.bilibili.com/video/BV1Hr421s7DK)
 
-- 我的世界中文论坛BBS关停，你们要的新论坛来啦 <br>
+- [^5] 我的世界中文论坛BBS关停，你们要的新论坛来啦 <br>
   [BV1uA4m1G7KL](https://www.bilibili.com/video/BV1uA4m1G7KL)
 
-- MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！<br>
-  [BV1hW421A7dm](https://www.bilibili.com/video/BV1hW421A7dm)
-
-- 我做了个Minecraft论坛？比MCBBS使用简单？ —MC萝卜论坛！<br>
+- [^6] 我做了个Minecraft论坛？比MCBBS使用简单？ —MC萝卜论坛！<br>
   [BV1bG411G7Pk](https://www.bilibili.com/video/BV1bG411G7Pk)
 
-- 再见Mcbbs，新生McFun<br>
+- [^7] 再见Mcbbs，新生McFun<br>
   [mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g](https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g)
 
-- B站动态 900600276318158885<br>
+- [^8] [@你的小蕉呀](https://space.bilibili.com/436928745)的B站动态<br>
   [www.bilibili.com/opus/900600276318158885](https://www.bilibili.com/opus/900600276318158885)
 
-- MineForum，一个全新的Minecraft论坛<br>
+- [^9] MineForum，一个全新的Minecraft论坛<br>
   [BV1Hu4m1P7BY](https://www.bilibili.com/video/BV1Hu4m1P7BY)
   
-- Minepixel 论坛招人了！<br>
+- [^10] Minepixel 论坛招人了！<br>
   [BV13A4m137tZ](https://www.bilibili.com/video/BV13A4m137tZ)
-
 
 ## 贡献者
 
