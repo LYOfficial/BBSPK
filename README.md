@@ -7,15 +7,34 @@
 
 表格内容均收集得来，不代表本人观点。
 
-欢迎各位对此项目做出贡献！教程可在此页面底部查看，Fork后进行增添 **（请自觉按照建站时间排序）** ，感谢每一位贡献者的pr！如果有宣传来源，请在下方添加【资料来源】，谢谢！
+欢迎各位对此项目做出贡献！教程可在此页面底部查看，Fork后进行增添 **（请自觉按照建站时间排序）** ，感谢每一位贡献者的pr！如果有宣传来源，请在下方按照已有的格式添加【资料来源】，谢谢！
 
-**注意：请确保您Fork的是最新版的项目仓库，再提交pr，旧版仓库的合并会带来很多麻烦，感谢您的支持！**
+**注意：请确保您Fork的仓库为最新，可通过自己仓库页面的 **Sync fork**来更新再提交pr！旧版仓库的合并会带来很多麻烦，感谢您的支持！**
+
+### 列表项说明
+
+**论坛名称** ```你论坛的名字```  （中英文皆可，推荐英文简写）
+
+**论坛地址** ```[显示链接\](论坛链接\)```  （不包括\符号）
+
+**是否存活** ```存活/半活/死了/未知```
+
+**创建时间** ```yyyy/mm/dd```  （例：2024/02/19）
+
+**更新时间** ```yyyy/mm/dd```  （你修改这个论坛信息的时间）
+
+**备案情况** ```有/无/仅ICP/ICP备案中```
+
+**备注（可不填，但不建议）** 一般填写服务器位置、主营分区，可参考已有
+
+**参考（可不填）** ```[[链接数字序号]]```  （可不填，填写下方【资料来源】里面的链接，参考已有）
 
 ## 论坛列表
 
 ### 晋级赛选手
 
 目前登记在册选手 35 位（计算公式：尾行数-21+1）
+
 既然是中文论坛，即按照国内是否可以正常访问来确定是否存活，存活情况仅体现更新时状态，请以实际情况为准，欢迎提交pr更新状态！
 
 | 论坛名称 | 论坛地址 | 是否存活 | 创建时间 | 更新时间 | 备案情况 | 备注 | 参考 |
@@ -42,10 +61,10 @@
 | ikunmc | [ikunmc.com](https://ikunmc.com) | 存活 | 2023/10/28 | 2024/02/29 | 仅ICP | 非大陆服务器 |
 | SimpBBS | [www.simpbbs.com](https://www.simpbbs.com) | 存活 | 2023/10/28 | 2024/02/29 | 无 | 非大陆服务器 |
 | MinePixel | [minepixel.flarum.cloud](https://minepixel.flarum.cloud) | 存活 | 2024/01/12 | 2024/02/29 | 无 | 非大陆服务器，使用FreeFlarum | [[10]] |
-| HiMCBBS | [www.himcbbs.com](https://www.himcbbs.com) | 存活 | 2024/01/28 | 2024/02/29 | 无 | 非大陆服务器，主营Java版 | [[1]] |
+| HiMCBBS | [www.himcbbs.com](https://www.himcbbs.com) | 存活 | 2024/01/28 | 2024/03/03 | 无 | 非大陆服务器，主营Java版 | [[1]] |
 | 方块社区 | [www.mineforum.cn](https://www.mineforum.cn) | 存活 | 2024/02/10 | 2024/02/29 | 无 | 非大陆服务器 | [[9]] |
 | MineSMS | [bbs.minesms.lol](https://bbs.minesms.lol) | 存活 | 2024/02/11 | 2024/02/29 | 无 | 非大陆服务器 |
-| MineTalk | [www.minetalk.cn](https://www.minetalk.cn) | 存活 | 2024/02/12 | 2024/02/29 | 正在ICP备案 | [临时链接](https://www.minebox.store)，非大陆服务器，五百元卖数据库 | [[5]] |
+| MineTalk | [www.minetalk.cn](https://www.minetalk.cn) | 存活 | 2024/02/12 | 2024/02/29 | ICP备案中 | [临时链接](https://www.minebox.store)，非大陆服务器，五百元卖数据库 | [[5]] |
 | 喵呜MCBBS | [mcbbs.run](https://mcbbs.run) | 存活 | 2024/02/13 | 2024/02/29 | 仅ICP | 画了个圈的论坛 |
 | CMCBBS | [www.cmcbbs.cn](https://www.cmcbbs.cn) | 存活 | 2024/02/20 | 2024/02/29 | 无 | 非大陆服务器 | [[8]] |
 | MineFriend | [feiyutang.cn](http://feiyutang.cn/) | 存活 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，原名SC论坛 |
@@ -71,13 +90,16 @@
 
 
 ## 资料来源
+
+**点击标题前方数字即可查看**
+
 - ICP/IP地址/域名信息备案管理系统  [https://beian.miit.gov.cn/](https://beian.miit.gov.cn/)
 
 - 全国互联网安全管理服务平台  [https://beian.mps.gov.cn/](https://beian.mps.gov.cn/)
 
-- [[1]] 这是一个比MCBBS好100倍的JE/BE混合型MC论坛！！！——Hi世界MC论坛
+- [[1]] 我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~
 
-  [1]: https://web.archive.org/web/20240228161444/https://www.bilibili.com/video/BV1su4m1w7vH
+  [1]: https://www.bilibili.com/video/BV1n2421M7yt
 
 - [[2]] MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！
 
