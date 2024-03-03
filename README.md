@@ -71,7 +71,7 @@
 | PRT社区平台 | [mcprt.cn](https://mcprt.cn) | 存活 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，主营光影材质包 |
 | 大家的世界 | [bbs.mclqj.site](https://bbs.mclqj.site) | 存活 | 2024/02/22 | 2024/02/29 | 无 | 非大陆服务器 |
 | 黑曜石论坛 | [mcobs.fun](https://mcobs.fun) | 存活 | 2024/02/24 | 2024/02/29 | 无 | 非大陆服务器 | [[3]] |
-| MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 存活 | 2024/02/25 | 2024/02/29 | 无 | 非大陆服务器 | [[2]] |
+| MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 存活 | 2024/02/25 | 2024/03/03 | 无 | ICP备案中 | [[2]] |
 | 青草原MC社区 | [qcymc.top](https://qcymc.top) | 存活 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
 | MC-BBS | [mc-bbs.net](https://mc-bbs.net) | 死了 | 未知 | 2024/03/02 | 无 | 非大陆服务器，情况不明 |
 
