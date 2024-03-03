@@ -51,6 +51,7 @@
 | MCPPS | [mcpps.cn](https://mcpps.cn) | 存活 | 2022/02/04 | 2024/02/29 | 有 | |
 | PixelBBS | [www.pixelbbs.cn](https://www.pixelbbs.cn) | 存活 | 2022/08/12 | 2024/02/29 | 仅ICP | 收费服务 | [[4]] |
 | 萝卜我的世界论坛 | [www.luobomc.top](https://www.luobomc.top) | 半活 | 2022/08/28 | 2024/02/29 | 无 | 非大陆服务器，无法加载 | [[6]] |
+| MC-BBS | [mc-bbs.net](https://mc-bbs.net) | 死了 | 2022/08/30 | 2024/03/02 | 无 | 非大陆服务器，情况不明 |
 | MCSBBS | [mcsbbs.thxymc.com](https://mcsbbs.thxymc.com) | 存活 | 2022/09/12 | 2024/02/29 | 仅ICP | |
 | SarBBS | [forum.sarskin.cn](https://forum.sarskin.cn) | 存活 | 2023/01/05 | 2024/02/29 | 无 | 非大陆服务器 |
 | PiboPibo | [www.pibopibo.com](https://www.pibopibo.com) | 存活 | 2023/01/29 | 2024/02/29 | 无 | 非大陆服务器 |
@@ -73,7 +74,6 @@
 | 黑曜石论坛 | [mcobs.fun](https://mcobs.fun) | 存活 | 2024/02/24 | 2024/02/29 | 无 | 非大陆服务器 | [[3]] |
 | MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 存活 | 2024/02/25 | 2024/03/03 | 无 | ICP备案中 | [[2]] |
 | 青草原MC社区 | [qcymc.top](https://qcymc.top) | 存活 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
-| MC-BBS | [mc-bbs.net](https://mc-bbs.net) | 死了 | 未知 | 2024/03/02 | 无 | 非大陆服务器，情况不明 |
 
 ### 表演赛选手
 这些网站之所以列在这里通常是因为其本身不具有论坛性质、依赖于农场建立或纯粹为了节目效果而建立。
