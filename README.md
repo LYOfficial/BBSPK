@@ -74,6 +74,7 @@
 | 黑曜石论坛 | [mcobs.fun](https://mcobs.fun) | 存活 | 2024/02/24 | 2024/02/29 | 无 | 非大陆服务器 | [[3]] |
 | MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 存活 | 2024/02/25 | 2024/03/03 | 无 | ICP备案中 | [[2]] |
 | 青草原MC社区 | [qcymc.top](https://qcymc.top) | 存活 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
+| MineNets | [minenets.com](https://minenets.com) | 存活 | 2024/03/02 | 2024/03/04 | 无 | 非大陆服务器 | [[12]] |
 
 ### 表演赛选手
 这些网站之所以列在这里通常是因为其本身不具有论坛性质、依赖于农场建立或纯粹为了节目效果而建立。
@@ -140,6 +141,10 @@
 - [[11]] PRT社区 一个主营光影材质包的社区平台！
 
   [11]: https://www.bilibili.com/video/BV1GJ4m1h7Ly
+
+ [[12]] 不模仿 MCBBS，而是重新定义 MCBBS
+
+  [12]: https://www.bilibili.com/video/BV1Vz421Q7Bz
 
 
 ## 统计信息
