@@ -88,6 +88,7 @@
 | 坛破山河在，坟头草木深 | [mcbbs.homes](https://mcbbs.homes)（[存档](https://web.archive.org/web/20240302042152/https://mcbbs.homes/)） | 2024/03/01 | 回来吧MCBBS，千万创作者的精神故乡！ |
 | 您今天 MCBBS 了吗？ | [mcbbs.today](https://mcbbs.today)（[存档](https://web.archive.org/web/20240302042305/https://mcbbs.today/)）| 2024/03/02 | 👇 如果您今天还没有 MCBBS，那就来看看专为您提供的解决方案吧！|
 | 一站式 MCBBS 解决方案 | [mcbbs.solutions](https://mcbbs.solutions) | 2024/03/02 | 👆 专为您打造的一站式回忆 MCBBS 解决方案，但解决不了一点。 |
+| 回来了MCBBS | [mcbbs.red](http://www.mcbbs.red/)（[存档](https://web.archive.org/web/20240304124348/http://www.mcbbs.red/)） | 2024/03/04 | 对应上面的 “回来吧MCBBS” |
 
 
 ## 资料来源
