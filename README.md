@@ -75,7 +75,7 @@
 | MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 存活 | 2024/02/25 | 2024/03/03 | 无 | ICP备案中 | [[2]] |
 | 青草原MC社区 | [qcymc.top](https://qcymc.top) | 存活 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
 | MineNets | [minenets.com](https://minenets.com) | 存活 | 2024/03/02 | 2024/03/04 | 无 | 非大陆服务器 | [[12]] |
-| 米饭MCBBS | [www.mcbbs.top](https://www.mcbbs.top)  | 存活 | 2024/03/04 | 2024/03/04 | 仅ICP | mcbbs v4资源站  |
+| 米饭MCBBS | [www.mcbbs.top](https://www.mcbbs.top)  | 存活 | 2024/03/04 | 2024/03/04 | 仅ICP | 米饭私人资源站  |
 
 ### 表演赛选手
 这些网站之所以列在这里通常是因为其本身不具有论坛性质、依赖于农场建立或纯粹为了节目效果而建立。
