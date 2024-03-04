@@ -76,7 +76,7 @@
 | 青草原MC社区 | [qcymc.top](https://qcymc.top) | 存活 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
 | MineNets | [minenets.com](https://minenets.com) | 存活 | 2024/03/02 | 2024/03/04 | 无 | 非大陆服务器 | [[12]] |
 | 米饭MCBBS | [www.mcbbs.top](https://www.mcbbs.top)  | 存活 | 2024/03/04 | 2024/03/04 | 仅ICP | mcbbs v4资源站  |
-| MCSBBS | [www.mcsbbs.com](https://www.mcsbbs.com)  | 存活 | 2023/05/29 | 2024/03/04 | 无 | 看参考 | [[13]] |
+| MCSBBS | [www.mcsbbs.com](https://www.mcsbbs.com)  | 存活 | 2023/05/29 | 2024/03/04 | 无 | 基于Xenforo , 页面静态分离，主页亚太CDN，静态资源走国内CDN |
 
 
 ### 表演赛选手
@@ -151,10 +151,6 @@
 - [[12]] 不模仿 MCBBS，而是重新定义 MCBBS
 
   [12]: https://www.bilibili.com/video/BV1Vz421Q7Bz
-  
-- [[13]] MCSBBS
-
-  [13]: 基于Xenforo , 页面静态分离，主页亚太CDN，静态资源走国内CDN
 
 ## 统计信息
 
