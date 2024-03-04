@@ -146,7 +146,7 @@
 
   [11]: https://www.bilibili.com/video/BV1GJ4m1h7Ly
 
- [[12]] 不模仿 MCBBS，而是重新定义 MCBBS
+- [[12]] 不模仿 MCBBS，而是重新定义 MCBBS
 
   [12]: https://www.bilibili.com/video/BV1Vz421Q7Bz
 
