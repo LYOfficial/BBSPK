@@ -151,6 +151,7 @@
 - [[12]] 不模仿 MCBBS，而是重新定义 MCBBS
 
   [12]: https://www.bilibili.com/video/BV1Vz421Q7Bz
+  
 - [[13]] MCSBBS
 
   [13]: 基于Xenforo , 页面静态分离，主页亚太CDN，静态资源走国内CDN
