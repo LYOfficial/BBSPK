@@ -9,7 +9,7 @@
 
 欢迎各位对此项目做出贡献！教程可在此页面底部查看，Fork后进行增添 **（请自觉按照建站时间排序）** ，感谢每一位贡献者的pr！如果有宣传来源，请在下方按照已有的格式添加【资料来源】，谢谢！
 
-**注意：请确保您Fork的仓库为最新，可通过自己仓库页面的 **Sync fork**来更新再提交pr！旧版仓库的合并会带来很多麻烦，感谢您的支持！**
+**注意：请确保您Fork的仓库为最新，可通过自己仓库页面的【Sync fork】来更新再提交pr！旧版仓库的合并会带来很多麻烦，感谢您的支持！**
 
 ### 列表项说明
 
@@ -25,7 +25,7 @@
 
 **备案情况** ```有/无/仅ICP/ICP备案中```
 
-**备注（可不填，但不建议）** 一般填写服务器位置、主营分区，可参考已有
+**备注（可不填）** 一般填写服务器位置、主营分区，可参考已有
 
 **参考（可不填）** ```[[链接数字序号]]```  （可不填，填写下方【资料来源】里面的链接，参考已有）
 
@@ -75,6 +75,7 @@
 | MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 存活 | 2024/02/25 | 2024/03/03 | 无 | ICP备案中 | [[2]] |
 | 青草原MC社区 | [qcymc.top](https://qcymc.top) | 存活 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
 | MineNets | [minenets.com](https://minenets.com) | 存活 | 2024/03/02 | 2024/03/04 | 无 | 非大陆服务器 | [[12]] |
+| 米饭MCBBS | [www.mcbbs.top](https://www.mcbbs.top)  | 存活 | 2024/03/04 | 2024/03/04 | 仅ICP | mcbbs v4资源站  |
 
 ### 表演赛选手
 这些网站之所以列在这里通常是因为其本身不具有论坛性质、依赖于农场建立或纯粹为了节目效果而建立。
@@ -87,7 +88,8 @@
 | Minecraft中文综合交流站 | [mcforum.wikidot.com](http://mcforum.wikidot.com) | 2024/02/29 | 基于 WikiDot 建立 |
 | 坛破山河在，坟头草木深 | [mcbbs.homes](https://mcbbs.homes)（[存档](https://web.archive.org/web/20240302042152/https://mcbbs.homes/)） | 2024/03/01 | 回来吧MCBBS，千万创作者的精神故乡！ |
 | 您今天 MCBBS 了吗？ | [mcbbs.today](https://mcbbs.today)（[存档](https://web.archive.org/web/20240302042305/https://mcbbs.today/)）| 2024/03/02 | 👇 如果您今天还没有 MCBBS，那就来看看专为您提供的解决方案吧！|
-| 一站式 MCBBS 解决方案 | [mcbbs.solutions](https://mcbbs.solutions) | 2024/03/02 | 👆 专为您打造的一站式回忆 MCBBS 解决方案，但解决不了一点。 |
+| 一站式 MCBBS 解决方案 | [mcbbs.solutions](https://mcbbs.solutions)（[存档](https://archive.org/details/fire-shot-capture-minecraft-mcbbs.solutions)） | 2024/03/04 | 👆 专为您打造的一站式回忆 MCBBS 解决方案，但解决不了一点。 |
+| 回来了MCBBS | [mcbbs.red](http://www.mcbbs.red/)（[存档](https://web.archive.org/web/20240304124348/http://www.mcbbs.red/)） | 2024/03/04 | 对应上面的 “回来吧MCBBS” |
 
 
 ## 资料来源
@@ -97,6 +99,8 @@
 - ICP/IP地址/域名信息备案管理系统  [https://beian.miit.gov.cn/](https://beian.miit.gov.cn/)
 
 - 全国互联网安全管理服务平台  [https://beian.mps.gov.cn/](https://beian.mps.gov.cn/)
+
+- 【原创】关于 MCBBS 永久关闭：我们永远失去了一个不可替代的社区  [https://klpbbs.com/thread-132441-1-1.html](https://klpbbs.com/thread-132441-1-1.html)
 
 - [[1]] 我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~
 
