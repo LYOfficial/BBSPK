@@ -33,7 +33,7 @@
 
 ### 晋级赛选手
 
-目前登记在册选手 37 位（计算公式：尾行数-21+1）
+目前登记在册选手 38 位（计算公式：尾行数-21+1）
 
 既然是中文论坛，即按照国内是否可以正常访问来确定是否存活，存活情况仅体现更新时状态，请以实际情况为准，欢迎提交pr更新状态！
 
@@ -52,11 +52,12 @@
 | PixelBBS | [www.pixelbbs.cn](https://www.pixelbbs.cn) | 存活 | 2022/08/12 | 2024/02/29 | 仅ICP | 收费服务 | [[4]] |
 | 萝卜我的世界论坛 | [www.luobomc.top](https://www.luobomc.top) | 半活 | 2022/08/28 | 2024/02/29 | 无 | 非大陆服务器，无法加载 | [[6]] |
 | MC-BBS | [mc-bbs.net](https://mc-bbs.net) | 死了 | 2022/08/30 | 2024/03/02 | 无 | 非大陆服务器，情况不明 |
-| MCSBBS | [mcsbbs.thxymc.com](https://mcsbbs.thxymc.com) | 存活 | 2022/09/12 | 2024/02/29 | 仅ICP | |
+| MCSBBS | [mcsbbs.cn](https://mcsbbs.cn) | 存活 | 2022/09/12 | 2024/03/04 | 仅ICP | |
 | SarBBS | [forum.sarskin.cn](https://forum.sarskin.cn) | 存活 | 2023/01/05 | 2024/02/29 | 无 | 非大陆服务器 |
 | PiboPibo | [www.pibopibo.com](https://www.pibopibo.com) | 存活 | 2023/01/29 | 2024/02/29 | 无 | 非大陆服务器 |
 | Tinksp | [www.tinksp.com](https://www.tinksp.com) | 存活 | 2023/02/25 | 2024/02/29 | 无 | 非大陆服务器 |
 | MCFUN | [www.mcshuo.com](https://www.mcshuo.com) | 存活 | 2023/04/18 | 2024/02/29 | 仅ICP | | [[7]] |
+| MCSBBS | [www.mcsbbs.com](https://www.mcsbbs.com)  | 存活 | 2023/05/29 | 2024/03/04 | 无 | 基于Xenforo , 页面静态分离，主页亚太CDN，静态资源走国内CDN |
 | MCUTC | [bbs.mcutc.cn](https://bbs.mcutc.cn) | 存活 | 2023/06/17 | 2024/02/29 | 无 | 非大陆服务器，有备案号，但无法查询，备案主体已注销 |
 | 末影论坛 | [enderbbs.wavemoe.com](https://enderbbs.wavemoe.com) | 存活 | 2023/08/28 | 2024/02/29 | 无 | 非大陆服务器 |
 | ikunmc | [ikunmc.com](https://ikunmc.com) | 存活 | 2023/10/28 | 2024/02/29 | 仅ICP | 非大陆服务器 |
@@ -76,6 +77,7 @@
 | 青草原MC社区 | [qcymc.top](https://qcymc.top) | 存活 | 2024/02/27 | 2024/02/29 | 无 | 非大陆服务器 |
 | MineNets | [minenets.com](https://minenets.com) | 存活 | 2024/03/02 | 2024/03/04 | 无 | 非大陆服务器 | [[12]] |
 | 米饭MCBBS | [www.mcbbs.top](https://www.mcbbs.top)  | 存活 | 2024/03/04 | 2024/03/04 | 仅ICP | 米饭私人资源站  |
+
 
 ### 表演赛选手
 这些网站之所以列在这里通常是因为其本身不具有论坛性质、依赖于农场建立或纯粹为了节目效果而建立。
@@ -149,7 +151,6 @@
 - [[12]] 不模仿 MCBBS，而是重新定义 MCBBS
 
   [12]: https://www.bilibili.com/video/BV1Vz421Q7Bz
-
 
 ## 统计信息
 
