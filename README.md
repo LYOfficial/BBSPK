@@ -23,7 +23,7 @@
 
 **更新时间** ```yyyy/mm/dd``` （你修改这个论坛信息的时间）
 
-**备案情况** ```有/无/仅ICP/ICP备案中```
+**备案情况** ```有/无/仅ICP/备案中```
 
 **备注（可不填）** 一般填写服务器位置、主营分区，可参考已有
 
@@ -50,15 +50,15 @@
 | 小僵尸论坛 | [www.zitbbs.com](https://www.zitbbs.com) | 存活 | 2021/07/20 | 2024/03/06 | 仅ICP |
 | MCPPS | [mcpps.cn](https://mcpps.cn) | 存活 | 2022/02/04 | 2024/03/06 | 有 |
 | PixelBBS | [www.pixelbbs.cn](https://www.pixelbbs.cn) | 存活 | 2022/08/12 | 2024/03/06 | 仅ICP | 收费服务 | [[4]] |
-| 萝卜我的世界论坛 | [www.luobomc.top](https://www.luobomc.top) | 半活 | 2022/08/28 | 2024/03/06 | 无 | 非大陆服务器，无法加载 | [[6]] |
-| MC-BBS | [mc-bbs.net](https://mc-bbs.net) | 死了 | 2022/08/30 | 2024/03/02 | 无 | 非大陆服务器，情况不明 |
+| 萝卜我的世界论坛 | [www.luobomc.top](https://www.luobomc.top) | 半活 | 2022/08/28 | 2024/03/06 | 无 | 非大陆服务器 | [[6]] |
+| MC-BBS | [mc-bbs.net](https://mc-bbs.net) | 死了 | 2022/08/30 | 2024/03/02 | 无 | 非大陆服务器 |
 | MCSBBS | [mcsbbs.cn](https://mcsbbs.cn) | 存活 | 2022/09/12 | 2024/03/04 | 仅ICP |
-| 美西螈论坛 | [www.mcmxy.cn](https://www.mcmxy.cn/) | 存活 | 2022/11/10 |2024/03/06 | 2024/03/06 | 有 |
+| 美西螈论坛 | [www.mcmxy.cn](https://www.mcmxy.cn/) | 存活 | 2022/11/10 | 2024/03/06 | 有 |
 | SarBBS | [forum.sarskin.cn](https://forum.sarskin.cn) | 存活 | 2023/01/05 | 2024/03/06 | 无 | 非大陆服务器 |
 | PiboPibo | [www.pibopibo.com](https://www.pibopibo.com) | 存活 | 2023/01/29 | 2024/03/06 | 无 | 非大陆服务器 |
 | Tinksp | [www.tinksp.com](https://www.tinksp.com) | 存活 | 2023/02/25 | 2024/03/06 | 无 | 非大陆服务器 |
 | MCFUN | [www.mcshuo.com](https://www.mcshuo.com) | 存活 | 2023/04/18 | 2024/03/06 | 仅ICP | | [[7]] |
-| MCSBBS | [www.mcsbbs.com](https://www.mcsbbs.com) | 存活 | 2023/05/29 | 2024/03/04 | 无 | 基于Xenforo , 页面静态分离，主页亚太CDN，静态资源走国内CDN |
+| MCSBBS | [www.mcsbbs.com](https://www.mcsbbs.com) | 存活 | 2023/05/29 | 2024/03/04 | 无 | 基于Xenforo |
 | MCUTC | [bbs.mcutc.cn](https://bbs.mcutc.cn) | 存活 | 2023/06/17 | 2024/03/06 | 无 | 非大陆服务器，有备案号，但无法查询，备案主体已注销 |
 | 末影论坛 | [enderbbs.wavemoe.com](https://enderbbs.wavemoe.com) | 存活 | 2023/08/28 | 2024/03/06 | 无 | 非大陆服务器 |
 | ikunmc | [ikunmc.com](https://ikunmc.com) | 存活 | 2023/10/28 | 2024/03/06 | 无 | 非大陆服务器 |
@@ -67,20 +67,20 @@
 | HiMCBBS | [www.himcbbs.com](https://www.himcbbs.com) | 存活 | 2024/01/28 | 2024/03/03 | 无 | 非大陆服务器，主营Java版 | [[1]] |
 | 方块社区 | [www.mineforum.cn](https://www.mineforum.cn) | 存活 | 2024/02/10 | 2024/03/06 | 无 | 非大陆服务器 | [[9]] |
 | MineSMS | [bbs.minesms.lol](https://bbs.minesms.lol) | 存活 | 2024/02/11 | 2024/03/06 | 无 | 非大陆服务器 |
-| MineTalk | [www.minetalk.cn](https://www.minetalk.cn) | 存活 | 2024/02/12 | 2024/03/06 | ICP备案中 | [临时链接](https://www.minebox.store)，非大陆服务器，五百元卖数据库 | [[5]] |
-| 喵呜MCBBS | [mcbbs.run](https://mcbbs.run) | 存活 | 2024/02/13 | 2024/03/06 | 仅ICP | 画了个圈的论坛 |
+| MineTalk | [www.minetalk.cn](https://www.minetalk.cn) | 存活 | 2024/02/12 | 2024/03/06 | 备案中 | [临时链接](https://www.minebox.store)，非大陆服务器，五百元卖数据库 | [[5]] |
+| 喵呜MCBBS | [mcbbs.run](https://mcbbs.run) | 存活 | 2024/02/13 | 2024/03/06 | 仅ICP |  |
 | CMCBBS | [www.cmcbbs.cn](https://www.cmcbbs.cn) | 存活 | 2024/02/20 | 2024/03/06 | 无 | 非大陆服务器 | [[8]] |
 | MineFriend | [feiyutang.cn](http://feiyutang.cn/) | 存活 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，原名SC论坛 |
 | PRT社区平台 | [mcprt.cn](https://mcprt.cn) | 存活 | 2024/02/20 | 2024/03/02 | 无 | 非大陆服务器，主营光影材质包 | [[11]] |
 | 大家的世界 | [bbs.mclqj.site](https://bbs.mclqj.site) | 存活 | 2024/02/22 | 2024/03/06 | 无 | 非大陆服务器 |
 | 黑曜石论坛 | [mcobs.fun](https://mcobs.fun) | 存活 | 2024/02/24 | 2024/03/06 | 无 | 非大陆服务器 | [[3]] |
-| MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 存活 | 2024/02/25 | 2024/03/03 | 无 | ICP备案中 | [[2]] |
+| MCBBS 2ND | [mcbbs.app](https://mcbbs.app) | 存活 | 2024/02/25 | 2024/03/03 | 备案中 |  | [[2]] |
 | potatobbs | [potato.eeeyt.cn](http://potato.eeeyt.cn/) | 存活 | 2024/02/25 | 2024/03/06 | 仅ICP |
 | 基岩我的世界中文论坛 | [bedrockmcbbs.web1337.net](http://bedrockmcbbs.web1337.net/) | 存活 | 2024/02/26 | 2024/03/06 | 无 | 非大陆服务器，使用免费主机 |
 | 青草原MC社区 | [qcymc.top](https://qcymc.top) | 存活 | 2024/02/27 | 2024/03/06 | 无 | 非大陆服务器 |
 | MineNets | [minenets.com](https://minenets.com) | 存活 | 2024/03/02 | 2024/03/04 | 无 | 非大陆服务器 | [[12]] |
 | 米饭MCBBS | [www.mcbbs.top](https://www.mcbbs.top) | 存活 | 2024/03/04 | 2024/03/04 | 仅ICP | 米饭私人资源站 |
-| REMCBBS | [www.remcbbs.top:5100](http://www.remcbbs.top:5100/) | 存活 | 2024/03/04 | 2024/03/06 | 无 | 未按规定进行双备案 |
+| REMCBBS | [www.remcbbs.top:5100](http://www.remcbbs.top:5100/) | 存活 | 2024/03/04 | 2024/03/06 | 无 | 未按规定进行备案 |
 
 ### 表演赛选手
 这些网站之所以列在这里通常是因为其本身不具有论坛性质、依赖于农场建立或纯粹为了节目效果而建立。
