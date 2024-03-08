@@ -48,7 +48,7 @@ const db_forums = [
     },
     {
         title: "暮光方块论坛",
-        url: "https://bbs.tsfk.top//",
+        url: "https://bbs.tsfk.top/",
         state: "up",
         createdAt: "2019/02/15",
         updatedAt: "2024/03/08",
@@ -179,7 +179,7 @@ const db_forums = [
     },
     {
         title: "美西螈论坛",
-        url: "https://www.mcmxy.cn//",
+        url: "https://www.mcmxy.cn/",
         state: "up",
         createdAt: "2022/11/10",
         updatedAt: "2024/03/06",
