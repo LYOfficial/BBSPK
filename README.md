@@ -80,7 +80,7 @@
 | 青草原MC社区 | [qcymc.top](https://qcymc.top) | 存活 | 2024/02/27 | 2024/03/06 | 无 | 非大陆服务器 |
 | MineNets | [minenets.com](https://minenets.com) | 存活 | 2024/03/02 | 2024/03/04 | 无 | 非大陆服务器 | [[12]] |
 | 米饭MCBBS | [www.mcbbs.top](https://www.mcbbs.top) | 存活 | 2024/03/04 | 2024/03/04 | 仅ICP | 米饭私人资源站 |
-| REMCBBS | [www.remcbbs.top:5100](http://www.remcbbs.top:5100/) | 死了 | 2024/03/08 | 2024/03/06 | 无 | 未按规定进行备案 |
+| REMCBBS | [www.remcbbs.top:5100](http://www.remcbbs.top:5100/) | 死了 | 2024/03/04 | 2024/03/08 | 无 | 未按规定进行备案 |
 
 ### 表演赛选手
 这些网站之所以列在这里通常是因为其本身不具有论坛性质、依赖于农场建立或纯粹为了节目效果而建立。
