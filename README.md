@@ -59,7 +59,7 @@
 | Tinksp | [www.tinksp.com](https://www.tinksp.com) | 存活 | 2023/02/25 | 2024/03/06 | 无 | 非大陆服务器 |
 | MCFUN | [www.mcshuo.com](https://www.mcshuo.com) | 存活 | 2023/04/18 | 2024/03/06 | 仅ICP | | [[7]] |
 | MCSBBS | [www.mcsbbs.com](https://www.mcsbbs.com) | 存活 | 2023/05/29 | 2024/03/04 | 无 | 基于Xenforo |
-| MCUTC | [bbs.mcutc.cn](https://bbs.mcutc.cn) | 存活 | 2023/06/17 | 2024/03/06 | 无 | 非大陆服务器，有备案号，但无法查询，备案主体已注销 |
+| MCUTC | [bbs.mcutc.cn](https://bbs.mcutc.cn) | 死了 | 2023/06/17 | 2024/03/08 | 无 | 非大陆服务器，有备案号，但无法查询，备案主体已注销 |
 | 末影论坛 | [enderbbs.wavemoe.com](https://enderbbs.wavemoe.com) | 存活 | 2023/08/28 | 2024/03/06 | 无 | 非大陆服务器 |
 | ikunmc | [ikunmc.com](https://ikunmc.com) | 存活 | 2023/10/28 | 2024/03/06 | 无 | 非大陆服务器 |
 | SimpBBS | [www.simpbbs.com](https://www.simpbbs.com) | 存活 | 2023/10/28 | 2024/03/06 | 无 | 非大陆服务器 |
