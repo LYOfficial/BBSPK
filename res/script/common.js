@@ -3,7 +3,8 @@ $('#forum-list-ex').html(DOMForumList.listEx(db_forums_ex));
 $('#forum-count').text(db_forums.length);
 $('#forum-count-ex').text(db_forums_ex.length);
 
-$(document).on('click', '.forum-item-header', function() {
+$(document).on('click', '.forum-item-header', function(e) {
+    if (e.target.nodeName == "A") return;
     let $sel = $(this).parents('.forum-item').find('.forum-item-content');
     if ($sel.hasClass('active')) {
         $sel.removeClass('active');
