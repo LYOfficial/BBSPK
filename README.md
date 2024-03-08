@@ -33,7 +33,7 @@
 
 ### 晋级赛选手
 
-目前登记在册选手 42 位（计算公式：尾行数-41）
+目前登记在册选手 43 位（计算公式：尾行数-41）
 
 既然是中文论坛，即按照国内是否可以正常访问来确定是否存活，存活情况仅体现更新时状态，请以实际情况为准，欢迎提交pr更新状态！
 
@@ -42,7 +42,8 @@
 | MCBBS | [www.mcbbs.net](https://www.mcbbs.net) | 未知 | 2010/10/30 | 2024/03/06 | 有 | 直属B站的我的世界中文论坛 |
 | 网易我的世界论坛 | [mc.netease.com](https://mc.netease.com) | 存活 | 2016/09/20 | 2024/03/06 | 有 | 网易论坛 |
 | MineBBS | [www.minebbs.com](https://www.minebbs.com) | 存活 | 2018/03/16 | 2024/03/06 | 仅ICP | 主营基岩版，含有Java版 |
-| 九域资源社区 | [bbs.mc9y.net](https://bbs.mc9y.net) | 存活 | 2019/01/07 | 2024/03/06 | 仅ICP |
+| 九域资源社区 | [bbs.mc9y.net](https://bbs.mc9y.net) | 存活 | 2019/01/07 | 2024/03/06 | 仅ICP | |
+| 暮光方块论坛 | [bbs.tsfk.top](https://bbs.tsfk.top/) | 存活 | 2019/02/15 | 2024/03/08 | 仅ICP | |
 | 像素点之家 | [mcbar.club](https://mcbar.club) | 存活 | 2019/07/14 | 2024/03/06 | 无 | 非大陆服务器，百度minecraft吧的替代品 |
 | 小黑资源论坛 | [www.blmcpia.com](https://www.blmcpia.com) | 存活 | 2019/10/04 | 2024/03/06 | 无 | 非大陆服务器，主营基岩版 |
 | 苦力怕论坛 | [klpbbs.com](https://klpbbs.com) | 存活 | 2020/03/01 | 2024/03/01 | 有 | 主营基岩版，含有Java版 |
