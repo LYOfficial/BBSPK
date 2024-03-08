@@ -64,7 +64,7 @@
 | ikunmc | [ikunmc.com](https://ikunmc.com) | 存活 | 2023/10/28 | 2024/03/06 | 无 | 非大陆服务器 |
 | SimpBBS | [www.simpbbs.com](https://www.simpbbs.com) | 存活 | 2023/10/28 | 2024/03/06 | 无 | 非大陆服务器 |
 | MinePixel | [minepixel.flarum.cloud](https://minepixel.flarum.cloud) | 死了 | 2024/01/12 | 2024/03/06 | 无 | 非大陆服务器，使用免费主机 | [[10]] |
-| HiMCBBS | [www.himcbbs.com](https://www.himcbbs.com) | 存活 | 2024/01/28 | 2024/03/03 | 无 | 非大陆服务器，主营Java版 | [[1]] |
+| HiMCBBS | [www.himcbbs.com](https://www.himcbbs.com) | 存活 | 2024/01/28 | 2024/03/08 | 备案中 | [临时链接](https://www.hibbs.top/)，板块分区丰富，主营Java，含基岩版 | [[1]] |
 | 方块社区 | [www.mineforum.cn](https://www.mineforum.cn) | 存活 | 2024/02/10 | 2024/03/06 | 无 | 非大陆服务器 | [[9]] |
 | MineSMS | [bbs.minesms.lol](https://bbs.minesms.lol) | 存活 | 2024/02/11 | 2024/03/06 | 无 | 非大陆服务器 |
 | MineTalk | [www.minetalk.cn](https://www.minetalk.cn) | 存活 | 2024/02/12 | 2024/03/06 | 备案中 | [临时链接](https://www.minebox.store)，非大陆服务器，五百元卖数据库 | [[5]] |
