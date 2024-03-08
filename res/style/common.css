@@ -1,0 +1,448 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --ant-color-primary: #1677ff;
+    --ant-color-success: #52c41a;
+    --ant-color-warning: #faad14;
+    --ant-color-error: #ff4d4f;
+    --ant-color-info: #1677ff;
+    --ant-color-link: #1677ff;
+    --ant-color-text-base: #000;
+    --ant-color-bg-base: #fff;
+
+    --ant-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    --ant-font-family-code: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+
+    --ant-border-radius: 6px;
+
+    --ant-color-text: rgba(0, 0, 0, 0.88);
+    --ant-color-text-secondary: rgba(0, 0, 0, 0.65);
+    --ant-color-text-tertiary: rgba(0, 0, 0, 0.45);
+    --ant-color-text-quaternary: rgba(0, 0, 0, 0.25);
+    --ant-color-text-placeholder: rgba(0, 0, 0, 0.25);
+    --ant-color-text-disabled: rgba(0, 0, 0, 0.25);
+    --ant-color-text-heading: rgba(0, 0, 0, 0.88);
+    --ant-color-text-label: rgba(0, 0, 0, 0.65);
+    --ant-color-text-description: rgba(0, 0, 0, 0.45);
+    --ant-color-text-light-solid: #fff;
+
+    --ant-color-fill: rgba(0, 0, 0, 0.15);
+    --ant-color-fill-secondary: rgba(0, 0, 0, 0.06);
+    --ant-color-fill-tertiary: rgba(0, 0, 0, 0.04);
+    --ant-color-fill-quaternary: rgba(0, 0, 0, 0.02);
+
+    --ant-color-bg-layout: #f5f5f5;
+    --ant-color-bg-container: #ffffff;
+    --ant-color-bg-elevated: #ffffff;
+    --ant-color-bg-spotlight: rgba(0, 0, 0, 0.85);
+    --ant-color-bg-blur: transparent;
+
+    --ant-color-border: #d9d9d9;
+    --ant-color-border-secondary: #f0f0f0;
+
+    --ant-color-primary-bg: #e6f4ff;
+    --ant-color-primary-bg-hover: #bae0ff;
+    --ant-color-primary-border: #91caff;
+    --ant-color-primary-border-hover: #69b1ff;
+    --ant-color-primary-hover: #4096ff;
+    --ant-color-primary-active: #0958d9;
+    --ant-color-primary-text-hover: #4096ff;
+    --ant-color-primary-text: #1677ff;
+    --ant-color-primary-text-active: #0958d9;
+
+    --ant-color-success-bg: #f6ffed;
+    --ant-color-success-bg-hover: #d9f7be;
+    --ant-color-success-border: #b7eb8f;
+    --ant-color-success-border-hover: #95de64;
+    --ant-color-success-hover: #95de64;
+    --ant-color-success-active: #389e0d;
+    --ant-color-success-text-hover: #73d13d;
+    --ant-color-success-text: #52c41a;
+    --ant-color-success-text-active: #389e0d;
+
+    --ant-color-error-bg: #fff2f0;
+    --ant-color-error-bg-hover: #fff1f0;
+    --ant-color-error-border: #ffccc7;
+    --ant-color-error-border-hover: #ffa39e;
+    --ant-color-error-hover: #ff7875;
+    --ant-color-error-active: #d9363e;
+    --ant-color-error-text-hover: #ff7875;
+    --ant-color-error-text: #ff4d4f;
+    --ant-color-error-text-active: #d9363e;
+
+    --ant-color-warning-bg: #fffbe6;
+    --ant-color-warning-bg-hover: #fff1b8;
+    --ant-color-warning-border: #ffe58f;
+    --ant-color-warning-border-hover: #ffd666;
+    --ant-color-warning-hover: #ffd666;
+    --ant-color-warning-active: #d48806;
+    --ant-color-warning-text-hover: #ffc53d;
+    --ant-color-warning-text: #faad14;
+    --ant-color-warning-text-active: #d48806;
+
+    --ant-color-info-bg: #e6f4ff;
+    --ant-color-info-bg-hover: #bae0ff;
+    --ant-color-info-border: #91caff;
+    --ant-color-info-border-hover: #69b1ff;
+    --ant-color-info-hover: #69b1ff;
+    --ant-color-info-active: #0958d9;
+    --ant-color-info-text-hover: #4096ff;
+    --ant-color-info-text: #1677ff;
+    --ant-color-info-text-active: #0958d9;
+    --ant-color-link-hover: #69b1ff;
+    --ant-color-link-active: #0958d9;
+
+    --ant-box-shadow: 0 6px 16px 0 rgba(0, 0, 0, 0.08), 0 3px 6px -4px rgba(0, 0, 0, 0.12), 0 9px 28px 8px rgba(0, 0, 0, 0.05);
+    --ant-box-shadow-secondary: 0 6px 16px 0 rgba(0, 0, 0, 0.08), 0 3px 6px -4px rgba(0, 0, 0, 0.12), 0 9px 28px 8px rgba(0, 0, 0, 0.05);
+    --ant-box-shadow-tertiary: 0 1px 2px 0 rgba(0, 0, 0, 0.03), 0 1px 6px -1px rgba(0, 0, 0, 0.02), 0 2px 4px 0 rgba(0, 0, 0, 0.02);
+    --ant-box-shadow-popover-arrow: 2px 2px 5px rgba(0, 0, 0, 0.05);
+    --ant-box-shadow-card: 0 1px 2px -2px rgba(0, 0, 0, 0.16), 0 3px 6px 0 rgba(0, 0, 0, 0.12), 0 5px 12px 4px rgba(0, 0, 0, 0.09);
+}
+
+body {
+    font-size: 16px;
+    color: var(--ant-color-text);
+    font-family: var(--ant-font-family);
+}
+
+h1 {
+    text-align: center;
+    font-size: 28px;
+    margin: 32px 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    padding: 1rem 0 0.5rem 0;
+    border-bottom: var(--ant-color-border) 1px solid;
+}
+
+h3 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 200;
+    padding: 1rem 0 0.5rem 0;
+}
+
+header {
+    margin-bottom: 32px;
+}
+
+.header-intro {
+    padding: 1rem;
+}
+
+.header-intro p,
+.article p {
+    margin: 0.75rem 0;
+}
+
+.article img {
+    height: auto;
+    width: auto;
+    max-width: calc(min(100vw, 800px) - 4rem);
+}
+
+.page-content {
+    max-width: min(1000px, 100vw);
+    margin: 0 auto;
+}
+
+.forum-list {
+    max-width: min(800px, 100vw);
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+a {
+    --color-link: var(--ant-color-link);
+    color: var(--color-link);
+    text-decoration: none;
+}
+
+a svg {
+    width: 1rem;
+    height: 1rem;
+    fill: var(--color-link);
+}
+
+a:hover {
+    --color-link: var(--ant-color-primary-text-hover);
+}
+
+a:visited {
+    --color-link: var(--ant-color-link);
+}
+
+a:active {
+    --color-link: var(--ant-color-primary-text-active);
+}
+
+.list-controller {
+    margin: 0.75rem 0 0 0;
+    text-align: center;
+}
+
+.list-controller-item {
+    display: inline-block;
+    padding: 0.5rem;
+    color: var(--ant-color-primary);
+    cursor: pointer;
+}
+
+.list-controller-item+.list-controller-item {
+    margin-left: 0.5rem;
+}
+
+.list-controller-item:hover {
+    color: var(--ant-color-primary-text-hover);
+}
+
+.list-controller-item:active {
+    color: var(--ant-color-primary-text-active);
+}
+
+.forum-item {
+    --state-color: var(--ant-color-border);
+    --background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    border: var(--ant-color-border) 1px solid;
+    border-left: var(--state-color) var(--ant-border-radius) solid;
+    border-radius: var(--ant-border-radius);
+    box-shadow: var(--ant-box-shadow-popover-arrow);
+    box-sizing: border-box;
+    padding: 0.5rem 0.75rem;
+    position: relative;
+    overflow: hidden;
+    background-color: var(--background-color);
+}
+
+@keyframes forum-item-bg {
+    0% { background-position: 0rem 0rem; }
+    100% { background-position: 0rem 2rem; }
+}
+
+.forum-item.forum-state-up .forum-item-bg,
+.forum-item.forum-state-failure .forum-item-bg {
+    z-index: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../../assets/svg/bg-state-up.svg);
+    background-size: 2rem;
+    background-color: #52c41a05;
+    animation: forum-item-bg 1s linear 0s infinite;
+}
+
+.forum-item.forum-state-failure .forum-item-bg {
+    background-image: url(../../assets/svg/bg-state-failure.svg);
+    animation: forum-item-bg 2s linear 0s infinite;
+    background-color: #faad1405;
+}
+
+.forum-item.forum-state-down .forum-item-bg {
+    z-index: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #ff4d4f0a;
+}
+
+.forum-item>*:not(.forum-item-bg) {
+    z-index: 1;
+}
+
+.forum-item .forum-item-bg-2 {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to left, var(--background-color) 0% , var(--background-color) 33.33%, transparent 100%);
+}
+
+.forum-item.forum-state-up {
+    --state-color: var(--ant-color-success);
+}
+
+.forum-item.forum-state-down {
+    --state-color: var(--ant-color-error);
+}
+
+.forum-item.forum-state-failure {
+    --state-color: var(--ant-color-warning);
+}
+
+.forum-item+.forum-item {
+    margin-top: 0.75rem;
+}
+
+.forum-item-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    cursor: pointer;
+}
+
+/* .forum-item-header .state-box {
+    min-width: 2.5rem;
+} */
+
+.forum-item-header .state-box .state-icon {
+    width: 32px;
+    height: 32px;
+    fill: var(--state-color);
+}
+
+.forum-item-header .title-box {
+    flex: 1;
+    min-width: min(200px, 70vw);
+}
+
+.forum-item-header .title-box .title {
+    font-size: 18px;
+    color: var(--ant-color-text);
+}
+
+.forum-item-header .title-box .url {
+    font-size: 12px;
+    color: var(--ant-color-text-secondary);
+}
+
+.forum-item-header .time-box {
+    font-size: 12px;
+    color: var(--ant-color-text-tertiary);
+}
+
+.forum-item-header .date-icon-text {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.forum-item-header .date-icon-text+.date-icon-text {
+    margin-top: 0.25rem;
+}
+
+.forum-item-header .date-icon-text svg {
+    width: 1rem;
+    height: 1rem;
+    fill: var(--ant-color-text-tertiary);
+}
+
+.forum-item-header .action-box a,
+.archive-url a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25em;
+}
+
+.forum-item-content {
+    margin-top: 0.5rem;
+    border: var(--ant-color-border) 1px solid;
+    padding: 1rem;
+    background-color: #ffffff;
+    display: none;
+}
+
+.forum-item-content.active {
+    display: block;
+}
+
+.forum-item-content .attr-label {
+    font-weight: bold;
+    color: var(--ant-color-text-tertiary);
+    font-size: 14px;
+}
+
+.forum-item-content .attr-value {
+    padding: 0.25rem 1rem 0.75rem 1rem;
+}
+
+.forum-item-content ol {
+    padding-left: 1rem;
+}
+
+.forum-item-content ol li+li {
+    margin-top: 0.5rem;
+}
+
+.forum-item-content .reference ol {
+    font-size: 14px;
+    color: var(--ant-color-text-secondary);
+}
+
+.forum-item-content a.reference-link {
+    font-size: 12px;
+    --color-link: var(--ant-color-text-tertiary);
+    word-break: break-all;
+}
+
+.forum-item-content a.reference-link:hover {
+    text-decoration: underline;
+}
+
+.forum-item-content .icp-line {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+}
+
+.forum-item-content .icp-line-item {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    min-width: 150px;
+    gap: 0.75rem;
+}
+
+.forum-item-content .icp-line-item .icp-state {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    --color-fill: #000000;
+    color: var(--color-fill);
+}
+
+.forum-item-content .icp-line-item .icp-state svg {
+    width: 1rem;
+    height: 1rem;
+    fill: var(--color-fill);
+}
+
+.forum-item-content .icp-line-item .icp-state-yes {
+    --color-fill: var(--ant-color-success);
+}
+
+.forum-item-content .icp-line-item .icp-state-no {
+    --color-fill: var(--ant-color-error);
+}
+
+.forum-item-content .icp-line-item .icp-state-in_progress {
+    --color-fill: var(--ant-color-warning);
+}
+
+
+
+.footer-content {
+    margin: 32px 0;
+    padding: 1rem;
+    text-align: center;
+    color: var(--ant-color-text-secondary);
+}
+
+.footer-content p {
+    font-size: 14px;
+    margin: 0.75rem 0;
+}
