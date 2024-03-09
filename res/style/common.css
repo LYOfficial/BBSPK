@@ -108,6 +108,12 @@ body {
     font-family: var(--ant-font-family);
 }
 
+#bbspk-logo {
+    max-height: 75%;
+    max-width: 80vw;
+    filter: drop-shadow(0 0 8px #000000);
+}
+
 h1 {
     text-align: center;
     font-size: 28px;
@@ -130,7 +136,23 @@ h3 {
 }
 
 header {
-    margin-bottom: 32px;
+    margin-bottom: 0px;
+}
+
+.header-banner {
+    height: min(400px, 50vh);
+    background-image: url(../../assets/image/banner.png);
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-banner h1 {
+    font-size: 48px;
+    color: #FFFFFF;
+    text-shadow: #000 0 0 8px;
 }
 
 .header-intro {
@@ -182,6 +204,54 @@ a:visited {
 a:active {
     --color-link: var(--ant-color-primary-text-active);
 }
+
+
+
+
+nav {
+    padding: 0 1rem;
+    height: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    position: sticky;
+    top: 0;
+    z-index: 500;
+    background-color: #FFFFFF;
+    border-bottom: var(--ant-color-border) 1px solid;
+}
+
+nav.in-sticky {
+    box-shadow: var(--ant-box-shadow-popover-arrow);
+}
+
+.nav-item {
+    padding: 1rem 2rem;
+    cursor: pointer;
+}
+
+.nav-item:hover {
+    background-color: #FAFAFA;
+}
+
+.nav-item:active {
+    background-color: #EEEEEE;
+}
+
+@media screen and (max-width: 760px) {
+    .nav-item {
+        padding: 1rem 1rem;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .nav-item {
+        padding: 1rem 0.5rem;
+    }    
+}
+
+
+
 
 .list-controller {
     margin: 0.75rem 0 0 0;
