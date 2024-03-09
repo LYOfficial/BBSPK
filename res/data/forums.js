@@ -22,7 +22,12 @@ const db_forums = [
         hasICP: "yes",
         hasNetSec: "yes",
         note: "网易论坛",
-        reference: []
+        reference: [
+            {
+                title: "新生的mc社区",
+                url: "https://www.minebbs.com/resources/minesms.7206/",
+            }
+        ]
     },
     {
         title: "MineBBS",
