@@ -370,9 +370,9 @@ const db_forums = [
     {
         title: "喵呜MCBBS",
         url: "https://mcbbs.run/",
-        state: "up",
+        state: "failure",
         createdAt: "2024/02/13",
-        updatedAt: "2024/03/06",
+        updatedAt: "2024/03/08",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
