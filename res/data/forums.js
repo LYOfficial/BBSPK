@@ -616,5 +616,13 @@ const db_forums_ex = [
         updatedAt: "2024/03/06",
         note: "MCBBS 信息状态，复活 MCBBS！！！",
         reference: []
+    },
+    {
+        title: "玩 MCBBS 导致的",
+        url: "https://mcbbs.daozhi.de",
+        archiveUrl: "https://web.archive.org/web/20240309114439/https://mcbbs.daozhi.de/",
+        updatedAt: "2024/03/09",
+        note: "不如玩____",
+        reference: []
     }
 ];
