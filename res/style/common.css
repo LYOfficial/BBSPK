@@ -149,6 +149,10 @@ header {
     justify-content: center;
 }
 
+.header-banner.in-night {
+    background-image: url(../../assets/image/banner_night.png);
+}
+
 .header-banner h1 {
     font-size: 48px;
     color: #FFFFFF;
@@ -226,9 +230,13 @@ nav.in-sticky {
 }
 
 .nav-item {
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
+    min-width: 6rem;
     cursor: pointer;
     user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .nav-item:hover {
@@ -242,12 +250,15 @@ nav.in-sticky {
 @media screen and (max-width: 760px) {
     .nav-item {
         padding: 1rem 1rem;
+        min-width: unset;
     }
 }
 
 @media screen and (max-width: 450px) {
     .nav-item {
         padding: 1rem 0.5rem;
+        min-width: unset;
+        flex: 1;
     }    
 }
 
@@ -581,4 +592,22 @@ nav.in-sticky {
 .footer-content p {
     font-size: 14px;
     margin: 0.75rem 0;
+}
+
+
+
+
+.aic-burst-tip {
+    opacity: 0.1;
+    transition: opacity .3s;
+}
+
+.aic-burst-tip:hover {
+    opacity: 0.5;
+}
+
+@media screen and (max-width: 760px) {
+    .aic-burst-tip {
+        display: none;
+    }
 }

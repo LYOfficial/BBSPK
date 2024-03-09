@@ -19,6 +19,13 @@
         <div class="header-banner">
             <img id="bbspk-logo" src="assets/image/logo.png" alt="LOGO">
         </div>
+        <script>
+            const timeNow = new Date();
+            const nowHours = timeNow.getHours();
+            if (nowHours >= 19 || nowHours < 6) {
+                $('.header-banner').addClass('in-night');
+            }
+        </script>
     </header>
 
     <nav id="bbspk-nav">
@@ -83,7 +90,7 @@
                 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>
                 协议共享
             </p>
-            <p style="opacity: 0.1;">同时按住 Z + X 键可以释放圣光爆发</p>
+            <p class="aic-burst-tip">同时按住 Z + X 键可以释放圣光爆发</p>
         </div>
     </footer>
 
