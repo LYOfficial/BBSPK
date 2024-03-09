@@ -228,6 +228,7 @@ nav.in-sticky {
 .nav-item {
     padding: 1rem 2rem;
     cursor: pointer;
+    user-select: none;
 }
 
 .nav-item:hover {
