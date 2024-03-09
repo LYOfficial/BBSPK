@@ -519,7 +519,6 @@ const db_forums = [
         state: "up",
         createdAt: "2024/03/04",
         updatedAt: "2024/03/04",
-        "备案情况": "仅ICP",
         hasICP: "no",
         hasNetSec: "no",
         note: "米饭私人资源站",
