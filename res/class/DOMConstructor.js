@@ -15,6 +15,13 @@ class DOMForumList {
             icon = icons[item.state];
         }
 
+        const stateName = {
+            up: '正常运行',
+            down: '停摆',
+            failure: '存在故障或访问困难',
+            unknow: '未知'
+        }
+
         item = {
             title: "未命名",
             url: "https://www.example.com/",
@@ -34,7 +41,7 @@ class DOMForumList {
                 <div class="forum-item-bg-2"></div>
             </div>
             <div class="forum-item-header">
-                <div class="state-box">
+                <div class="state-box" title="${stateName[item.state]}">
                     <div class="state-icon">${Icon[icon]()}</div>
                 </div>
                 <div class="title-box">

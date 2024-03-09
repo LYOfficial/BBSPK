@@ -33,7 +33,7 @@
 | - | - | - |
 | `title` | String | 网站名称。 |
 | `url` | String | 网站 URL 地址。 |
-| `state` | String | 网站状态：<br>`up` - 正常运行<br>`down` - 非正常运行<br>`failure` - 存在故障<br>`unknow` - 未知 |
+| `state` | String | 网站状态：<br>`up` - 正常运行<br>`down` - 停摆<br>`failure` - 存在故障或访问困难<br>`unknow` - 未知 |
 | `createdAt` | String | 网站创建时间，格式为 `YYYY/MM/DD`。 |
 | `updatedAt` | String | 最后更新时间，格式为 `YYYY/MM/DD`。 |
 | `hasICP` | String | 是否 ICP 备案：<br>`yes` - 已备案<br>`no` - 未备案<br>`in_progress` - 备案中 |
