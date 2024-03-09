@@ -311,12 +311,12 @@ const db_forums = [
     {
         title: "HiMCBBS",
         url: "https://www.himcbbs.com/",
-        state: "failure",
+        state: "up",
         createdAt: "2024/01/28",
-        updatedAt: "2024/03/08",
+        updatedAt: "2024/03/09",
         hasICP: "in_progress",
         hasNetSec: "no",
-        note: "板块分区丰富，主营Java，含基岩版。临时链接：https://www.hibbs.top/",
+        note: "板块分区丰富，主营Java，含基岩版。",
         reference: [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
