@@ -2,10 +2,25 @@ $('#forum-list').html(DOMForumList.list(db_forums, 'forum-list'));
 $('#forum-list-ex').html(DOMForumList.listEx(db_forums_ex, 'forum-list-ex'));
 
 function scrollToTitle(id) {
-    if (id == 'top') return $(document).scrollTop(0);
+    if (id == 'top') {
+        updateView(function() {
+            $(document).scrollTop(0);
+        });
+        return;
+    }
     const top = $('#' + id).offset().top;
     const navHeight = $('#bbspk-nav').height();
-    $(document).scrollTop(top - navHeight);
+    updateView(function() {
+        $(document).scrollTop(top - navHeight);
+    });
+}
+
+function updateView(action = function() {}) {
+    if (!document.startViewTransition) {
+        action();
+        return;
+    }
+    document.startViewTransition(() => action());
 }
 
 $(document).on('click', '.forum-item-header', function(e) {
