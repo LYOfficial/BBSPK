@@ -73,8 +73,8 @@ class DOMForumList {
         </div>`;
     }
 
-    static list(items = []) {
-        let dom = '';
+    static list(items = [], target = '') {
+        let dom = DOMForumList.listHeader(items, target);
         items = items.sort((a, b) => {
             let da = new Date(a.createdAt).getTime();
             let db = new Date(b.createdAt).getTime();
@@ -125,8 +125,8 @@ class DOMForumList {
         </div>`;
     }
 
-    static listEx(items = []) {
-        let dom = '';
+    static listEx(items = [], target = '') {
+        let dom = DOMForumList.listHeaderEx(items, target);
         items.forEach(e => {
             dom += DOMForumList.itemEx(e);
         });
@@ -187,5 +187,64 @@ class DOMForumList {
         }
 
         return `<span class="icp-state icp-state-${value}">${Icon[icons[value]]()} ${label[value]}</span>`;
+    }
+
+    static listHeader(items = [], target = '') {
+        let totalCount    = items.length,
+            survivalCount = items.filter((e) => {
+                return e.state == 'up' || e.state == 'failure';
+            }).length,
+            upCount       = items.filter((e) => {
+                return e.state == 'up';
+            }).length,
+            failureCount  = items.filter((e) => {
+                return e.state == 'failure';
+            }).length,
+            downCount  = items.filter((e) => {
+                return e.state == 'down';
+            }).length,
+            unknowCount  = items.filter((e) => {
+                return e.state == 'unknow';
+            }).length;
+
+        return `<div class="forum-list-header">
+            <div class="forum-count">
+                <span class="forum-count-item now survival"><span class="forum-count-value">${survivalCount}</span></span>
+                <span class="forum-count-item total">/<span class="forum-count-value">${totalCount}</span></span>
+            </div>
+            <div class="forum-count-title">存活 / 总数</div>
+            <div class="forum-count-more">
+                <span class="forum-count-item up">正常<span class="forum-count-value">${upCount}</span></span>
+                <span class="forum-count-item failure">故障<span class="forum-count-value">${failureCount}</span></span>
+                <span class="forum-count-item down">淘汰<span class="forum-count-value">${downCount}</span></span>
+                <span class="forum-count-item unknow">未知<span class="forum-count-value">${unknowCount}</span></span>
+            </div>
+            <div class="forum-controller">
+                <div class="list-controller">
+                    <span class="list-controller-item oepn" data-target="${target}">全部展开</span>
+                    <span class="list-controller-item close" data-target="${target}">全部收起</span>
+                </div>
+            </div>
+        </div>`;
+    }
+
+    static listHeaderEx(items = [], target = '') {
+        let totalCount    = items.length;
+
+        return `<div class="forum-list-header">
+            <div class="forum-count">
+                <span class="forum-count-item now"><span class="forum-count-value">${totalCount}</span></span>
+            </div>
+            <div class="forum-count-title">总数</div>
+            <div class="forum-list-description article">
+            <p>这些网站之所以列在这里通常是因为其本身不具有论坛性质、依赖于农场建立或纯粹为了节目效果而建立，无法参与晋级赛。这些网站可能随时关闭，请贡献者注意对网页进行存档。</p>
+            </div>
+            <div class="forum-controller">
+                <div class="list-controller">
+                    <span class="list-controller-item oepn" data-target="${target}">全部展开</span>
+                    <span class="list-controller-item close" data-target="${target}">全部收起</span>
+                </div>
+            </div>
+        </div>`;
     }
 }
