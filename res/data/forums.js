@@ -14,6 +14,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "MineSMS论坛加速连接",
+        url: "https://cbbs.minesms.lol/",
+        state: "up",
+        createdAt: "null",
+        updatedAt: "2024/03/09",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "MineSMS论坛全球加速连接",
+        reference: []
+    },
+    {
         title: "网易我的世界论坛",
         url: "https://mc.netease.com/",
         state: "up",
