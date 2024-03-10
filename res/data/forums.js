@@ -352,6 +352,17 @@ const db_forums = [
         ]
     },
     {
+        title: "MineSMS",
+        url: "https://bbs.minesms.lol/",
+        state: "up",
+        createdAt: "2024/02/11",
+        updatedAt: "2024/03/06",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器",
+        reference: []
+    },
+    {
         title: "MineTalk",
         url: "https://www.minetalk.cn/",
         state: "failure",
@@ -533,17 +544,6 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "未按规定进行备案",
-        reference: []
-    },
-    {
-        title: "蓝天新世界",
-        url: "https://www.2b2t.ren/",
-        state: "failure",
-        createdAt: "未知",
-        updatedAt: "2024/03/10",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器，创建时间待确认",
         reference: []
     }
 ];
