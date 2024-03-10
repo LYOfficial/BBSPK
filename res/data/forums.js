@@ -624,7 +624,7 @@ const db_forums_ex = [
         updatedAt: "2024/03/09",
         note: "不如玩____",
         reference: []
-    }
+    },
     {
         title: "MCBBS UK",
         url: "http://mcbbs.uk",
