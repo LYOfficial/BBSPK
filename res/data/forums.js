@@ -191,7 +191,7 @@ const db_forums = [
     {
         title: "美西螈论坛",
         url: "https://www.mcmxy.cn/",
-        state: "failure",
+        state: "up",
         createdAt: "2022/11/10",
         updatedAt: "2024/03/10",
         hasICP: "yes",
@@ -262,7 +262,7 @@ const db_forums = [
     {
         title: "MCUTC",
         url: "https://bbs.mcutc.cn/",
-        state: "failure",
+        state: "no",
         createdAt: "2023/06/17",
         updatedAt: "2024/03/10",
         hasICP: "no",
