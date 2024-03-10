@@ -1,6 +1,31 @@
 $('#forum-list').html(DOMForumList.list(db_forums, 'forum-list'));
 $('#forum-list-ex').html(DOMForumList.listEx(db_forums_ex, 'forum-list-ex'));
 
+// 这是一个无用注释，因为 GitHub 没把这条代码构建进去
+createTimer('2024/02/27 00:00:00 GMT+0800', '#timer-bbspk-created');
+
+function scrollToTitle(id) {
+    if (id == 'top') {
+        updateView(function() {
+            $(document).scrollTop(0);
+        });
+        return;
+    }
+    const top = $('#' + id).offset().top;
+    const navHeight = $('#bbspk-nav').height();
+    updateView(function() {
+        $(document).scrollTop(top - navHeight);
+    });
+}
+
+function updateView(action = function() {}) {
+    if (!document.startViewTransition) {
+        action();
+        return;
+    }
+    document.startViewTransition(() => action());
+}
+
 $(document).on('click', '.forum-item-header', function(e) {
     if ($(e.target).closest('a').length) return;
     let $sel = $(this).parents('.forum-item').find('.forum-item-content');
@@ -17,4 +42,18 @@ $(document).on('click', '.list-controller-item.oepn', function() {
 
 $(document).on('click', '.list-controller-item.close', function() {
     $('#' + $(this).data('target') + ' .forum-item-content').removeClass('active');
+});
+
+$(document).on('click', 'nav .nav-item', function() {
+    const target = $(this).data('target');
+    scrollToTitle(target);
+});
+
+$(document).scroll(function() {
+    let top = $(document).scrollTop();
+    if (top > $('header').offset().top + $('header').height()) {
+        $('#bbspk-nav').addClass('in-sticky');
+    } else {
+        $('#bbspk-nav').removeClass('in-sticky');
+    }
 });

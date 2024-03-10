@@ -14,6 +14,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "最MC",
+        url: "https://www.zuimc.com/",
+        state: "down",
+        createdAt: "2013/04/18",
+        updatedAt: "2024/03/08",
+        hasICP: "yes",
+        hasNetSec: "yes",
+        note: "运营主体跑路，正在出售",
+        reference: []
+    },
+    {
         title: "网易我的世界论坛",
         url: "https://mc.netease.com/",
         state: "up",
@@ -84,7 +95,7 @@ const db_forums = [
         url: "https://klpbbs.com/",
         state: "up",
         createdAt: "2020/03/01",
-        updatedAt: "2024/03/01",
+        updatedAt: "2024/03/10",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "主营基岩版，含有Java版",
@@ -142,7 +153,7 @@ const db_forums = [
     {
         title: "萝卜我的世界论坛",
         url: "https://www.luobomc.top/",
-        state: "failure",
+        state: "down",
         createdAt: "2022/08/28",
         updatedAt: "2024/03/06",
         hasICP: "no",
@@ -313,10 +324,10 @@ const db_forums = [
         url: "https://www.himcbbs.com/",
         state: "failure",
         createdAt: "2024/01/28",
-        updatedAt: "2024/03/08",
+        updatedAt: "2024/03/09",
         hasICP: "in_progress",
         hasNetSec: "no",
-        note: "板块分区丰富，主营Java，含基岩版。临时链接：https://www.hibbs.top/",
+        note: "板块分区丰富，主营Java，含基岩版。",
         reference: [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
@@ -521,7 +532,7 @@ const db_forums = [
         updatedAt: "2024/03/04",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "米饭私人资源站",
+        note: "我的世界资源站",
         reference: []
     },
     {
@@ -629,11 +640,26 @@ const db_forums_ex = [
         reference: []
     },
     {
+        title: "玩 MCBBS 导致的",
+        url: "https://mcbbs.daozhi.de",
+        archiveUrl: "https://web.archive.org/web/20240309114439/https://mcbbs.daozhi.de/",
+        updatedAt: "2024/03/09",
+        note: "不如玩____",
+        reference: []
+    },
+    {
+        title: "MCBBS UK",
+        url: "http://mcbbs.uk",
+        archiveUrl: "https://web.archive.org/web/20240310060053/http://mcbbs.uk/",
+        updatedAt: "2024/03/10",
+        note: "MCBBS in the UK",
+        reference: []
+    },
+    {
         title: "我的世界中文论坛联盟",
         url: "http://mccnforumunion.cn/",
         archiveUrl: "https://web.archive.org/web/20240310105520/http://mccnforumunion.cn/",
         updatedAt: "2024/03/10",
-        note: "我的世界中文论坛联盟",
-        reference: []
+        note: "我的世界中文论坛联盟"
     }
 ];

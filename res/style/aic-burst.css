@@ -1,0 +1,122 @@
+body.aic-burst {
+    animation: aic-burst-scale 1s;
+    /* overflow: hidden; */
+    overflow-x: hidden;
+    pointer-events: none;
+    height: 100vh;
+}
+
+@keyframes aic-burst-scale {
+    0% {transform: scale(1.1); filter: brightness(1.1);}
+    100% {transform: scale(1); filter: brightness(1);}
+}
+
+#aic-burst {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(0 0 0 / 50%);
+    opacity: 0;
+    z-index: 1000;
+    transition: opacity .3s, background-color .15s;
+    background-image: linear-gradient(rgb(255 255 255 / 0%) calc(50% - 15vh), rgb(255 255 255 / 35%) 50%, rgb(255 255 255 / 0%) calc(50% + 15vh));
+}
+
+#aic-burst.close {
+    opacity: 0;
+    transition: opacity .5s, background-color .5s;
+}
+
+#aic-burst.ready {
+    opacity: 1;
+}
+
+#aic-burst.done {
+    background-color: rgb(255 255 255 / 75%);
+    opacity: 0;
+    transition: opacity 1s, background-color .15s;
+}
+
+.aic-burst-bg-2 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(to right, rgb(255 255 255 / 0%) calc(50% - 15vh), rgb(255 255 255 / 35%) 50%, rgb(255 255 255 / 0%) calc(50% + 15vh));
+}
+
+.aic-burst-block {
+    --aic-burst-block-size: min(30vh, 30vw);
+    width: var(--aic-burst-block-size);
+    height: var(--aic-burst-block-size);
+    transform: rotate(45deg);
+    border: 3px solid #FFF;
+    box-sizing: border-box;
+    position: fixed;
+    top: calc(50vh - var(--aic-burst-block-size) / 2);
+    left: calc(50vw - var(--aic-burst-block-size) / 2);
+    opacity: 1;
+    box-shadow: 0 0 10px #FFF, 0 0 10px #FFF inset;
+    transition: width 1.5s, height 1.5s, top 1.5s, left 1.5s, box-shadow 1.5s, opacity .5s;
+    transition-timing-function: ease-in;
+}
+
+.aic-burst-block.block-1 {
+    top: calc(60vh - var(--aic-burst-block-size) / 2);
+}
+
+#aic-burst.ready .aic-burst-block.block-1 {
+    top: calc(50vh - var(--aic-burst-block-size) / 2);
+    transition: width 1.5s, height 1.5s, top .3s, left .3s, box-shadow 1.5s, opacity .5s;
+}
+
+.aic-burst-block.block-2 {
+    --aic-burst-block-size: min(70vh, 70vw);
+    opacity: 0;
+}
+
+#aic-burst.play .aic-burst-block {
+    box-shadow: 0 0 20px #FFF, 0 0 20px #FFF inset, 0 0 50px #FFF, 0 0 50px #FFF inset, 0 0 100px #FFF, 0 0 100px #FFF inset, 0 0 250px #FFF, 0 0 250px #FFF inset;
+}
+
+#aic-burst.play .aic-burst-block.block-1 {
+    --aic-burst-block-size: min(35vh, 35vw);
+    transition: width 1.5s, height 1.5s, top 1.5s, left 1.5s, box-shadow 1.5s, opacity .5s;
+    transition-timing-function: ease-in;
+}
+
+#aic-burst.play .aic-burst-block.block-2 {
+    --aic-burst-block-size: min(35vh, 35vw);
+    opacity: 1;
+}
+
+.aic-burst-icon {
+    font-size: min(15vh, 15vw);
+    color: #FFF;
+    font-weight: bold;
+    position: relative;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF;
+    top: 10vh;
+    transition: font-size .5s, text-shadow .5s, top 1.5s;
+    transition-timing-function: ease-in;
+}
+
+#aic-burst.ready .aic-burst-icon {
+    top: 0;
+    transition: top .3s;
+}
+
+#aic-burst.play .aic-burst-icon {
+    top: 0;
+    font-size: min(18vh, 18vw);
+    text-shadow: 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #FFF, 0 0 50px #FFF;
+    transition: font-size 1.5s, text-shadow 1.5s;
+    transition-timing-function: ease-in;
+}

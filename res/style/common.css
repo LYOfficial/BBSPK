@@ -106,6 +106,13 @@ body {
     font-size: 16px;
     color: var(--ant-color-text);
     font-family: var(--ant-font-family);
+    background: var(--ant-color-bg-base);
+}
+
+#bbspk-logo {
+    max-height: 75%;
+    max-width: 80vw;
+    filter: drop-shadow(0 0 8px #000000);
 }
 
 h1 {
@@ -130,7 +137,27 @@ h3 {
 }
 
 header {
-    margin-bottom: 32px;
+    margin-bottom: 0px;
+}
+
+.header-banner {
+    height: min(400px, 50vh);
+    background-image: url(../../assets/image/banner.png);
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-banner.in-night {
+    background-image: url(../../assets/image/banner_night.png);
+}
+
+.header-banner h1 {
+    font-size: 48px;
+    color: #FFFFFF;
+    text-shadow: #000 0 0 8px;
 }
 
 .header-intro {
@@ -182,6 +209,87 @@ a:visited {
 a:active {
     --color-link: var(--ant-color-primary-text-active);
 }
+
+
+
+
+nav {
+    padding: 0 1rem;
+    height: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    position: sticky;
+    top: 0;
+    z-index: 500;
+    background-color: #FFFFFF;
+    border-bottom: var(--ant-color-border) 1px solid;
+}
+
+nav.in-sticky {
+    box-shadow: var(--ant-box-shadow-popover-arrow);
+}
+
+.nav-item {
+    padding: 1rem 1rem;
+    min-width: 6rem;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-item:hover {
+    background-color: #FAFAFA;
+}
+
+.nav-item:active {
+    background-color: #EEEEEE;
+}
+
+@media screen and (max-width: 760px) {
+    .nav-item {
+        padding: 1rem 1rem;
+        min-width: unset;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .nav-item {
+        padding: 1rem 0.5rem;
+        min-width: unset;
+        flex: 1;
+    }    
+}
+
+
+
+
+
+.bbspk-portal {
+    display: flex;
+    margin: 1rem;
+    gap: 1rem;
+}
+
+.bbspk-portal-left {
+    flex: 2;
+}
+
+.bbspk-portal-right {
+    flex: 1;
+}
+
+@media screen and (max-width: 760px) {
+    .bbspk-portal {
+        flex-direction: column;
+    }
+}
+
+
+
+
 
 .list-controller {
     margin: 0.75rem 0 0 0;
@@ -500,14 +608,153 @@ a:active {
 
 
 
+
+
+footer {
+    border-top: var(--ant-color-border) 1px solid;
+    background-color: #FAFAFA;
+}
+
+footer>.page-content {
+    display: flex;
+}
+
+.footer-logo-card {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    padding: 4rem 0;
+}
+
 .footer-content {
+    flex: 2;
     margin: 32px 0;
     padding: 1rem;
     text-align: center;
     color: var(--ant-color-text-secondary);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
 }
 
 .footer-content p {
     font-size: 14px;
-    margin: 0.75rem 0;
+}
+
+#footer-logo {
+    margin: 0 auto;
+    width: 60%;
+    height: auto;
+}
+
+#footer-qrcode {
+    margin: 0 auto;
+    width: 80%;
+    height: auto;
+}
+
+@media screen and (max-width: 760px) {
+    footer>.page-content {
+        flex-direction: column;
+    }
+
+    .footer-logo-card {
+        gap: 2rem;
+        padding: 2rem 0;
+    }
+}
+
+
+
+
+.timer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    color: var(--ant-color-text-secondary);
+}
+
+.timer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--ant-color-text-tertiary);
+}
+
+.timer-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.timer-item-value {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 48px;
+    min-width: 5rem;
+    text-align: center;
+    color: var(--ant-color-success);
+}
+
+#btn-bbspk-join {
+    display: block;
+    outline: unset;
+    border: unset;
+    background-color: var(--ant-color-success);
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 1rem 1rem 1rem 1.75rem;
+    cursor: pointer;
+    text-align: center;
+    letter-spacing: 0.25rem;
+}
+
+#btn-bbspk-join:hover,
+#btn-bbspk-join:focus-visible {
+    background-image: url(../../assets/svg/bg-state-unknow.svg);
+    background-size: 2rem;
+    animation: forum-item-bg 1s linear 0s infinite;
+    background-color: var(--ant-color-success-text-hover);
+}
+
+.bbspk-join-card {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: stretch;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.bbspk-join-message {
+    text-align: center;
+    color: var(--ant-color-text-secondary);
+}
+
+
+
+
+
+.aic-burst-tip {
+    opacity: 0.1;
+    transition: opacity .3s;
+}
+
+.aic-burst-tip:hover {
+    opacity: 0.5;
+}
+
+@media screen and (max-width: 760px) {
+    .aic-burst-tip {
+        display: none;
+    }
 }

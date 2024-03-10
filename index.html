@@ -6,16 +6,70 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>新兴我的世界论坛晋级赛</title>
     <link rel="stylesheet" href="res/style/common.css">
+    <link rel="stylesheet" href="res/style/aic-burst.css">
     <script src="lib/jquery-3.7.1.min.js"></script>
     <script src="res/data/forums.js"></script>
     <script src="res/class/Icon.js"></script>
     <script src="res/class/DOMConstructor.js"></script>
+    <script src="res/script/timer.js"></script>
 </head>
 
 <body>
     <header>
+        <h1 style="display: none;">新兴我的世界论坛晋级赛</h1>
+        <div class="header-banner">
+            <img id="bbspk-logo" src="assets/image/logo.png" alt="LOGO">
+        </div>
+        <script>
+            const timeNow = new Date();
+            const nowHours = timeNow.getHours();
+            if (nowHours >= 19 || nowHours < 6) {
+                $('.header-banner').addClass('in-night');
+            }
+        </script>
+    </header>
+
+    <nav id="bbspk-nav">
+        <div class="nav-item" data-target="top" style="font-weight: bold;">BBSPK</div>
+        <div class="nav-item" data-target="bbspk-h2-1">晋级赛</div>
+        <div class="nav-item" data-target="bbspk-h2-2">表演赛</div>
+        <div class="nav-item" data-target="bbspk-h2-3">统计信息</div>
+    </nav>
+
+    <main>
         <div class="page-content">
-            <h1>新兴我的世界论坛晋级赛</h1>
+            <div class="bbspk-portal">
+                <div class="bbspk-portal-left">
+                    <div id="timer-bbspk-created" class="timer">
+                        <div class="timer-title">距离晋级赛开始已过去</div>
+                        <div class="timer-content">
+                            <span class="timer-item">
+                                <span class="timer-item-value days">0</span>
+                                <span>天</span>
+                            </span>
+                            <span class="timer-item">
+                                <span class="timer-item-value hours">0</span>
+                                <span>小时</span>
+                            </span>
+                            <span class="timer-item">
+                                <span class="timer-item-value minutes">0</span>
+                                <span>分钟</span>
+                            </span>
+                            <span class="timer-item">
+                                <span class="timer-item-value seconds">0</span>
+                                <span>秒</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="bbspk-portal-right">
+                    <div class="bbspk-join-card">
+                        <span class="bbspk-join-message">想要加入吗？</span>
+                        <a id="btn-bbspk-join" href="https://github.com/LYOfficial/BBSPK/blob/main/README.md" target="_blank">立即报名 ➤</a>
+                    </div>
+                </div>
+            </div>
+            
             <div class="header-intro">
                 <p>我的世界中文论坛 MCBBS 仍在关站中，近期出现许多新兴我的世界论坛，在此列出目前可见的我的世界中文论坛，旁观晋级赛现状。</p>
                 <p>以下内容均收集自互联网，不代表参与本项目的任何个人或组织的观点。</p>
@@ -26,19 +80,14 @@
                     上点击 “Star” 来支持我们的编写！
                 </p>
             </div>
-        </div>
-    </header>
 
-    <main>
-        
-        <div class="page-content">
-            <h2>晋级赛选手</h2>
+            <h2 id="bbspk-h2-1">晋级赛选手</h2>
             <div id="forum-list" class="forum-list"></div>
 
-            <h2>表演赛选手</h2>
+            <h2 id="bbspk-h2-2">表演赛选手</h2>
             <div id="forum-list-ex" class="forum-list"></div>
 
-            <h2>统计信息</h2>
+            <h2 id="bbspk-h2-3">统计信息</h2>
             <div class="article">
                 <h3>访问计数</h3>
                 <p style="text-align: center;">
@@ -60,24 +109,39 @@
     </main>
 
     <footer>
-        <div class="footer-content">
-            <p>
-                <a href="https://github.com/LYOfficial/BBSPK" target="_blank">GitHub</a> | 
-                <a href="https://github.com/LYOfficial/BBSPK/blob/main/README.md" target="_blank">为此项目做出贡献</a>
-            </p>
-            <p>
-                <a href="https://beian.miit.gov.cn/" target="_blank">ICP备案管理系统</a> | 
-                <a href="https://beian.mps.gov.cn/" target="_blank">网安服务平台</a>
-            </p>
-            <p>
-                本项目内容以
-                <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>
-                协议共享
-            </p>
+        <div class="page-content">
+            <div class="footer-logo-card">
+                <img id="footer-logo" src="assets/image/logo_green.png" alt="LOGO">
+                <img id="footer-qrcode" src="assets/image/guanzhu_bbspk_xiexiemiao.png" alt="扫码关注 BBSPK 官方账号">
+            </div>
+            <div class="footer-content">
+                <p>
+                    <a href="https://github.com/LYOfficial/BBSPK" target="_blank">GitHub</a> | 
+                    <a href="https://github.com/LYOfficial/BBSPK/blob/main/README.md" target="_blank">为此项目做出贡献</a>
+                </p>
+                <p>
+                    <a href="https://beian.miit.gov.cn/" target="_blank">ICP备案管理系统</a> | 
+                    <a href="https://beian.mps.gov.cn/" target="_blank">网安服务平台</a>
+                </p>
+                <p>
+                    本项目内容以
+                    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>
+                    协议共享
+                </p>
+                <p class="aic-burst-tip">同时按住 Z + X 键可以释放圣光爆发</p>
+            </div>
         </div>
     </footer>
+
+    <div id="aic-burst">
+        <div class="aic-burst-bg-2"></div>
+        <div class="aic-burst-block block-1"></div>
+        <div class="aic-burst-block block-2"></div>
+        <div class="aic-burst-icon">爆</div>
+    </div>
     
     <script src="res/script/common.js"></script>
+    <script src="res/script/aic-burst.js"></script>
 </body>
 
 </html>
