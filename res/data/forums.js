@@ -624,5 +624,13 @@ const db_forums_ex = [
         updatedAt: "2024/03/09",
         note: "不如玩____",
         reference: []
+    },
+    {
+        title: "MCBBS UK",
+        url: "http://mcbbs.uk",
+        archiveUrl: "https://web.archive.org/web/20240310060053/http://mcbbs.uk/",
+        updatedAt: "2024/03/10",
+        note: "MCBBS in the UK",
+        reference: []
     }
 ];
