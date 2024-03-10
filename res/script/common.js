@@ -1,7 +1,6 @@
 $('#forum-list').html(DOMForumList.list(db_forums, 'forum-list'));
 $('#forum-list-ex').html(DOMForumList.listEx(db_forums_ex, 'forum-list-ex'));
 
-// 这是一个无用注释，因为 GitHub 没把这条代码构建进去
 createTimer('2024/02/27 00:00:00 GMT+0800', '#timer-bbspk-created');
 
 function scrollToTitle(id) {
