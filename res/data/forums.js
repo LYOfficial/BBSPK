@@ -14,6 +14,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "最MC",
+        url: "https://www.zuimc.com/",
+        state: "down",
+        createdAt: "2013/04/18",
+        updatedAt: "2024/03/08",
+        hasICP: "yes",
+        hasNetSec: "yes",
+        note: "运营主体跑路，正在出售",
+        reference: []
+    },
+    {
         title: "网易我的世界论坛",
         url: "https://mc.netease.com/",
         state: "up",
@@ -82,7 +93,7 @@ const db_forums = [
     {
         title: "苦力怕论坛",
         url: "https://klpbbs.com/",
-        state: "failure",
+        state: "up",
         createdAt: "2020/03/01",
         updatedAt: "2024/03/10",
         hasICP: "yes",
