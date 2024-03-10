@@ -142,7 +142,7 @@ const db_forums = [
     {
         title: "萝卜我的世界论坛",
         url: "https://www.luobomc.top/",
-        state: "failure",
+        state: "down",
         createdAt: "2022/08/28",
         updatedAt: "2024/03/06",
         hasICP: "no",
@@ -311,7 +311,7 @@ const db_forums = [
     {
         title: "HiMCBBS",
         url: "https://www.himcbbs.com/",
-        state: "up",
+        state: "failure",
         createdAt: "2024/01/28",
         updatedAt: "2024/03/09",
         hasICP: "in_progress",
