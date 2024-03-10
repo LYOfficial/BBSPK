@@ -93,7 +93,7 @@ const db_forums = [
     {
         title: "苦力怕论坛",
         url: "https://klpbbs.com/",
-        state: "up",
+        state: "failure",
         createdAt: "2020/03/01",
         updatedAt: "2024/03/10",
         hasICP: "yes",
