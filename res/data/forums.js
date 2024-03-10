@@ -124,6 +124,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "MCHVH",
+        url: "https://mchvh.com/",
+        state: "up",
+        createdAt: "2021/12/30",
+        updatedAt: "2024/03/10",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "",
+        reference: []
+    },
+    {
         title: "MCPPS",
         url: "https://mcpps.cn/",
         state: "up",
