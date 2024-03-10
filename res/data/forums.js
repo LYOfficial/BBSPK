@@ -251,7 +251,7 @@ const db_forums = [
     {
         title: "MCUTC",
         url: "https://bbs.mcutc.cn/",
-        state: "down",
+        state: "failure",
         createdAt: "2023/06/17",
         updatedAt: "2024/03/08",
         hasICP: "no",
@@ -354,7 +354,7 @@ const db_forums = [
     {
         title: "MineTalk",
         url: "https://www.minetalk.cn/",
-        state: "down",
+        state: "failure",
         createdAt: "2024/02/12",
         updatedAt: "2024/03/06",
         hasICP: "in_progress",
@@ -370,9 +370,9 @@ const db_forums = [
     {
         title: "喵呜MCBBS",
         url: "https://mcbbs.run/",
-        state: "up",
+        state: "failure",
         createdAt: "2024/02/13",
-        updatedAt: "2024/03/06",
+        updatedAt: "2024/03/10",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -395,14 +395,14 @@ const db_forums = [
         ]
     },
     {
-        title: "MineFriend",
+        title: "绿宝石论坛",
         url: "http://feiyutang.cn/",
         state: "up",
         createdAt: "2024/02/20",
-        updatedAt: "2024/03/02",
+        updatedAt: "2024/03/10",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，原名SC论坛",
+        note: "非大陆服务器，原名MineFriend",
         reference: []
     },
     {
@@ -534,6 +534,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "未按规定进行备案",
         reference: []
+    },
+    {
+        title: "蓝天新世界",
+        url: "https://www.2b2t.ren/",
+        state: "failure",
+        createdAt: "未知",
+        updatedAt: "2024/03/10",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "未按规定进行备案，创建时间待确认",
+        reference: []
     }
 ];
 
@@ -602,7 +613,7 @@ const db_forums_ex = [
         reference: []
     },
     {
-        title: "回来了 MCBBS",
+        title: "MCBBS 纪念站",
         url: "http://www.mcbbs.red/",
         archiveUrl: "https://web.archive.org/web/20240304124348/http://www.mcbbs.red/",
         updatedAt: "2024/03/04",
@@ -615,6 +626,14 @@ const db_forums_ex = [
         archiveUrl: "https://web.archive.org/web/20240306053304/https://www.mcbbs.info/",
         updatedAt: "2024/03/06",
         note: "MCBBS 信息状态，复活 MCBBS！！！",
+        reference: []
+    },
+    {
+        title: "我的世界中文论坛联盟",
+        url: "http://mccnforumunion.cn/",
+        archiveUrl: "https://web.archive.org/web/20240310105520/http://mccnforumunion.cn/",
+        updatedAt: "2024/03/10",
+        note: "我的世界中文论坛联盟",
         reference: []
     }
 ];
