@@ -25,6 +25,23 @@ const db_forums = [
         reference: []
     },
     {
+        title: "MineSMS",
+        url: "https://bbs.minesms.lol/",
+        state: "up",
+        createdAt: "2024/02/11",
+        updatedAt: "2024/03/10",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器,资源少",
+        reference: [
+            {
+            title: 'MineSMS论坛应用',
+            url: 'https://file.minesms.lol/%E6%9C%8D%E5%8A%A1%E5%99%A8/MineSMS%20BBS.apk',
+            }
+            
+        ]
+    },
+    {
         title: "MineBBS",
         url: "https://www.minebbs.com/",
         state: "up",
@@ -339,17 +356,6 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1Hu4m1P7BY"
             }
         ]
-    },
-    {
-        title: "MineSMS",
-        url: "https://bbs.minesms.lol/",
-        state: "up",
-        createdAt: "2024/02/11",
-        updatedAt: "2024/03/06",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器",
-        reference: []
     },
     {
         title: "MineTalk",
