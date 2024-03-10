@@ -131,7 +131,7 @@ const db_forums = [
         updatedAt: "2024/03/10",
         hasICP: "no",
         hasNetSec: "no",
-        note: "",
+        note: "非大陆服务器",
         reference: []
     },
     {
