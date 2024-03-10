@@ -273,7 +273,7 @@ const db_forums = [
     {
         title: "MCUTC",
         url: "https://bbs.mcutc.cn/",
-        state: "no",
+        state: "down",
         createdAt: "2023/06/17",
         updatedAt: "2024/03/10",
         hasICP: "no",
