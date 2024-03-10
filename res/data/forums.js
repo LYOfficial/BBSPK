@@ -521,7 +521,7 @@ const db_forums = [
         updatedAt: "2024/03/04",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "米饭私人资源站",
+        note: "我的世界中文资源站,欢迎提交资源",
         reference: []
     },
     {
