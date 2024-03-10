@@ -1,6 +1,8 @@
 $('#forum-list').html(DOMForumList.list(db_forums, 'forum-list'));
 $('#forum-list-ex').html(DOMForumList.listEx(db_forums_ex, 'forum-list-ex'));
 
+createTimer('2024/02/27 00:00:00 GMT+0800', '#timer-bbspk-created');
+
 function scrollToTitle(id) {
     if (id == 'top') {
         updateView(function() {
