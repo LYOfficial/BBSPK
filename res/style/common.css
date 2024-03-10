@@ -106,7 +106,7 @@ body {
     font-size: 16px;
     color: var(--ant-color-text);
     font-family: var(--ant-font-family);
-    background: var(--ant-color-bg-container);
+    background: var(--ant-color-bg-base);
 }
 
 #bbspk-logo {
