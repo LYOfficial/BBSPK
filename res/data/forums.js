@@ -556,6 +556,7 @@ const db_forums = [
 
 // ============================================================
 // 表演选手
+// * 这里请根据添加时间排序，而不是网站创建时间（因为不可考）
 // ============================================================
 const db_forums_ex = [
     {
@@ -642,6 +643,14 @@ const db_forums_ex = [
         archiveUrl: "https://web.archive.org/web/20240310060053/http://mcbbs.uk/",
         updatedAt: "2024/03/10",
         note: "MCBBS in the UK",
+        reference: []
+    },
+    {
+        title: "MCBBS 活着",
+        url: "https://mcbbs.life/",
+        archiveUrl: "https://web.archive.org/web/20240310112317/https://mcbbs.life/",
+        updatedAt: "2024/03/10",
+        note: "MCBBS 还活着！😭😭😭",
         reference: []
     }
 ];
