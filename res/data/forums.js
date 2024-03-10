@@ -376,7 +376,7 @@ const db_forums = [
     {
         title: "MineTalk",
         url: "https://www.minetalk.cn/",
-        state: "down",
+        state: "failure",
         createdAt: "2024/02/12",
         updatedAt: "2024/03/10",
         hasICP: "in_progress",
@@ -555,6 +555,17 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "未按规定进行备案",
+        reference: []
+    },
+    {
+        title: "蓝天新世界",
+        url: "https://www.2b2t.ren/",
+        state: "failure",
+        createdAt: "2024/03/10",
+        updatedAt: "2024/03/10",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器，创建时间待确认",
         reference: []
     }
 ];
