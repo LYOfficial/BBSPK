@@ -376,12 +376,12 @@ const db_forums = [
     {
         title: "MineTalk",
         url: "https://www.minetalk.cn/",
-        state: "failure",
+        state: "up",
         createdAt: "2024/02/12",
         updatedAt: "2024/03/10",
-        hasICP: "in_progress",
+        hasICP: "yes",
         hasNetSec: "no",
-        note: "非大陆服务器，五百元卖数据库。临时链接：https://www.minebox.store",
+        note: "java与基岩版论坛，已完成ICP备案",
         reference: [
             {
                 title: "我的世界中文论坛BBS关停，你们要的新论坛来啦",
