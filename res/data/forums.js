@@ -84,7 +84,7 @@ const db_forums = [
         url: "https://klpbbs.com/",
         state: "failure",
         createdAt: "2020/03/01",
-        updatedAt: "2024/03/01",
+        updatedAt: "2024/03/10",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "主营基岩版，含有Java版",
