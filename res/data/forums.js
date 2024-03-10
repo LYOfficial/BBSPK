@@ -115,7 +115,7 @@ const db_forums = [
     {
         title: "小僵尸论坛",
         url: "https://www.zitbbs.com/",
-        state: "failure",
+        state: "up",
         createdAt: "2021/07/20",
         updatedAt: "2024/03/10",
         hasICP: "yes",
@@ -338,7 +338,7 @@ const db_forums = [
     {
         title: "方块社区",
         url: "https://www.mineforum.cn/",
-        state: "failure",
+        state: "up",
         createdAt: "2024/02/10",
         updatedAt: "2024/03/10",
         hasICP: "no",
@@ -365,7 +365,7 @@ const db_forums = [
     {
         title: "MineTalk",
         url: "https://www.minetalk.cn/",
-        state: "failure",
+        state: "down",
         createdAt: "2024/02/12",
         updatedAt: "2024/03/10",
         hasICP: "in_progress",
