@@ -616,9 +616,9 @@ const db_forums_ex = [
     {
         title: "MCBBS 纪念站",
         url: "http://www.mcbbs.red/",
-        archiveUrl: "https://web.archive.org/web/20240304124348/http://www.mcbbs.red/",
+        archiveUrl: "https://web.archive.org/web/20240310130700/https://www.mcbbs.red/",
         updatedAt: "2024/03/04",
-        note: "对应上面的 “回来吧 MCBBS”",
+        note: "MCBBS 网页快照",
         reference: []
     },
     {
