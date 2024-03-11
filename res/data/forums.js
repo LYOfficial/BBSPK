@@ -446,7 +446,7 @@ const db_forums = [
     {
         title: "大家的世界",
         url: "https://bbs.mclqj.site/",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/22",
         updatedAt: "2024/03/11",
         hasICP: "no",
