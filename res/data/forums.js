@@ -15,13 +15,13 @@ const db_forums = [
     },
     {
         title: "最MC",
-        url: "https://www.zuimc.com/",
-        state: "down",
+        url: "http://www.zuimc.com/",
+        state: "up",
         createdAt: "2013/04/18",
         updatedAt: "2024/03/11",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "运营主体跑路，正在出售",
+        note: "",
         reference: []
     },
     {
