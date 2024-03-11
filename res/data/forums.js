@@ -354,7 +354,7 @@ const db_forums = [
         updatedAt: "2024/03/11",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，疑似重开",
+        note: "非大陆服务器，疑似重新开放",
         reference: []
     },
     {
