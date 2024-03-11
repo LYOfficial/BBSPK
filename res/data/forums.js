@@ -558,9 +558,9 @@ const db_forums = [
         reference: []
     },
     {
-        title: "蓝天新世界",
+        title: "MC 2B2T TEAM!",
         url: "https://www.2b2t.ren/",
-        state: "failure",
+        state: "up",
         createdAt: "2024/03/11",
         updatedAt: "2024/03/11",
         hasICP: "no",
