@@ -27,7 +27,7 @@ const db_forums = [
     {
         title: "网易我的世界论坛",
         url: "https://mc.netease.com/",
-        state: "failure",
+        state: "up",
         createdAt: "2016/09/20",
         updatedAt: "2024/03/11",
         hasICP: "yes",
@@ -148,7 +148,7 @@ const db_forums = [
     {
         title: "PixelBBS",
         url: "https://www.pixelbbs.cn/",
-        state: "failure",
+        state: "up",
         createdAt: "2022/08/12",
         updatedAt: "2024/03/11",
         hasICP: "yes",
@@ -560,7 +560,7 @@ const db_forums = [
     {
         title: "蓝天新世界",
         url: "https://www.2b2t.ren/",
-        state: "up",
+        state: "failure",
         createdAt: "2024/03/11",
         updatedAt: "2024/03/11",
         hasICP: "no",
