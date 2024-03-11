@@ -376,7 +376,7 @@ const db_forums = [
     {
         title: "MineTalk",
         url: "https://www.minetalk.cn/",
-        state: "failure",
+        state: "up",
         createdAt: "2024/02/12",
         updatedAt: "2024/03/11",
         hasICP: "yes",
