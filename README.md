@@ -19,7 +19,7 @@
 2. 在 Fork 的仓库内进行修改。
 3. 点击顶部的【Pull requests】，右上角【New pull request】。
 4. 填写标题和说明，比如您做了什么修改。
-5. 等待此项目所有者 [@LYOfficial](https://github.com/LYOfficial) 通过审核。
+5. 等待此项目所有者 [@LYOfficial](https://github.com/LYOfficial) 和项目管理员[@sheep-realms](https://github.com/sheep-realms)通过审核。
 
 ### 如何更改数据？
 
