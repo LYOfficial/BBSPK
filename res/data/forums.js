@@ -262,7 +262,7 @@ const db_forums = [
         updatedAt: "2024/03/13",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "论坛页面(https://www.mcshuo.com/forum.php)标题出现“苦力怕论坛”，网站关键词出现“苦力怕论坛官网”",
+        note: "论坛页面(https://www.mcshuo.com/forum.php)标题出现“苦力怕论坛”，网站关键词出现“苦力怕论坛官网”，存档：https://web.archive.org/web/20240312164744/https://www.mcshuo.com/forum.php",
         reference: [
             {
                 title: "再见Mcbbs，新生McFun",
