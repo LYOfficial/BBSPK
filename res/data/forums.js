@@ -567,7 +567,18 @@ const db_forums = [
         hasNetSec: "no",
         note: "未按规定进行备案，非大陆服务器",
         reference: []
-    }
+    },
+    {
+        title: "我的世界UTC中文论坛",
+        url: "https://bbs.mcutc.cn/",
+        state: "up",
+        createdAt: "2022/04/16",
+        updatedAt: "2024/03/11",
+        hasICP: "yes",
+        hasNetSec: "in_progress",
+        note: "已正式升级企业备案，主要发布minecraft衍生资源",
+        reference: []
+    }        
 ];
 
 
