@@ -43,7 +43,7 @@ const db_forums = [
         updatedAt: "2024/03/11",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "主营基岩版，含有Java版",
+        note: "主营基岩版，含Java版",
         reference: []
     },
     {
@@ -76,7 +76,7 @@ const db_forums = [
         updatedAt: "2024/03/11",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，百度minecraft吧的替代品",
+        note: "非大陆服务器。百度minecraft吧的替代品",
         reference: []
     },
     {
@@ -87,7 +87,7 @@ const db_forums = [
         updatedAt: "2024/03/11",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，主营基岩版",
+        note: "非大陆服务器。主营基岩版",
         reference: []
     },
     {
@@ -98,7 +98,7 @@ const db_forums = [
         updatedAt: "2024/03/11",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "主营基岩版，含有Java版",
+        note: "主营基岩版，含Java版",
         reference: []
     },
     {
@@ -267,7 +267,7 @@ const db_forums = [
         updatedAt: "2024/03/04",
         hasICP: "no",
         hasNetSec: "no",
-        note: "基于Xenforo",
+        note: "非大陆服务器。基于Xenforo",
         reference: []
     },
     {
@@ -278,7 +278,7 @@ const db_forums = [
         updatedAt: "2024/03/11",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，有备案号，但无法查询，备案主体已注销",
+        note: "有备案号，但无法查询，备案主体已注销",
         reference: []
     },
     {
@@ -338,7 +338,7 @@ const db_forums = [
         updatedAt: "2024/03/11",
         hasICP: "in_progress",
         hasNetSec: "no",
-        note: "板块分区丰富，主营Java，含基岩版。",
+        note: "非大陆服务器。板块分区丰富，主营Java版，含基岩版。",
         reference: [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
@@ -354,7 +354,7 @@ const db_forums = [
         updatedAt: "2024/03/11",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，疑似重新开放",
+        note: "非大陆服务器。网站疑似重新开放",
         reference: []
     },
     {
@@ -392,7 +392,7 @@ const db_forums = [
         updatedAt: "2024/03/11",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "java与基岩版论坛，已完成ICP备案",
+        note: "非大陆服务器。Java版与基岩版论坛",
         reference: [
             {
                 title: "我的世界中文论坛BBS关停，你们要的新论坛来啦",
@@ -435,7 +435,7 @@ const db_forums = [
         updatedAt: "2024/03/11",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，原名MineFriend",
+        note: "非大陆服务器。原名MineFriend",
         reference: []
     },
     {
@@ -446,7 +446,7 @@ const db_forums = [
         updatedAt: "2024/03/02",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，主营光影材质包",
+        note: "非大陆服务器。主营光影材质包",
         reference: [
             {
                 title: "PRT社区 一个主营光影材质包的社区平台！",
@@ -489,7 +489,7 @@ const db_forums = [
         updatedAt: "2024/03/03",
         hasICP: "in_progress",
         hasNetSec: "no",
-        note: "",
+        note: "非大陆服务器",
         reference: [
             {
                 title: "MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！",
@@ -565,7 +565,7 @@ const db_forums = [
         updatedAt: "2024/03/11",
         hasICP: "no",
         hasNetSec: "no",
-        note: "未按规定进行备案",
+        note: "未按规定进行备案，非大陆服务器",
         reference: []
     }
 ];
