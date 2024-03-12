@@ -577,7 +577,7 @@ const db_forums = [
             },
             {
                 title: "【Minecraft】MCBBS复兴有望？新一代MC社区！",
-                url: "https://www.bilibili.com/video/BV1hW421A7dm/"
+                url: "https://www.bilibili.com/video/BV1w2421u7ym"
             },
             {
                 title: "REMCBBS，国内新一代Minecraft开源社区",
