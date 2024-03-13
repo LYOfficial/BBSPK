@@ -547,8 +547,8 @@ const db_forums = [
     },
     {
         title: "REMCBBS",
-        url: "http://www.remcbbs.top:5100/",
-        state: "down",
+        url: "https://remcbbs.top/",
+        state: "failure",
         createdAt: "2024/03/04",
         updatedAt: "2024/03/13",
         hasICP: "no",
