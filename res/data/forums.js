@@ -315,22 +315,6 @@ const db_forums = [
         reference: []
     },
     {
-        title: "145Hub闲聊社区",
-        url: "https://145hub.flarum.cloud/",
-        state: "up",
-        createdAt: "2024/03/05",
-        updatedAt: "2024/03/13",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器，使用免费主机，前身MinePixel",
-        reference: [
-            {
-                title: "Minepixel 论坛招人了！",
-                url: "https://www.bilibili.com/video/BV13A4m137tZ"
-            }
-        ]
-    },
-    {
         title: "HiMCBBS",
         url: "https://www.himcbbs.com/",
         state: "up",
@@ -734,5 +718,17 @@ const db_forums_ex = [
         updatedAt: "2024/03/13",
         note: "与本站无关，系其他人创建",
         reference: []
+    },
+    {
+        title: "145Hub闲聊社区",
+        url: "https://145hub.flarum.cloud/",
+        updatedAt: "2024/03/13",
+        note: "非大陆服务器，使用免费主机，前身MinePixel",
+        reference: [
+            {
+                title: "Minepixel 论坛招人了！",
+                url: "https://www.bilibili.com/video/BV13A4m137tZ"
+            }
+        ]
     }
 ];
