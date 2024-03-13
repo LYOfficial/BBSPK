@@ -702,33 +702,5 @@ const db_forums_ex = [
         updatedAt: "2024/03/10",
         note: "MCBBS 还活着！😭😭😭",
         reference: []
-    },
-    {
-        title: "我的世界中文论坛联盟",
-        url: "http://mccnforumunion.cn/",
-        archiveUrl: "https://web.archive.org/web/20240310105520/http://mccnforumunion.cn/",
-        updatedAt: "2024/03/10",
-        note: "我的世界中文论坛联盟",
-        reference: []
-    },
-    {
-        title: "我的世界相关中文论坛收集",
-        url: "https://xiaotianmc.github.io/minecraft/others/minecraftBBS.html",
-        archiveUrl: "https://web.archive.org/web/20240312164615/https://xiaotianmc.github.io/minecraft/others/minecraftBBS.html",
-        updatedAt: "2024/03/13",
-        note: "与本站无关，系其他人创建",
-        reference: []
-    },
-    {
-        title: "145Hub闲聊社区",
-        url: "https://145hub.flarum.cloud/",
-        updatedAt: "2024/03/13",
-        note: "非大陆服务器，使用免费主机，前身MinePixel",
-        reference: [
-            {
-                title: "Minepixel 论坛招人了！",
-                url: "https://www.bilibili.com/video/BV13A4m137tZ"
-            }
-        ]
     }
 ];
