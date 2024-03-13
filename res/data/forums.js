@@ -600,6 +600,17 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1Wx4y1S7Xu/"
             }
         ]
+    },
+    {
+        title: "星辰论坛",
+        url: "https://www.mcbbs.website/",
+        state: "up",
+        createdAt: "2024/03/13",
+        updatedAt: "2024/03/13",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "",
+        reference: []
     }
 ];
 
