@@ -424,6 +424,10 @@ const db_forums = [
             {
                 title: "MCBBS已死，快来迁移数据到这里保护你的数据！",
                 url: "https://www.bilibili.com/video/BV1jx42117Yd/"
+            },
+            {
+                title:"比MCBBS更强，重新开站，快来备份你的帖子数据！",
+                url: "https://www.bilibili.com/video/BV1BK421v7Vi/"
             }
         ]
     },
