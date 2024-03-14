@@ -7,7 +7,7 @@ const db_forums = [
         url: "https://www.mcbbs.net/",
         state: "unknow",
         createdAt: "2010/10/30",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "直属B站的我的世界中文论坛",
@@ -18,7 +18,7 @@ const db_forums = [
         url: "http://www.zuimc.com/",
         state: "up",
         createdAt: "2013/04/18",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -29,7 +29,7 @@ const db_forums = [
         url: "https://mc.netease.com/",
         state: "up",
         createdAt: "2016/09/20",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "网易论坛",
@@ -40,7 +40,7 @@ const db_forums = [
         url: "https://www.minebbs.com/",
         state: "up",
         createdAt: "2018/03/16",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "no",
         note: "主营基岩版，含Java版",
@@ -51,7 +51,7 @@ const db_forums = [
         url: "https://bbs.mc9y.net/",
         state: "up",
         createdAt: "2019/01/07",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "no",
         note: "",
@@ -62,7 +62,7 @@ const db_forums = [
         url: "https://bbs.tsfk.top/",
         state: "up",
         createdAt: "2019/02/15",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "no",
         note: "",
@@ -73,7 +73,7 @@ const db_forums = [
         url: "https://mcbar.club/",
         state: "up",
         createdAt: "2019/07/14",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器，百度minecraft吧的替代品",
@@ -84,7 +84,7 @@ const db_forums = [
         url: "https://www.blmcpia.com/",
         state: "up",
         createdAt: "2019/10/04",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器，主营基岩版",
@@ -95,7 +95,7 @@ const db_forums = [
         url: "https://klpbbs.com/",
         state: "failure",
         createdAt: "2020/03/01",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "主营基岩版，含Java版",
@@ -106,7 +106,7 @@ const db_forums = [
         url: "https://www.pixelecraft.com/",
         state: "up",
         createdAt: "2021/01/09",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -117,18 +117,23 @@ const db_forums = [
         url: "https://www.zitbbs.com/",
         state: "up",
         createdAt: "2021/07/20",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "no",
         note: "",
-        reference: []
+        reference: [
+            {
+                title: "MCBBS关站了，于是我们给大家准备了备用站",
+                url: "https://www.bilibili.com/video/BV1xm41197Ju/"
+            }
+        ]
     },
     {
         title: "MCHVH",
         url: "https://mchvh.com/",
         state: "up",
         createdAt: "2021/12/30",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -139,7 +144,7 @@ const db_forums = [
         url: "https://mcpps.cn/",
         state: "failure",
         createdAt: "2022/02/04",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -150,18 +155,35 @@ const db_forums = [
         url: "https://bbs.mcutc.cn/",
         state: "up",
         createdAt: "2022/04/16",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "in_progress",
         note: "主要发布minecraft衍生资源",
-        reference: []
+        reference: [
+            {
+                title: "我做了一个全新MC国际版资源论坛，界面简洁，访问迅速!",
+                url: "https://www.bilibili.com/video/BV1SC4y1Y7Ha/"
+            },
+            {
+                title: "MCUTC论坛，欢迎各位开发者和玩家注册，探索无尽可能性，打造你的游戏世界！",
+                url: "https://www.bilibili.com/video/BV18W421N7uv/"
+            },
+            {
+                title: "MCUTC,我的世界资源论坛！欢迎您的访问！",
+                url: "https://www.bilibili.com/video/BV1oS421P7XM/"
+            },
+            {
+                title: "[MCUTC]新开我的世界论坛，欢迎各位来注册！",
+                url: "https://www.bilibili.com/video/BV1Ax421f7Nz/"
+            }
+        ]
     },
     {
         title: "PixelBBS",
         url: "https://www.pixelbbs.cn/",
         state: "up",
         createdAt: "2022/08/12",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "no",
         note: "收费服务",
@@ -177,7 +199,7 @@ const db_forums = [
         url: "https://www.luobomc.top/",
         state: "down",
         createdAt: "2022/08/28",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -213,9 +235,9 @@ const db_forums = [
     {
         title: "美西螈论坛",
         url: "https://www.mcmxy.cn/",
-        state: "failure",
+        state: "up",
         createdAt: "2022/11/10",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -226,18 +248,23 @@ const db_forums = [
         url: "https://forum.sarskin.cn/",
         state: "up",
         createdAt: "2023/01/05",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
-        reference: []
+        reference: [
+            {
+                title: "新起的MC论坛——",
+                url: "https://www.bilibili.com/video/BV1xy421z729/"
+            }
+        ]
     },
     {
         title: "PiboPibo",
         url: "https://www.pibopibo.com/",
         state: "up",
         createdAt: "2023/01/29",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -248,7 +275,7 @@ const db_forums = [
         url: "https://www.tinksp.com/",
         state: "up",
         createdAt: "2023/02/25",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -259,14 +286,18 @@ const db_forums = [
         url: "https://www.mcshuo.com/",
         state: "up",
         createdAt: "2023/04/18",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "论坛页面（https://www.mcshuo.com/forum.php）标题出现 “苦力怕论坛”，网站关键词出现 “苦力怕论坛官网”，存档：https://web.archive.org/web/20240312164744/https://www.mcshuo.com/forum.php",
+        note: "论坛页面（https://www.mcshuo.com/forum.php）标题出现 “苦力怕论坛”，网站关键词出现 “苦力怕论坛官网”",
         reference: [
             {
                 title: "再见Mcbbs，新生McFun",
                 url: "https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g"
+            },
+            {
+                title: "2024/03/13 论坛页面存档（见上方备注）",
+                url: "https://web.archive.org/web/20240312164744/https://www.mcshuo.com/forum.php"
             }
         ]
     },
@@ -286,7 +317,7 @@ const db_forums = [
         url: "https://enderbbs.wavemoe.com/",
         state: "up",
         createdAt: "2023/08/28",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -297,7 +328,7 @@ const db_forums = [
         url: "https://ikunmc.com/",
         state: "up",
         createdAt: "2023/10/28",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -306,9 +337,9 @@ const db_forums = [
     {
         title: "SimpBBS",
         url: "https://www.simpbbs.com/",
-        state: "up",
+        state: "failure",
         createdAt: "2023/10/28",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -319,7 +350,7 @@ const db_forums = [
         url: "https://www.himcbbs.com/",
         state: "up",
         createdAt: "2024/01/28",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "in_progress",
         hasNetSec: "no",
         note: "非大陆服务器，板块分区丰富，主营Java版，含基岩版",
@@ -327,6 +358,10 @@ const db_forums = [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
                 url: "https://www.bilibili.com/video/BV1n2421M7yt"
+            },
+            {
+                title: "Hi世界Minecraft论坛 正在备案啦！",
+                url: "https://www.bilibili.com/video/BV1hm411d7gb/"
             }
         ]
     },
@@ -335,7 +370,7 @@ const db_forums = [
         url: "https://www.2b2t.ren/",
         state: "failure",
         createdAt: "2024/02/06",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -346,14 +381,14 @@ const db_forums = [
         url: "https://www.mineforum.cn/",
         state: "up",
         createdAt: "2024/02/10",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
         reference: [
             {
-                title: "MineForum，一个全新的Minecraft论坛",
-                url: "https://www.bilibili.com/video/BV1Hu4m1P7BY"
+                title: "方块社区 —— 一个 Minecraft 交流平台",
+                url: "https://www.bilibili.com/video/BV1KK421x7FQ/"
             }
         ]
     },
@@ -373,11 +408,15 @@ const db_forums = [
         url: "https://www.minebox.store/",
         state: "up",
         createdAt: "2024/02/12",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "no",
         note: "Java版与基岩版论坛",
         reference: [
+            {
+                title: "MCBBS关站了，于是我们给大家准备了备用站",
+                url: "https://www.bilibili.com/video/BV1wx4y1C7jG/"
+            },
             {
                 title: "我的世界中文论坛BBS关停，你们要的新论坛来啦",
                 url: "https://www.bilibili.com/video/BV1uA4m1G7KL"
@@ -389,7 +428,7 @@ const db_forums = [
         url: "https://mcbbs.run/",
         state: "failure",
         createdAt: "2024/02/13",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -400,7 +439,7 @@ const db_forums = [
         url: "https://www.cmcbbs.cn/",
         state: "up",
         createdAt: "2024/02/20",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -416,11 +455,16 @@ const db_forums = [
         url: "http://feiyutang.cn/",
         state: "up",
         createdAt: "2024/02/20",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，原名MineFriend",
-        reference: []
+        note: "非大陆服务器，原名MineFriend，SC论坛",
+        reference: [
+            {
+                title: "闲来无事搭建的MC论坛（？",
+                url: "https://www.bilibili.com/video/BV1TZ42127wN/"
+            }
+        ]
     },
     {
         title: "PRT社区平台",
@@ -433,7 +477,7 @@ const db_forums = [
         note: "非大陆服务器，主营光影材质包",
         reference: [
             {
-                title: "PRT社区 一个主营光影材质包的社区平台！",
+                title: "【minecraft PRT社区】快来白嫖众多光影材质包，patrix,乐高材质包，PTGI光影，全清晰度免费下载！！！",
                 url: "https://www.bilibili.com/video/BV1GJ4m1h7Ly"
             }
         ]
@@ -441,20 +485,25 @@ const db_forums = [
     {
         title: "大家的世界",
         url: "https://bbs.mclqj.site/",
-        state: "down",
+        state: "up",
         createdAt: "2024/02/22",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
-        reference: []
+        reference: [
+            {
+                title: "自建的我的世界论坛",
+                url: "https://www.bilibili.com/video/BV1uA4m137rL/"
+            }
+        ]
     },
     {
         title: "黑曜石论坛",
         url: "https://mcobs.fun/",
         state: "up",
         createdAt: "2024/02/24",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -462,6 +511,10 @@ const db_forums = [
             {
                 title: "【黑曜石论坛】mcbbs关站了？我的世界黑曜石论坛欢迎您！",
                 url: "https://www.bilibili.com/video/BV1wm411f7W4"
+            },
+            {
+                title: "【黑曜石论坛】初来乍到，欢迎访问Minecraft黑曜石论坛！",
+                url: "https://www.bilibili.com/video/BV1jr421H7JN/"
             }
         ]
     },
@@ -478,6 +531,10 @@ const db_forums = [
             {
                 title: "MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！",
                 url: "https://www.bilibili.com/video/BV1hW421A7dm"
+            },
+            {
+                title: "【MCBBS 2nd】熟悉的感觉，从新做起！mcbbs.app",
+                url: "https://www.bilibili.com/video/BV16W421A77X/"
             }
         ]
     },
@@ -486,7 +543,7 @@ const db_forums = [
         url: "http://potato.eeeyt.cn/",
         state: "up",
         createdAt: "2024/02/25",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "yes",
         hasNetSec: "no",
         note: "",
@@ -497,18 +554,23 @@ const db_forums = [
         url: "http://bedrockmcbbs.web1337.net/",
         state: "up",
         createdAt: "2024/02/26",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器，使用免费主机",
-        reference: []
+        reference: [
+            {
+                title: "自搭的MC论坛:BedrockMCBBS",
+                url: "https://www.bilibili.com/video/BV1uZ42117iK/"
+            }
+        ]
     },
     {
         title: "青草原MC社区",
         url: "https://qcymc.top/",
         state: "up",
         createdAt: "2024/02/27",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -546,11 +608,11 @@ const db_forums = [
         reference: []
     },
     {
-        title: "REMCBBS",
+        title: "星幻论坛",
         url: "https://remcbbs.top/",
         state: "failure",
         createdAt: "2024/03/04",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -574,7 +636,7 @@ const db_forums = [
         url: "https://bytebbs.rth5.com/",
         state: "failure",
         createdAt: "2024/03/11",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
@@ -590,7 +652,7 @@ const db_forums = [
         url: "https://www.mcbbs.website/",
         state: "up",
         createdAt: "2024/03/13",
-        updatedAt: "2024/03/13",
+        updatedAt: "2024/03/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "",
