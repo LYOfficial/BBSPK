@@ -142,7 +142,7 @@ const db_forums = [
     {
         title: "MCPPS",
         url: "https://mcpps.cn/",
-        state: "failure",
+        state: "up",
         createdAt: "2022/02/04",
         updatedAt: "2024/03/14",
         hasICP: "yes",
@@ -337,7 +337,7 @@ const db_forums = [
     {
         title: "SimpBBS",
         url: "https://www.simpbbs.com/",
-        state: "failure",
+        state: "up",
         createdAt: "2023/10/28",
         updatedAt: "2024/03/14",
         hasICP: "no",
@@ -420,6 +420,10 @@ const db_forums = [
             {
                 title: "我的世界中文论坛BBS关停，你们要的新论坛来啦",
                 url: "https://www.bilibili.com/video/BV1uA4m1G7KL"
+            },
+            {
+                title: "MCBBS已死，快来迁移数据到这里保护你的数据！",
+                url: "https://www.bilibili.com/video/BV1jx42117Yd/"
             }
         ]
     },
@@ -579,7 +583,7 @@ const db_forums = [
     {
         title: "MineNets",
         url: "https://minenets.com/",
-        state: "up",
+        state: "failure",
         createdAt: "2024/03/02",
         updatedAt: "2024/03/04",
         hasICP: "no",
