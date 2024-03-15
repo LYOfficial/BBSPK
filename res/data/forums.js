@@ -654,7 +654,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "",
         reference: []
-    }
+    },
+    {
+        title: "Minecraft插件学术",
+        url: "https://mc.hiusers.com/",
+        state: "up",
+        createdAt: "2024/03/15",
+        updatedAt: "2024/03/15",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "兴趣驱动，提供通俗易懂的插件资源汉化文档"
+    },
 ];
 
 
