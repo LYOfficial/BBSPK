@@ -179,7 +179,7 @@ const db_forums = [
         ]
     },
     {
-        title: "PixelBBS",
+        title: "像素世界论坛",
         url: "https://www.pixelbbs.cn/",
         state: "up",
         createdAt: "2022/08/12",
@@ -222,7 +222,7 @@ const db_forums = [
         reference: []
     },
     {
-        title: "MCSBBS",
+        title: "MCSbbs",
         url: "https://mcsbbs.cn/",
         state: "up",
         createdAt: "2022/09/12",
@@ -260,7 +260,7 @@ const db_forums = [
         ]
     },
     {
-        title: "PiboPibo",
+        title: "PiboPibo论坛",
         url: "https://www.pibopibo.com/",
         state: "up",
         createdAt: "2023/01/29",
@@ -271,7 +271,7 @@ const db_forums = [
         reference: []
     },
     {
-        title: "Tinksp",
+        title: "Tinksp资源论坛",
         url: "https://www.tinksp.com/",
         state: "up",
         createdAt: "2023/02/25",
@@ -282,7 +282,7 @@ const db_forums = [
         reference: []
     },
     {
-        title: "MCFUN",
+        title: "McFun",
         url: "https://www.mcshuo.com/",
         state: "up",
         createdAt: "2023/04/18",
@@ -346,7 +346,7 @@ const db_forums = [
         reference: []
     },
     {
-        title: "HiMCBBS",
+        title: "Hi世界Minecraft论坛",
         url: "https://www.himcbbs.com/",
         state: "up",
         createdAt: "2024/01/28",
@@ -464,7 +464,7 @@ const db_forums = [
         ]
     },
     {
-        title: "PRT社区平台",
+        title: "PRT幻界轨迹社区",
         url: "https://mcprt.cn/",
         state: "up",
         createdAt: "2024/02/20",
