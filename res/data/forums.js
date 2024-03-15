@@ -129,6 +129,17 @@ const db_forums = [
         ]
     },
     {
+        title: "深空Aurora论坛",
+        url: "https://bbs.aurora-sky.top/",
+        state: "up",
+        createdAt: "2020/11/20",
+        updatedAt: "2024/03/15",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "Minecraft基岩版论坛",
+        reference: []
+    },
+    {
         title: "MCHVH",
         url: "https://mchvh.com/",
         state: "up",
