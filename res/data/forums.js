@@ -368,9 +368,9 @@ const db_forums = [
         {
         title: "MC 2B2T TEAM!",
         url: "https://www.2b2t.ren/",
-        state: "failure",
+        state: "up",
         createdAt: "2024/02/06",
-        updatedAt: "2024/03/14",
+        updatedAt: "2024/03/15",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器",
