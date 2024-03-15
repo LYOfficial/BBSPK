@@ -423,7 +423,7 @@ const db_forums = [
     {
         title: "喵呜MCBBS",
         url: "https://mcbbs.run/",
-        state: "failure",
+        state: "down",
         createdAt: "2024/02/13",
         updatedAt: "2024/03/14",
         hasICP: "yes",
@@ -576,7 +576,7 @@ const db_forums = [
     {
         title: "MineNets",
         url: "https://minenets.com/",
-        state: "failure",
+        state: "down",
         createdAt: "2024/03/02",
         updatedAt: "2024/03/04",
         hasICP: "no",
@@ -631,7 +631,7 @@ const db_forums = [
     {
         title: "ByteBBS",
         url: "https://bytebbs.rth5.com/",
-        state: "failure",
+        state: "down",
         createdAt: "2024/03/11",
         updatedAt: "2024/03/14",
         hasICP: "no",
