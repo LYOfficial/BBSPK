@@ -765,7 +765,7 @@ const db_forums_ex = [
     {
         title: "TheBBS",
         url: "http://f5f6vkggpl3xkcy7k77r6g64hxqnss5sse4ydkw2hnfc5encm7e5xayd.onion/",
-        updatedAt: "2024/03/10",
+        updatedAt: "2024/03/15",
         note: "把 bbs 搭在 tor 网络的迷惑行为（",
         reference: []
     }
