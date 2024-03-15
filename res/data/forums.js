@@ -151,7 +151,7 @@ const db_forums = [
         reference: []
     },
     {
-        title: "我的世界UTC中文论坛",
+        title: "我的世界UTC论坛",
         url: "https://bbs.mcutc.cn/",
         state: "up",
         createdAt: "2022/04/16",
@@ -222,7 +222,7 @@ const db_forums = [
         reference: []
     },
     {
-        title: "MCSbbs",
+        title: "MCSbbs论坛",
         url: "https://mcsbbs.cn/",
         state: "up",
         createdAt: "2022/09/12",
