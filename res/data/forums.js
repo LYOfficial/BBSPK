@@ -452,9 +452,9 @@ const db_forums = [
         ]
     },
     {
-        title: "绿宝石论坛",
+        title: "EmeraldBBS",
         url: "http://feiyutang.cn/",
-        state: "up",
+        state: "failure",
         createdAt: "2024/02/20",
         updatedAt: "2024/03/16",
         hasICP: "no",
