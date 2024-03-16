@@ -383,7 +383,7 @@ const db_forums = [
     {
         title: "方块社区",
         url: "https://www.mineforum.cn/",
-        state: "up",
+        state: "failure",
         createdAt: "2024/02/10",
         updatedAt: "2024/03/16",
         hasICP: "no",
@@ -465,7 +465,7 @@ const db_forums = [
     {
         title: "EmeraldBBS",
         url: "http://feiyutang.cn/",
-        state: "failure",
+        state: "up",
         createdAt: "2024/02/20",
         updatedAt: "2024/03/16",
         hasICP: "no",
