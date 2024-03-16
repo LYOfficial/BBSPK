@@ -102,6 +102,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "深空Aurora论坛",
+        url: "https://bbs.aurora-sky.top/",
+        state: "up",
+        createdAt: "2020/11/20",
+        updatedAt: "2024/03/15",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "Minecraft基岩版论坛",
+        reference: []
+    },
+    {
         title: "像素工坊",
         url: "https://www.pixelecraft.com/",
         state: "up",
