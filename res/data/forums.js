@@ -646,7 +646,7 @@ const db_forums = [
     {
         title: "ByteBBS",
         url: "https://bytebbs.rth5.com/",
-        state: "down",
+        state: "failure",
         createdAt: "2024/03/11",
         updatedAt: "2024/03/16",
         hasICP: "no",
