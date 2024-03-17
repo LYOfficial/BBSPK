@@ -82,9 +82,9 @@ const db_forums = [
     {
         title: "小黑资源论坛",
         url: "https://www.blmcpia.com/",
-        state: "up",
+        state: "failure",
         createdAt: "2019/10/04",
-        updatedAt: "2024/03/16",
+        updatedAt: "2024/03/17",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器，主营基岩版。",
@@ -294,7 +294,12 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
-        reference: []
+        reference: [
+            {
+                title: "一个名不见经传的 我的世界资源论坛",
+                url: "https://www.bilibili.com/video/BV1dJ4m187Tj/"
+            }
+        ]
     },
     {
         title: "McFun",
@@ -354,7 +359,7 @@ const db_forums = [
         url: "https://www.simpbbs.com/",
         state: "failure",
         createdAt: "2023/10/28",
-        updatedAt: "2024/03/16",
+        updatedAt: "2024/03/17",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -630,13 +635,18 @@ const db_forums = [
     {
         title: "星辰论坛",
         url: "https://www.mcbbs.website/",
-        state: "down",
+        state: "failure",
         createdAt: "2024/03/13",
         updatedAt: "2024/03/17",
         hasICP: "no",
         hasNetSec: "no",
         note: "",
-        reference: []
+        reference: [
+            {
+                title: "我的世界中文论坛-星辰论坛开站",
+                url: "https://www.bilibili.com/read/cv32076977/"
+            }
+        ]
     },
     {
         title: "NWBBS",
