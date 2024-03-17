@@ -628,22 +628,6 @@ const db_forums = [
         ]
     },
     {
-        title: "ByteBBS",
-        url: "https://bytebbs.rth5.com/",
-        state: "failure",
-        createdAt: "2024/03/11",
-        updatedAt: "2024/03/16",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: [
-            {
-                title: "ByteBBS究竟是昙花一现，还是...",
-                url: "https://www.bilibili.com/video/BV1Wx4y1S7Xu/"
-            }
-        ]
-    },
-    {
         title: "星辰论坛",
         url: "https://www.mcbbs.website/",
         state: "up",
