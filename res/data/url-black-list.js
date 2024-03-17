@@ -6,6 +6,7 @@ const db_url_black_list = [
     'herokuapp.com,',
     'icoc.me',
     'netlify.app',
+    'pages.dev',
     'rth5.com',
     'vercel.app',
     'web1337.net'
