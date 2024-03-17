@@ -109,7 +109,7 @@ const db_forums = [
         updatedAt: "2024/03/15",
         hasICP: "no",
         hasNetSec: "no",
-        note: "Minecraft 基岩版论坛。",
+        note: "非大陆服务器，Minecraft 基岩版论坛。",
         reference: []
     },
     {
@@ -646,7 +646,7 @@ const db_forums = [
         updatedAt: "2024/03/17",
         hasICP: "no",
         hasNetSec: "no",
-        note: "",
+        note: "非大陆服务器。",
         reference: []
     }
 ];
