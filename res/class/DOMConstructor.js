@@ -221,7 +221,7 @@ class DOMForumList {
             </div>
             <div class="forum-controller">
                 <div class="list-controller">
-                    <span class="list-controller-item oepn" data-target="${target}">全部展开</span>
+                    <span class="list-controller-item open" data-target="${target}">全部展开</span>
                     <span class="list-controller-item close" data-target="${target}">全部收起</span>
                 </div>
             </div>
@@ -241,7 +241,7 @@ class DOMForumList {
             </div>
             <div class="forum-controller">
                 <div class="list-controller">
-                    <span class="list-controller-item oepn" data-target="${target}">全部展开</span>
+                    <span class="list-controller-item open" data-target="${target}">全部展开</span>
                     <span class="list-controller-item close" data-target="${target}">全部收起</span>
                 </div>
             </div>
