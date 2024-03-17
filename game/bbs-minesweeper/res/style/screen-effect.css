@@ -1,0 +1,123 @@
+#screen-mask {
+    pointer-events: none;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+}
+
+#screen-mask.heartbeat {
+    --heartbeat-speed: .75s;
+    --heartbeat-max: 128px;
+    --heartbeat-min: 32px;
+    --heartbeat-opacity: .5;
+    animation: screen-mask-heartbeat var(--heartbeat-speed) ease-out infinite, screen-mask-heartbeat-out 15s linear 1;
+}
+
+#screen-mask.heartbeat-deathdefend {
+    --heartbeat-speed: .55s;
+    --heartbeat-max: 128px;
+    --heartbeat-min: 32px;
+    --heartbeat-opacity: 1;
+    animation: screen-mask-heartbeat var(--heartbeat-speed) ease-out infinite, screen-mask-heartbeat-out 15s linear 1;
+}
+
+@keyframes screen-mask-heartbeat {
+    0% {box-shadow: 0 0 var(--heartbeat-max) red inset;}
+    100% {box-shadow: 0 0 var(--heartbeat-min) red inset;}
+}
+
+@keyframes screen-mask-heartbeat-out {
+    0% {opacity: var(--heartbeat-opacity);}
+    50% {opacity: 0;}
+    100% {opacity: 0;}
+}
+
+
+
+#screen-effect {
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    overflow: hidden;
+    position: absolute;
+}
+
+#screen-effect .screen-effect-player-death-1 {
+    --box-pos-top: 0px;
+    --box-pos-left: 0px;
+    width: max(200vh, 200vw);
+    height: max(200vh, 200vw);
+    position: absolute;
+    top: calc(var(--box-pos-top) - max(400vh, 400vw) / 2);
+    left: calc(var(--box-pos-left) - max(400vh, 400vw) / 2);
+    border-radius: calc(max(400vh, 400vw) / 2);
+    backdrop-filter: invert(1);
+    animation: screen-effect-player-death-1 1s ease-in 1;
+    opacity: 0;
+}
+
+#screen-effect .screen-effect-player-death-2 {
+    --box-pos-top: 0px;
+    --box-pos-left: 0px;
+    width: max(200vh, 200vw);
+    height: max(200vh, 200vw);
+    position: absolute;
+    top: calc(var(--box-pos-top) - max(400vh, 400vw) / 2);
+    left: calc(var(--box-pos-left) - max(400vh, 400vw) / 2);
+    border-radius: calc(max(400vh, 400vw) / 2);
+    backdrop-filter: invert(1);
+    animation: screen-effect-player-death-2 1s ease-in 1;
+    opacity: 0;
+}
+
+@keyframes screen-effect-player-death-1 {
+    0% {
+        width: 0px;
+        height: 0px;
+        top: calc(var(--box-pos-top) - 0px / 2);
+        left: calc(var(--box-pos-left) - 0px / 2);
+        border-radius: 0;
+        opacity: 1;
+    }
+    50% {
+        width: max(400vh, 400vw);
+        height: max(400vh, 400vw);
+        top: calc(var(--box-pos-top) - max(400vh, 400vw) / 2);
+        left: calc(var(--box-pos-left) - max(400vh, 400vw) / 2);
+        border-radius: calc(max(400vh, 400vw) / 2);
+    }
+    100% {
+        width: max(400vh, 400vw);
+        height: max(400vh, 400vw);
+        top: calc(var(--box-pos-top) - max(400vh, 400vw) / 2);
+        left: calc(var(--box-pos-left) - max(400vh, 400vw) / 2);
+        border-radius: calc(max(400vh, 400vw) / 2);
+        opacity: 1;
+    }
+}
+
+@keyframes screen-effect-player-death-2 {
+    0% {
+        width: 0px;
+        height: 0px;
+        top: calc(var(--box-pos-top) - 0px / 2);
+        left: calc(var(--box-pos-left) - 0px / 2);
+        border-radius: 0;
+        opacity: 1;
+    }
+    50% {
+        width: 0px;
+        height: 0px;
+        top: calc(var(--box-pos-top) - 0px / 2);
+        left: calc(var(--box-pos-left) - 0px / 2);
+        border-radius: 0;
+    }
+    100% {
+        width: max(400vh, 400vw);
+        height: max(400vh, 400vw);
+        top: calc(var(--box-pos-top) - max(400vh, 400vw) / 2);
+        left: calc(var(--box-pos-left) - max(400vh, 400vw) / 2);
+        border-radius: calc(max(400vh, 400vw) / 2);
+        opacity: 1;
+    }
+}

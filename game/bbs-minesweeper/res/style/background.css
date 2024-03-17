@@ -1,0 +1,19 @@
+#background {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    image-rendering: pixelated;
+    /* background-image: url(../img/background/example.png);
+    background-size: 10vw;
+    background-position: 0 0;
+    animation: background-test 2s linear infinite ;
+    filter: brightness(0.7); */
+}
+
+@keyframes background-test {
+    0% { background-position: 0vw 0vw; }
+    100% { background-position: 10vw 10vw; }
+}

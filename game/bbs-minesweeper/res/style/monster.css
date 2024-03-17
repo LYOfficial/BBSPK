@@ -1,0 +1,20 @@
+.map-block .event.monster {
+    --icon-size: 100%;
+    --icon-pos-x: 0;
+    --icon-pos-y: 0;
+    --icon-pos-y-damaged: -1;
+    --icon-image: url(../img/event/monster.png);
+    background-image: var(--icon-image);
+    background-size: calc(var(--icon-size) * 8);
+    background-position: calc(var(--icon-size) * var(--icon-pos-x)) calc(var(--icon-size) * var(--icon-pos-y));
+}
+
+.map-block .event.monster.damaged {
+    background-position: calc(var(--icon-size) * var(--icon-pos-x)) calc(var(--icon-size) * (var(--icon-pos-y) + var(--icon-pos-y-damaged)));
+}
+
+.map-block[data-id="slime"] .event.monster { --icon-pos-x: 0; --icon-pos-y: 0; }
+.map-block[data-id="tentacle"] .event.monster { --icon-pos-x: -1; --icon-pos-y: 0; }
+.map-block[data-id="ddos"] .event.monster { --icon-pos-x: -2; --icon-pos-y: 0; }
+.map-block[data-id="bug"] .event.monster { --icon-pos-x: -3; --icon-pos-y: 0; }
+.map-block[data-id="holyshit"] .event.monster { --icon-pos-x: -4; --icon-pos-y: 0; }

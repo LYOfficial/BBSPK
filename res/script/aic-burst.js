@@ -35,6 +35,7 @@ $(document).keydown(function(e){
                 $('#forum-list .forum-item .state-box').attr('title', '爆啦！');
                 $('#forum-list .forum-list-header .forum-count-item.survival .forum-count-value, #forum-list .forum-list-header .forum-count-item.up .forum-count-value, #forum-list .forum-list-header .forum-count-item.failure .forum-count-value, #forum-list .forum-list-header .forum-count-item.unknow .forum-count-value').text('0');
                 $('#forum-list .forum-list-header .forum-count-item.down .forum-count-value').text($('#forum-list .forum-list-header .forum-count-item.total .forum-count-value').text());
+                $('.aic-burst-check').removeClass('aic-burst-check');
 
                 setTimeout(function() {
                     $('#aic-burst').attr('class', '');

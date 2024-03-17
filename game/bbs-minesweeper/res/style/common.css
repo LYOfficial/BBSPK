@@ -1,0 +1,282 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --ac-color-black: #000000;
+    --ac-color-black-bg: #000000;
+    --ac-color-dark-blue: #0000AA;
+    --ac-color-dark-blue-bg: #00002A;
+    --ac-color-dark-green: #00AA00;
+    --ac-color-dark-green-bg: #002A00;
+    --ac-color-dark-aqua: #00AAAA;
+    --ac-color-dark-aqua-bg: #002A2A;
+    --ac-color-dark-red: #AA0000;
+    --ac-color-dark-red-bg: #2A0000;
+    --ac-color-dark-purple: #AA00AA;
+    --ac-color-dark-purple-bg: #2A002A;
+    --ac-color-gold: #FFAA00;
+    --ac-color-gold-bg: #2A2A00;
+    --ac-color-gray: #AAAAAA;
+    --ac-color-gray-bg: #2A2A2A;
+    --ac-color-dark-gray: #555555;
+    --ac-color-dark-gray-bg: #151515;
+    --ac-color-blue: #5555FF;
+    --ac-color-blue-bg: #15153F;
+    --ac-color-green: #55FF55;
+    --ac-color-green-bg: #153F15;
+    --ac-color-aqua: #55FFFF;
+    --ac-color-aqua-bg: #153F3F;
+    --ac-color-red: #FF5555;
+    --ac-color-red-bg: #3F1515;
+    --ac-color-light-purple: #FF55FF;
+    --ac-color-light-purple-bg: #3F153F;
+    --ac-color-yellow: #FFFF55;
+    --ac-color-yellow-bg: #3F3F15;
+    --ac-color-white: #FFFFFF;
+    --ac-color-white-bg: #3F3F3F;
+
+    --maze-config-view-block-size-minimum: 55px;
+    --maze-config-view-screen-safety-height: 90vh;
+    --maze-config-view-screen-safety-width: 90vw;
+}
+
+#preload {
+    opacity: 0;
+    width: 1px;
+    height: 1px;
+    position: fixed;
+    overflow: hidden;
+    top: -5000px;
+    left: -5000px;
+    pointer-events: none;
+}
+
+#title-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #D9D9D9;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    color: #000;
+    z-index: 10000;
+    user-select: none;
+    cursor: pointer;
+    opacity: 1;
+    transition: opacity 1.5s ease-in, background-color .3s ease;
+}
+
+#title-screen img {
+    image-rendering: pixelated;
+    width: min(90vw, 748px);
+    margin-bottom: 64px;
+    pointer-events: none;
+}
+
+#title-screen .game-version {
+    position: fixed;
+    bottom: 0;
+    padding-bottom: 32px;
+    color: #888;
+}
+
+#title-screen.hide {
+    opacity: 0;
+    background-color: transparent;
+    pointer-events: none;
+}
+
+#title-screen .start-tip,
+#title-screen .game-version {
+    opacity: 1;
+    transition: opacity .15s;
+}
+
+#title-screen.hide .start-tip,
+#title-screen.hide .game-version {
+    opacity: 0;
+}
+
+#game {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #666;
+}
+
+#map {
+    /* height: min(90vh, 90vw);
+    width: min(90vh, 90vw); */
+    display: flex;
+    flex-direction: column;
+    --map-size: 5;
+    --map-size-height: 5;
+    --map-size-width: 5;
+    margin: 32px;
+    user-select: none;
+}
+
+.map-row {
+    display: flex;
+    flex: 1;
+}
+
+.map-block {
+    --block-size: calc(
+            max(
+                min(
+                    var(--maze-config-view-screen-safety-height) / var(--map-size-height),
+                    var(--maze-config-view-screen-safety-width) / var(--map-size-width)
+                ),
+                var(--maze-config-view-block-size-minimum)
+            )
+        );
+    width: var(--block-size);
+    height: var(--block-size);
+    background-color: #888;
+    flex: 1;
+    /* margin: 4px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../img/block/default.png);
+    image-rendering: pixelated;
+    background-size: 800%;
+    background-position: 0 0;
+    cursor: pointer;
+    flex-direction: column;
+    position: relative;
+}
+
+.map-block:not(.searched, .wall):hover {
+    filter: brightness(1.1);
+}
+
+.map-block:not(.searched, .wall):active {
+    filter: brightness(0.9);
+}
+
+.map-block.searched.stair:hover {
+    filter: brightness(1.1);
+}
+
+.map-block.searched.stair:active {
+    filter: brightness(0.9);
+}
+
+.map-block.searched {
+    background-color: #AAA;
+    background-position: -100% 0;
+}
+
+.map-block.wall {
+    background-position: -200% 0;
+}
+
+.map-block .search-icon {
+    --icon-size: calc(var(--block-size) / 3.5);
+    --icon-pos-x: 0;
+    --icon-pos-y: 0;
+    height: var(--icon-size);
+    width: var(--icon-size);
+    background-image: url(../img/icon/search.png);
+    image-rendering: pixelated;
+    background-size: calc(var(--icon-size) * 16);
+    margin: 5px 0 0 5px;
+    background-position: calc(var(--icon-size) * var(--icon-pos-x)) calc(var(--icon-size) * var(--icon-pos-y));
+}
+
+.search-icon-row {
+    display: flex;
+}
+
+.search-icon.stair-1 {--icon-pos-x:  0; --icon-pos-y: 0;}
+.search-icon.stair-2 {--icon-pos-x: -1; --icon-pos-y: 0;}
+.search-icon.stair-3 {--icon-pos-x: -2; --icon-pos-y: 0;}
+.search-icon.stair-4 {--icon-pos-x: -3; --icon-pos-y: 0;}
+.search-icon.stair-5 {--icon-pos-x: -4; --icon-pos-y: 0;}
+.search-icon.stair-6 {--icon-pos-x: -5; --icon-pos-y: 0;}
+.search-icon.stair-7 {--icon-pos-x: -6; --icon-pos-y: 0;}
+.search-icon.stair-8 {--icon-pos-x: -7; --icon-pos-y: 0;}
+.search-icon.stair-n {--icon-pos-x: -8; --icon-pos-y: 0;}
+
+.search-icon.chest-1 {--icon-pos-x:  0; --icon-pos-y: -1;}
+.search-icon.chest-2 {--icon-pos-x: -1; --icon-pos-y: -1;}
+.search-icon.chest-3 {--icon-pos-x: -2; --icon-pos-y: -1;}
+.search-icon.chest-4 {--icon-pos-x: -3; --icon-pos-y: -1;}
+.search-icon.chest-5 {--icon-pos-x: -4; --icon-pos-y: -1;}
+.search-icon.chest-6 {--icon-pos-x: -5; --icon-pos-y: -1;}
+.search-icon.chest-7 {--icon-pos-x: -6; --icon-pos-y: -1;}
+.search-icon.chest-8 {--icon-pos-x: -7; --icon-pos-y: -1;}
+.search-icon.chest-n {--icon-pos-x: -8; --icon-pos-y: -1;}
+
+.search-icon.monster-1 {--icon-pos-x:  0; --icon-pos-y: -2;}
+.search-icon.monster-2 {--icon-pos-x: -1; --icon-pos-y: -2;}
+.search-icon.monster-3 {--icon-pos-x: -2; --icon-pos-y: -2;}
+.search-icon.monster-4 {--icon-pos-x: -3; --icon-pos-y: -2;}
+.search-icon.monster-5 {--icon-pos-x: -4; --icon-pos-y: -2;}
+.search-icon.monster-6 {--icon-pos-x: -5; --icon-pos-y: -2;}
+.search-icon.monster-7 {--icon-pos-x: -6; --icon-pos-y: -2;}
+.search-icon.monster-8 {--icon-pos-x: -7; --icon-pos-y: -2;}
+.search-icon.monster-n {--icon-pos-x: -8; --icon-pos-y: -2;}
+
+.map-block .event {
+    position: absolute;
+    width: 87.5%;
+    height: 87.5%;
+    pointer-events: none;
+    image-rendering: pixelated;
+    background-size: 800%;
+    background-position: 0 0;
+}
+
+.map-block .event.chest {
+    background-image: url(../img/event/chest.png);
+    background-position: 0 -100%;
+}
+
+.map-block .event.chest.damaged {
+    background-position: 0 -200%;
+}
+
+.map-block .event.stair {
+    background-image: url(../img/event/misc.png);
+    background-position: 0 0;
+}
+
+.map-block .cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.map-block .cover>div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    image-rendering: pixelated;
+    background-image: url(../img/gui/cover.png);
+    background-size: 800%;
+    background-position: 0 0;
+}
+
+.map-block .cover .attack {
+    background-position: -100% 0;
+    display: none;
+}
+
+.action-attack .map-block:not(.searched, .wall):hover .cover .attack {
+    display: block;
+}
