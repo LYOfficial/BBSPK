@@ -49,7 +49,7 @@ let db_blocks = [
         type: 'monster',
         data: {
             attack: 3,
-            health: 1,
+            health: 3,
             loot_table: 'monster_generic',
             damage_type: 'monster_attack'
         }
