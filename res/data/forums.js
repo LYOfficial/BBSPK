@@ -637,6 +637,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "",
         reference: []
+    },
+    {
+        title: "NWBBS",
+        url: "https://nwbbs.cn/",
+        state: "up",
+        createdAt: "2024/03/16",
+        updatedAt: "2024/03/17",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "",
+        reference: []
     }
 ];
 
