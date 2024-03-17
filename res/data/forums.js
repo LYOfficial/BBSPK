@@ -37,7 +37,7 @@ const db_forums = [
     },
     {
         title: "MineBBS",
-        url: "https://www.minebbs.com/",
+        url: "https://minebbs.com/",
         state: "up",
         createdAt: "2018/03/16",
         updatedAt: "2024/03/16",
@@ -102,7 +102,7 @@ const db_forums = [
         reference: []
     },
     {
-        title: "深空Aurora论坛",
+        title: "深空Aurora",
         url: "https://bbs.aurora-sky.top/",
         state: "up",
         createdAt: "2020/11/20",
@@ -340,7 +340,7 @@ const db_forums = [
     },
     {
         title: "ikunmc",
-        url: "https://ikunmc.com/",
+        url: "https://www.ikunmc.com/",
         state: "up",
         createdAt: "2023/10/28",
         updatedAt: "2024/03/16",
@@ -362,7 +362,7 @@ const db_forums = [
     },
     {
         title: "Hi世界Minecraft论坛",
-        url: "https://www.himcbbs.com/",
+        url: "https://himcbbs.com/",
         state: "failure",
         createdAt: "2024/01/28",
         updatedAt: "2024/03/16",
@@ -382,8 +382,8 @@ const db_forums = [
     },
     {
         title: "方块社区",
-        url: "https://www.mineforum.cn/",
-        state: "failure",
+        url: "https://mineforum.cn/",
+        state: "up",
         createdAt: "2024/02/10",
         updatedAt: "2024/03/16",
         hasICP: "no",
@@ -409,7 +409,7 @@ const db_forums = [
     },
     {
         title: "MineTalk",
-        url: "https://www.minebox.store/",
+        url: "https://minebox.store/",
         state: "up",
         createdAt: "2024/02/12",
         updatedAt: "2024/03/16",
@@ -575,9 +575,9 @@ const db_forums = [
     {
         title: "MineNets",
         url: "https://minenets.com/",
-        state: "down",
+        state: "up",
         createdAt: "2024/03/02",
-        updatedAt: "2024/03/16",
+        updatedAt: "2024/03/17",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -633,6 +633,17 @@ const db_forums = [
         state: "up",
         createdAt: "2024/03/13",
         updatedAt: "2024/03/16",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "",
+        reference: []
+    },
+    {
+        title: "NWBBS",
+        url: "https://nwbbs.cn/",
+        state: "up",
+        createdAt: "2024/03/16",
+        updatedAt: "2024/03/17",
         hasICP: "no",
         hasNetSec: "no",
         note: "",
