@@ -352,7 +352,7 @@ const db_forums = [
     {
         title: "SimpBBS",
         url: "https://www.simpbbs.com/",
-        state: "up",
+        state: "failure",
         createdAt: "2023/10/28",
         updatedAt: "2024/03/16",
         hasICP: "no",
