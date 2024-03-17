@@ -18,7 +18,7 @@ const db_forums = [
         url: "http://www.zuimc.com/",
         state: "failure",
         createdAt: "2013/04/18",
-        updatedAt: "2024/03/16",
+        updatedAt: "2024/03/17",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -365,10 +365,10 @@ const db_forums = [
         url: "https://www.himcbbs.com/",
         state: "failure",
         createdAt: "2024/01/28",
-        updatedAt: "2024/03/16",
+        updatedAt: "2024/03/17",
         hasICP: "in_progress",
         hasNetSec: "no",
-        note: "非大陆服务器，板块分区丰富，主营Java版，含基岩版",
+        note: "主营Java版的MC论坛（含BE）！长期运营不跑路，无等级制度，永久公益~",
         reference: [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
