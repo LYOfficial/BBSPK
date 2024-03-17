@@ -637,6 +637,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "",
         reference: []
+    },
+    {
+        title: "MineNets",
+        url: "https://www.minenets.net/",
+        state: "up",
+        createdAt: "2024/03/17",
+        updatedAt: "2024/03/17",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "",
+        reference: []
     }
 ];
 
