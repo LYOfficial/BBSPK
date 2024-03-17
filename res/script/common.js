@@ -1,4 +1,11 @@
-$('#forum-list').html(DOMForumList.list(db_forums, 'forum-list'));
+const regUrlBlackList = generateRegexFromArray(db_url_black_list);
+
+$('#forum-list').html(DOMForumList.list(
+    db_forums.filter((e) => {
+        return e.url.search(regUrlBlackList) == -1;
+    })
+    , 'forum-list'
+));
 $('#forum-list-ex').html(DOMForumList.listEx(db_forums_ex, 'forum-list-ex'));
 
 createTimer('2024/02/27 00:00:00 GMT+0800', '#timer-bbspk-created');
@@ -24,6 +31,15 @@ function updateView(action = function() {}) {
     }
     document.startViewTransition(() => action());
 }
+
+function generateRegexFromArray(strings) {
+    const escapedStrings = strings.map(str => str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+    const joinedString = escapedStrings.join('|');
+    const regex = new RegExp(joinedString, 'i');
+    return regex;
+}
+
+
 
 $(document).on('click', '.forum-item-header', function(e) {
     if ($(e.target).closest('a').length) return;
