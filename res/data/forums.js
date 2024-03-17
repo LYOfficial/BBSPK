@@ -21,7 +21,7 @@ const db_forums = [
         updatedAt: "2024/03/16",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "",
+        note: "网站处于待出售状态，暂停新用户注册，用户活动基本停止。",
         reference: []
     },
     {
@@ -32,7 +32,7 @@ const db_forums = [
         updatedAt: "2024/03/16",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "由网易运营的我的世界中国版论坛，内嵌于客户端中。目前已禁止客户端以外的用户发帖，且 180 天前的帖子不可见。",
+        note: "由网易运营的我的世界中国版论坛，内嵌于客户端中。目前已禁止客户端以外的用户发帖，且 180 天前的帖子不可见。网易的游戏论坛业务已迁移至网易大神，网易我的世界论坛已基本停止运营。",
         reference: []
     },
     {
@@ -54,7 +54,7 @@ const db_forums = [
         updatedAt: "2024/03/16",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "",
+        note: "主营服务器插件。",
         reference: []
     },
     {
