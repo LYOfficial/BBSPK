@@ -630,7 +630,7 @@ const db_forums = [
     {
         title: "星辰论坛",
         url: "https://www.mcbbs.website/",
-        state: "down",
+        state: "failure",
         createdAt: "2024/03/13",
         updatedAt: "2024/03/17",
         hasICP: "no",
