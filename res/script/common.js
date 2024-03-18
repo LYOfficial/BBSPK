@@ -51,7 +51,7 @@ $(document).on('click', '.forum-item-header', function(e) {
     }
 });
 
-$(document).on('click', '.list-controller-item.oepn', function() {
+$(document).on('click', '.list-controller-item.open', function() {
     $('#' + $(this).data('target') + ' .forum-item-content').addClass('active');
 });
 
