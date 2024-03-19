@@ -653,11 +653,16 @@ const db_forums = [
         url: "https://nwbbs.cn/",
         state: "up",
         createdAt: "2024/03/16",
-        updatedAt: "2024/03/17",
+        updatedAt: "2024/03/19",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
-        reference: []
+        reference: [
+            {
+                title: "MCBBS回来了？不！新世界中文论坛！",
+                url: "https://www.bilibili.com/video/BV1t2421N7bB"
+            }
+        ]
     }
 ];
 
