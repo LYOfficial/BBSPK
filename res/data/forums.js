@@ -786,7 +786,7 @@ const db_forums_ex = [
     {
         title: "MCBBS复活赛",
         url: "https://bbs-archive.github.io",
-        updateAt: "2024/03/14",
+        updatedAt: "2024/03/14",
         note: "MCBBS部分帖子的存档，持续收集中！",
         reference: []
     }
