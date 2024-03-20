@@ -12,5 +12,6 @@ const db_url_black_list = [
     'rth10.com',
     'surge.sh',
     'vercel.app',
-    'web1337.net'
+    'web1337.net',
+    'webadorsite.com'
 ];
