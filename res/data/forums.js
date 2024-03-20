@@ -789,5 +789,5 @@ const db_forums_ex = [
         updateAt: "2024/03/14",
         note: "MCBBS部分帖子的存档，持续收集中！",
         reference: []
-    },
+    }
 ];
