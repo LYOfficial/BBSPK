@@ -368,10 +368,10 @@ const db_forums = [
     {
         title: "Hi世界Minecraft论坛",
         url: "https://himcbbs.com/",
-        state: "failure",
+        state: "up",
         createdAt: "2024/01/28",
-        updatedAt: "2024/03/16",
-        hasICP: "in_progress",
+        updatedAt: "2024/03/20",
+        hasICP: "yes",
         hasNetSec: "no",
         note: "非大陆服务器，主营Java版，含基岩版。",
         reference: [
