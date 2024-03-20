@@ -1,0 +1,31 @@
+#message {
+    z-index: 100;
+    pointer-events: none;
+    position: fixed;
+    left: 0;
+    top: 128px;
+    width: 60vw;
+}
+
+#message .message-item {
+    --ac-color: var(--ac-color-white);
+    --ac-color-bg: var(--ac-color-white-bg);
+    color: var(--ac-color);
+    text-shadow: 0.1em 0.1em 0 var(--ac-color-bg);
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 0.25em 0.5em 0.25em 0.75em;
+    opacity: 1;
+}
+
+#message .message-item.remove {
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+#game.hide-hud #message {
+    display: none;
+}
+
+#game.hide-hud-half #message {
+    opacity: 0.5;
+}

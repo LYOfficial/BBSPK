@@ -120,3 +120,7 @@ body.aic-burst {
     transition: font-size 1.5s, text-shadow 1.5s;
     transition-timing-function: ease-in;
 }
+
+.aic-burst-check {
+    display: none;
+}

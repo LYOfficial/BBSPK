@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ancient Cube</title>
+    <script src="lib/jquery-1.7.2.min.js"></script>
+    <script src="res/data/blocks.js"></script>
+    <script src="res/data/effect.js"></script>
+    <script src="res/data/items.js"></script>
+    <script src="res/data/loottables.js"></script>
+    <script src="res/data/generator.js"></script>
+    <script src="res/data/pixel-hotkeys/img2keys.js"></script>
+    <script src="res/data/pixel-hotkeys/index_keys.js"></script>
+    <script src="lang/zh_cn.js"></script>
+    <script src="lang/en.js"></script>
+    <script src="res/class/Debuger.js"></script>
+    <script src="res/class/Log.js"></script>
+    <script src="res/class/SMath.js"></script>
+    <script src="res/class/StateMessage.js"></script>
+    <script src="res/class/Game.js"></script>
+    <script src="res/class/Resource.js"></script>
+    <script src="res/class/Translator.js"></script>
+    <script src="res/class/Statistics.js"></script>
+    <script src="res/class/NumberProviders.js"></script>
+    <script src="res/class/LootTable.js"></script>
+    <script src="res/class/Attribute.js"></script>
+    <script src="res/class/Player.js"></script>
+    <script src="res/class/Block.js"></script>
+    <script src="res/class/PixelHotkeys.js"></script>
+    <script src="res/class/Constructor.js"></script>
+    <script src="res/class/Item.js"></script>
+    <script src="res/class/Generator.js"></script>
+    <script src="res/class/Stage.js"></script>
+    <script src="res/class/Room.js"></script>
+    <script src="res/class/World.js"></script>
+    <script src="res/class/Messager.js"></script>
+    <script src="res/class/Commander.js"></script>
+    <script src="res/class/PatchPanel.js"></script>
+    <script src="res/class/Tester.js"></script>
+    <script src="res/script/test.js"></script>
+    <link rel="stylesheet" href="res/style/common.css">
+    <link rel="stylesheet" href="res/style/hud.css">
+    <link rel="stylesheet" href="res/style/inventory.css">
+    <link rel="stylesheet" href="res/style/message.css">
+    <link rel="stylesheet" href="res/style/background.css">
+    <link rel="stylesheet" href="res/style/screen-effect.css">
+    <link rel="stylesheet" href="res/style/monster.css">
+    <link rel="stylesheet" href="res/style/item.css">
+    <link rel="stylesheet" href="res/style/pixel-hotkeys/pixel-hotkeys.css">
+    <link rel="stylesheet" href="res/style/pixel-hotkeys/keys.css">
+</head>
+
+<body>
+    <div id="preload" aria-hidden="true"></div>
+
+    <div id="title-screen">
+        <img class="title-img" src="res/img/title/title.png" alt="Ancient Cube">
+
+        <div class="start-tip">CLICK TO START</div>
+
+        <div class="game-version">BBSPK | 按 F2 获取帮助</div>
+    </div>
+
+    <div id="game">
+        <div id="background"></div>
+
+        <div id="map">
+        
+        </div>
+
+        <div id="topbar">
+            <div id="player-state-hp" class="">
+                <span class="heart-bg">
+                    <span class="heart"></span>
+                </span>
+                <span class="heart-bg">
+                    <span class="heart"></span>
+                </span>
+                <span class="heart-bg">
+                    <span class="heart"></span>
+                </span>
+            </div>
+        </div>
+
+        <div id="bottombar">
+            <div id="player-hotbar" class="">
+                <div id="player-hotbar-0" class="inventory-item player-hotbar-item selected" data-slot="0">
+                    <div class="item-icon" data-item-id="magnifier"></div>
+                </div>
+                <div id="player-hotbar-1" class="inventory-item player-hotbar-item" data-slot="1">
+                    <div class="item-icon" data-item-type="weapon" data-item-id="sword"></div>
+                    <div class="item-damage-bar hide">
+                        <div class="item-damage-value" style="--value: 100%;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="keys-bar" class="keys-right"></div>
+        </div>
+
+        <div id="message">
+            
+        </div>
+
+        <div id="screen-mask" class=""></div>
+
+        <div id="screen-effect"></div>
+
+        <div id="gui-screen" class="hide">
+            <div id="inventory">
+                
+            </div>
+        </div>
+
+        <div id="item-popup-layer"></div>
+    </div>
+</body>
+</html>

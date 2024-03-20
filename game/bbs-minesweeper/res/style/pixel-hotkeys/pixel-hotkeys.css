@@ -1,0 +1,41 @@
+:root {
+    --pixel-hotkeys-size: 32px;
+    --pixel-hotkeys-height: 32px;
+    --pixel-hotkeys-width: 32px;
+    --pixel-hotkeys-pos-x: 0;
+    --pixel-hotkeys-pos-y: 0;
+    --pixel-hotkeys-image: url(../../img/gui/keys.png);
+}
+
+.pixel-hotkeys-key-box {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.keys-right .pixel-hotkeys-key-box {
+    flex-direction: row-reverse;
+}
+
+.pixel-hotkeys-key {
+    height: var(--pixel-hotkeys-height);
+    width: var(--pixel-hotkeys-width);
+    display: inline-block;
+    margin: 4px;
+    background-image: var(--pixel-hotkeys-image);
+    image-rendering: pixelated;
+    background-size: calc(var(--pixel-hotkeys-size) * 16);
+    background-position: calc(var(--pixel-hotkeys-size) * var(--pixel-hotkeys-pos-y)) calc(var(--pixel-hotkeys-size) * var(--pixel-hotkeys-pos-x));
+}
+
+.pixel-hotkeys-key.pixel-hotkeys-key-long {
+    --pixel-hotkeys-width: calc(var(--pixel-hotkeys-height) * 2);
+}
+
+.pixel-hotkeys-key-label {
+    margin-left: 0.5em;
+}
+
+#example {
+    text-align: center;
+}

@@ -1,0 +1,67 @@
+.item-icon {
+    --icon-size: 64px;
+    --icon-pos-x: 1;
+    --icon-pos-y: 1;
+    --icon-image: url(../img/item/item.png);
+    height: var(--icon-size);
+    width: var(--icon-size);
+    display: inline-block;
+    background-image: var(--icon-image);
+    image-rendering: pixelated;
+    background-size: calc(var(--icon-size) * 16);
+    background-position: calc(var(--icon-size) * var(--icon-pos-x)) calc(var(--icon-size) * var(--icon-pos-y));
+    background-repeat: no-repeat;
+}
+
+.item-icon[data-item-type='weapon'] {
+    --icon-image: url(../img/item/weapon.png);
+}
+
+.item-icon[data-item-type='chest'] {
+    --icon-image: url(../img/item/chest.png);
+}
+
+.item-icon[data-item-type='water_bottle'] {
+    --icon-image: url(../img/item/water_bottle.png);
+}
+
+.item-icon[data-item-type='system'] {
+    --icon-image: url(../img/item/item.png);
+}
+
+.item-icon[data-item-id='magnifier'] { --icon-pos-x: 0; --icon-pos-y: 0; }
+.item-icon[data-item-id='emerald'] { --icon-pos-x: -1; --icon-pos-y: 0; }
+.item-icon[data-item-id='monster_crystal'] { --icon-pos-x: -2; --icon-pos-y: 0; }
+.item-icon[data-item-id='soul_camera'] { --icon-pos-x: -3; --icon-pos-y: 0; }
+.item-icon[data-item-id='soul_camera_using'] { --icon-pos-x: -4; --icon-pos-y: 0; }
+.item-icon[data-item-id='soul_camera_used'] { --icon-pos-x: -5; --icon-pos-y: 0; }
+
+.item-icon[data-item-id='sword'] { --icon-pos-x: 0; --icon-pos-y: 0; }
+.item-icon[data-item-id='dagger'] { --icon-pos-x: -1; --icon-pos-y: 0; }
+.item-icon[data-item-id='knife'] { --icon-pos-x: -2; --icon-pos-y: 0; }
+.item-icon[data-item-id='spear'] { --icon-pos-x: -3; --icon-pos-y: 0; }
+.item-icon[data-item-id='kunai'] { --icon-pos-x: -4; --icon-pos-y: 0; }
+.item-icon[data-item-id='broadsword'] { --icon-pos-x: -5; --icon-pos-y: 0; }
+.item-icon[data-item-id='hammer'] { --icon-pos-x: -6; --icon-pos-y: 0; }
+.item-icon[data-item-id='crowbar'] { --icon-pos-x: -7; --icon-pos-y: 0; }
+.item-icon[data-item-id='rapier'] { --icon-pos-x: -8; --icon-pos-y: 0; }
+.item-icon[data-item-id='teach_weapon'] { --icon-pos-x: -9; --icon-pos-y: 0; }
+.item-icon[data-item-id='soul_trace_boomerang'] { --icon-pos-x: -10; --icon-pos-y: 0; }
+.item-icon[data-item-id='debug_sword'] { --icon-pos-x: -11; --icon-pos-y: 0; }
+.item-icon[data-item-id='firewall_t1'] { --icon-pos-x: -12; --icon-pos-y: 0; }
+.item-icon[data-item-id='firewall_t1_s'] { --icon-pos-x: -12; --icon-pos-y: 0; }
+.item-icon[data-item-id='firewall_t2'] { --icon-pos-x: -13; --icon-pos-y: 0; }
+.item-icon[data-item-id='firewall_t3'] { --icon-pos-x: -14; --icon-pos-y: 0; }
+
+.item-icon[data-item-id='golden_chest'] { --icon-pos-x: 0; --icon-pos-y: 0; }
+.item-icon[data-item-id='silver_chest'] { --icon-pos-x: -1; --icon-pos-y: 0; }
+.item-icon[data-item-id='copper_chest'] { --icon-pos-x: -2; --icon-pos-y: 0; }
+.item-icon[data-item-id='blood_chest'] { --icon-pos-x: -3; --icon-pos-y: 0; }
+.item-icon[data-item-id='emerald_chest'] { --icon-pos-x: -4; --icon-pos-y: 0; }
+
+.item-icon[data-item-id='bottle'] { --icon-pos-x: 0; --icon-pos-y: -1; }
+.item-icon[data-item-id='water_bottle'] { --icon-pos-x: -1; --icon-pos-y: -1; }
+.item-icon[data-item-id='instant_health_potion_t2'] { --icon-pos-x: -2; --icon-pos-y: -1; }
+.item-icon[data-item-id='instant_damage_potion_t2'] { --icon-pos-x: -6; --icon-pos-y: -1; }
+
+.item-icon[data-item-id='inventory'] { --icon-pos-x: -15; --icon-pos-y: -15; }

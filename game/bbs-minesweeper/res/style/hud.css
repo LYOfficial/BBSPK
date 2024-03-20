@@ -1,0 +1,263 @@
+#topbar {
+    position: fixed;
+    top: 0;
+    height: 0;
+    width: 100vw;
+    z-index: 1000;
+}
+
+#player-state-hp {
+    margin: 8px;
+    pointer-events: none;
+    display: flex;
+}
+
+#player-state-hp .heart-bg {
+    --icon-size: 32px;
+    --icon-pos-x: 0;
+    --icon-pos-y: 0;
+    width: var(--icon-size);
+    height: var(--icon-size);
+    display: inline-block;
+    margin: 2px;
+    background-image: url(../img/gui/heart.png);
+    image-rendering: pixelated;
+    background-size: calc(var(--icon-size) * 16);
+    background-position: calc(var(--icon-size) * var(--icon-pos-x)) calc(var(--icon-size) * var(--icon-pos-y));
+}
+
+#player-state-hp .heart-bg+.heart-bg {
+    margin-left: 6px;
+}
+
+#player-state-hp .heart {
+    --icon-pos-x: 0;
+    --icon-pos-y: -1;
+    width: var(--icon-size);
+    height: var(--icon-size);
+    display: inline-block;
+    background-image: url(../img/gui/heart.png);
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    background-size: calc(var(--icon-size) * 16);
+    background-position: calc(var(--icon-size) * var(--icon-pos-x)) calc(var(--icon-size) * var(--icon-pos-y));
+}
+
+#player-state-hp.flicker {
+    position: relative;
+    z-index: 2010;
+}
+
+#player-state-hp.flicker .heart-bg {
+    animation: heart-bg-flicker .25s linear infinite;
+}
+
+#player-state-hp.flicker .heart-bg.damage .heart {
+    animation: heart-flicker-damage .25s linear infinite;
+}
+
+#player-state-hp.flicker .heart-bg.damage-half .heart {
+    animation: heart-flicker-damage-half .25s linear infinite;
+}
+
+#player-state-hp.flicker .heart-bg.damage-right-half .heart {
+    animation: heart-flicker-damage-right-half .25s linear infinite;
+}
+
+#player-state-hp .heart-bg.heart-half .heart {
+    --icon-pos-x: -1;
+}
+
+#player-state-hp .heart-bg.none .heart {
+    --icon-pos-x: 2;
+}
+
+@keyframes heart-bg-flicker {
+    0% {--icon-pos-x: -2;}
+    49.99% {--icon-pos-x: -2;}
+    50% {--icon-pos-x: 0;}
+    100% {--icon-pos-x: 0;}
+}
+
+@keyframes heart-flicker-damage {
+    0% {--icon-pos-x: -2;}
+    49.99% {--icon-pos-x: -2;}
+    50% {--icon-pos-x: 2;}
+    100% {--icon-pos-x: 2;}
+}
+
+@keyframes heart-flicker-damage-half {
+    0% {--icon-pos-x: -3;}
+    49.99% {--icon-pos-x: -3;}
+    50% {--icon-pos-x: 2;}
+    100% {--icon-pos-x: 2;}
+}
+
+@keyframes heart-flicker-damage-right-half {
+    0% {--icon-pos-x: -4;}
+    49.99% {--icon-pos-x: -4;}
+    50% {--icon-pos-x: -1;}
+    100% {--icon-pos-x: -1;}
+}
+
+#player-state-hp.flicker .heart-bg.rollback .heart {
+    animation: heart-flicker-rollback .25s linear infinite;
+}
+
+#player-state-hp.flicker .heart-bg.rollback-half .heart {
+    animation: heart-flicker-rollback-half .25s linear infinite;
+}
+
+#player-state-hp.flicker .heart-bg.rollback-right-half .heart {
+    animation: heart-flicker-rollback-right-half .25s linear infinite;
+}
+
+@keyframes heart-flicker-rollback {
+    0% {--icon-pos-x: -2;}
+    49.99% {--icon-pos-x: -2;}
+    50% {--icon-pos-x: 0;}
+    100% {--icon-pos-x: 0;}
+}
+
+@keyframes heart-flicker-rollback-half {
+    0% {--icon-pos-x: -3;}
+    49.99% {--icon-pos-x: -3;}
+    50% {--icon-pos-x: -1;}
+    100% {--icon-pos-x: -1;}
+}
+
+@keyframes heart-flicker-rollback-right-half {
+    0% {--icon-pos-x: -4;}
+    49.99% {--icon-pos-x: -4;}
+    50% {--icon-pos-x: 0;}
+    100% {--icon-pos-x: 0;}
+}
+
+
+#bottombar {
+    position: fixed;
+    bottom: 0;
+    height: 0;
+    width: 100vw;
+    z-index: 1000;
+}
+
+#player-hotbar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: inline-flex;
+    height: auto;
+    width: auto;
+    align-items: center;
+    flex-direction: row;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.inventory-item {
+    height: 64px;
+    width: 64px;
+    background-color: rgba(0, 0, 0, 0.2);
+    position: relative;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.inventory-item.use-fail {
+    animation: use-fail .5s 1;
+}
+
+@keyframes use-fail {
+    0% { transform: rotate(0deg); cursor: not-allowed; }
+    10% { transform: rotate(-1deg); }
+    20% { transform: rotate(3deg); }
+    30% { transform: rotate(-3deg); }
+    40% { transform: rotate(3deg); }
+    50% { transform: rotate(-3deg); }
+    60% { transform: rotate(2deg); }
+    70% { transform: rotate(-2deg); }
+    80% { transform: rotate(1deg); }
+    90% { transform: rotate(-1deg); }
+    100% { transform: rotate(0deg); cursor: not-allowed; }
+}
+
+#player-hotbar .inventory-item {
+    margin: 8px;
+}
+
+.inventory-item.player-hotbar-item {
+    opacity: 0.75;
+}
+
+#player-hotbar .inventory-item+.inventory-item {
+    margin-left: 0;
+}
+
+.inventory-item .item-damage-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background-color: rgba(0, 0, 0, 0.2);
+    opacity: 0.75;
+}
+
+.inventory-item .item-damage-bar .item-damage-value {
+    --value: 100%;
+    width: var(--value);
+    height: 4px;
+    background-color: #00FF00;
+}
+
+.inventory-item .item-count {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: var(--ac-color-white);
+    display: block;
+    padding: 0.1em 0.25em;
+    text-shadow: 2px 2px 0 var(--ac-color-white-bg);
+    font-weight: bold;
+}
+
+.inventory-item .item-damage-bar .item-damage-value.damage-1 { background-color: #80FF00; }
+.inventory-item .item-damage-bar .item-damage-value.damage-2 { background-color: #FFFF00; }
+.inventory-item .item-damage-bar .item-damage-value.damage-3 { background-color: #FF8000; }
+.inventory-item .item-damage-bar .item-damage-value.damage-4 { background-color: #FF0000; }
+
+.inventory-item .item-damage-bar.hide {
+    display: none;
+}
+
+.inventory-item.player-hotbar-item.selected {
+    /* top: -8px; */
+    background-color: rgba(255, 255, 255, 0.25);
+    opacity: 1;
+}
+
+
+#keys-bar {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    color: #FFFFFF;
+    text-shadow: 0.1em 0.1em 0 #222222;
+    padding-right: 16px;
+    padding-bottom: 8px;
+    font-size: 18px;
+}
+
+#keys-bar .pixel-hotkeys-key-label {
+    padding-right: 8px;
+}
+
+#game.hide-hud #topbar,
+#game.hide-hud #bottombar {
+    display: none;
+}
+
+#game.hide-hud-half #topbar,
+#game.hide-hud-half #bottombar {
+    opacity: 0.5;
+}
