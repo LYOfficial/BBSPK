@@ -32,11 +32,20 @@ class DOMForumList {
             hasNetSec: "no",
             note: "",
             reference: [],
+            __domID: undefined,
+            __domClass: undefined,
             ...item
         }
 
-        let url = new URL(item.url);
-        return `<div class="forum-item forum-state-${item.state}">
+        let url;
+        try {
+            url = new URL(item.url);
+        } catch (error) {
+            url = {
+                host: item.url
+            }
+        }
+        return `<div class="forum-item forum-state-${item.state} ${ item?.__domClass ? item.__domClass : '' }"${ item?.__domID ? ` id="${item.__domID}"` : '' }>
             <div class="forum-item-bg">
                 <div class="forum-item-bg-2"></div>
             </div>

@@ -758,3 +758,16 @@ footer>.page-content {
         display: none;
     }
 }
+
+
+
+
+.text-heimu {
+    background-color: #000000;
+    color: #000000;
+    transition: color .3s;
+}
+
+.text-heimu:hover {
+    color: #FFFFFF;
+}
