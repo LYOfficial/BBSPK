@@ -367,8 +367,8 @@ const db_forums = [
     },
     {
         title: "Hi世界Minecraft论坛",
-        url: "https://himcbbs.com/",
-        state: "failure",
+        url: "https://www.himcbbs.com/",
+        state: "up",
         createdAt: "2024/01/28",
         updatedAt: "2024/03/21",
         hasICP: "yes",
