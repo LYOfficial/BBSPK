@@ -213,12 +213,7 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
-        reference: [
-            {
-                title: "我做了个Minecraft论坛？比MCBBS使用简单？ —MC萝卜论坛！",
-                url: "https://www.bilibili.com/video/BV1bG411G7Pk"
-            }
-        ]
+        reference: []
     },
     {
         title: "MineTalk",
@@ -670,10 +665,6 @@ const db_forums = [
             {
                 title: "“不模仿 MCBBS，而是重新定义 MCBBS”?",
                 url: "https://www.bilibili.com/video/BV1Vz421Q7Bz"
-            },
-            {
-                title: "新的MCBBS",
-                url: "https://www.bilibili.com/video/BV1xz421Q7R1/"
             },
             {
                 title: "新的MCBBS",
