@@ -500,6 +500,17 @@ const db_forums = [
         ]
     },
     {
+        title: "SodaMC",
+        url: "https://sodamc.com/",
+        state: "up",
+        createdAt: "2024/02/20",
+        updatedAt: "2024/03/21",
+        hasICP: "yes",
+        hasNetSec: "yes",
+        note: "个人备案，综合性社区。",
+        reference: []
+    },
+    {
         title: "大家的世界",
         url: "https://bbs.mclqj.site/",
         state: "up",
