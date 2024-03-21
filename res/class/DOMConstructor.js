@@ -209,10 +209,10 @@ class DOMForumList {
             failureCount  = items.filter((e) => {
                 return e.state == 'failure';
             }).length,
-            downCount  = items.filter((e) => {
+            downCount     = items.filter((e) => {
                 return e.state == 'down';
             }).length,
-            unknowCount  = items.filter((e) => {
+            unknowCount   = items.filter((e) => {
                 return e.state == 'unknow';
             }).length;
 

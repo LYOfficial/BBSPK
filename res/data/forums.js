@@ -357,7 +357,7 @@ const db_forums = [
     {
         title: "SimpBBS",
         url: "https://www.simpbbs.com/",
-        state: "down",
+        state: "up",
         createdAt: "2023/10/28",
         updatedAt: "2024/03/19",
         hasICP: "no",
@@ -435,7 +435,7 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1jx42117Yd/"
             },
             {
-                title:"比MCBBS更强，重新开站，快来备份你的帖子数据！",
+                title: "比MCBBS更强，重新开站，快来备份你的帖子数据！",
                 url: "https://www.bilibili.com/video/BV1BK421v7Vi/"
             }
         ]
@@ -558,9 +558,9 @@ const db_forums = [
     {
         title: "potatobbs",
         url: "http://potato.eeeyt.cn/",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/25",
-        updatedAt: "2024/03/16",
+        updatedAt: "2024/03/21",
         hasICP: "yes",
         hasNetSec: "no",
         note: "",
@@ -588,7 +588,7 @@ const db_forums = [
         note: "非大陆服务器。",
         reference: [
             {
-                title: "不模仿 MCBBS，而是重新定义 MCBBS",
+                title: "“不模仿 MCBBS，而是重新定义 MCBBS”?",
                 url: "https://www.bilibili.com/video/BV1Vz421Q7Bz"
             },
             {
@@ -635,7 +635,7 @@ const db_forums = [
     {
         title: "星辰论坛",
         url: "https://www.mcbbs.website/",
-        state: "failure",
+        state: "up",
         createdAt: "2024/03/13",
         updatedAt: "2024/03/17",
         hasICP: "no",
