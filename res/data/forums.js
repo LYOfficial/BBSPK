@@ -43,7 +43,7 @@ const db_forums = [
         updatedAt: "2024/03/22",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "主营基岩版，含Java版。",
+        note: "综合性MC论坛，以基岩版服务端资源为主要特色，于今年二月初重启Java版。",
         reference: []
     },
     {
