@@ -98,7 +98,7 @@ class DOMForumList {
     static itemEx(item) {
         item = {
             title: "未命名",
-            url: "https://www.example.com/",
+            url: "https://www.example.com",
             archiveUrl: "",
             updatedAt: "1970/01/01",
             note: "",
@@ -173,8 +173,10 @@ class DOMForumList {
     static referenceList(referenceItems) {
         if (!Array.isArray(referenceItems) || referenceItems.length <= 0) return '';
         let dom = '<ol>';
-        referenceItems.forEach(e => {
+        const medianRow = 2;
+        referenceItems.forEach((e, index) => {
             dom += DOMForumList.reference(e);
+            if (index + 1 == medianRow && referenceItems.length > medianRow) dom += `</ol><details><summary> 查看更多....</summary><ol class="reference-more" start="${medianRow + 1}">`;
         });
         return dom + '</ol>';
     }

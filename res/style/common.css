@@ -476,8 +476,27 @@ nav.in-sticky {
     padding: 0.25rem 1rem 0.75rem 1rem;
 }
 
+.forum-item-content summary {
+    margin-top: 0.25rem;
+    color: var(--ant-color-primary);
+    display: inline-block;
+    cursor: pointer;
+}
+
+.forum-item-content summary:hover {
+    color: var(--ant-color-primary-text-hover);
+}
+
+.forum-item-content summary:active {
+    color: var(--ant-color-primary-text-active);
+}
+
 .forum-item-content ol {
     padding-left: 1rem;
+}
+
+.forum-item-content ol.reference-more li {
+    margin-top: 0.5rem;
 }
 
 .forum-item-content ol li+li {

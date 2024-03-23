@@ -98,6 +98,10 @@ $(document).on('click', '.list-controller-item.close', function() {
     $('#' + $(this).data('target') + ' .forum-item-content').removeClass('active');
 });
 
+$(document).on('click', '.forum-item-content summary', function() {
+    this.style.display = 'none';
+});
+
 $(document).on('click', 'nav .nav-item', function() {
     const target = $(this).data('target');
     scrollToTitle(target);
