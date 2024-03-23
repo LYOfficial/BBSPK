@@ -447,13 +447,13 @@ const db_forums = [
     },
     {
         title: "Hi世界Minecraft论坛",
-        url: "https://himcbbs.com/",
+        url: "https://www.himcbbs.net/",
         state: "up",
         createdAt: "2024/01/28",
-        updatedAt: "2024/03/22",
+        updatedAt: "2024/03/23",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "非大陆服务器，主营Java版，含基岩版。",
+        note: "大陆服务器，主营Java版，含基岩版。",
         reference: [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
