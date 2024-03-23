@@ -297,12 +297,12 @@ const db_forums = [
     {
         title: "MC-BBS",
         url: "https://mc-bbs.net",
-        state: "up",
+        state: "failure",
         createdAt: "2022/08/30",
         updatedAt: "2024/03/24",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。域名被墙。",
         reference: []
     },
     {
