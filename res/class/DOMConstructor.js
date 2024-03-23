@@ -24,7 +24,7 @@ class DOMForumList {
 
         item = {
             title: "未命名",
-            url: "https://www.example.com/",
+            url: "https://www.example.com",
             state: "unknow",
             createdAt: "1970/01/01",
             updatedAt: "1970/01/01",

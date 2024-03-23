@@ -9,11 +9,11 @@
 
 欢迎各位对此项目做出贡献！教程可在下方查看，Fork 后进行修改 **（虽然会自动排序，但为了方便维护请自觉按照建站时间排序）** ，感谢每一位贡献者的 PR！如果有网站宣传资料等参考资料，请务必添加，谢谢！
 
-**注意：请确保您Fork的仓库为最新，可通过自己仓库页面的【Sync fork】更新后再提交PR！旧版仓库的合并会带来很多麻烦，感谢您的支持！**
+**注意：请确保您 Fork 的仓库为最新，可通过自己仓库页面的【Sync fork】更新后再提交 PR！旧版仓库的合并会带来很多麻烦，感谢您的支持！**
 
 ## 贡献教程
 
-**您需要拥有一个GitHub账号！**
+**您需要拥有一个 GitHub 账号！**
 
 1. [点击这里 Fork 此仓库](https://github.com/LYOfficial/BBSPK/fork)。
 2. 在您 Fork 的仓库内进行修改。
@@ -53,20 +53,21 @@
 ``` js
 {
     title: "MCBBS",
-    url: "https://www.mcbbs.net/",
+    url: "https://www.mcbbs.net",
     state: "unknow",
     createdAt: "2010/10/30",
     updatedAt: "2024/03/06",
     hasICP: "yes",
     hasNetSec: "yes",
-    note: "直属B站的我的世界中文论坛",
+    note: "直属B站的我的世界中文论坛。",
     reference: [
         {
             title: "这是第一条参考资料",
-            url: "https://www.mcbbs.net/"
-        }, {
+            url: "https://www.mcbbs.net"
+        },
+        {
             title: "这是第二条参考资料",
-            url: "https://www.mcbbs.net/"
+            url: "https://www.mcbbs.net"
         }
     ]
 }
@@ -88,10 +89,10 @@
 ``` js
 {
     title: "回来吧 MCBBS",
-    url: "http://mcbbs.win/",
+    url: "http://mcbbs.win",
     archiveUrl: "https://web.archive.org/web/20240302042136/http://mcbbs.win/",
     updatedAt: "2024/03/06",
-    note: "真诚祷告",
+    note: "真诚祷告。",
     reference: []
 }
 ```
