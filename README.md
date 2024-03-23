@@ -18,7 +18,7 @@
 1. [点击这里 Fork 此仓库](https://github.com/LYOfficial/BBSPK/fork)。
 2. 在您 Fork 的仓库内进行修改。
 3. 点击顶部【Pull requests】— 右上角【New pull request】—【Create pull request】。
-4. 填写标题和描述，说明您做了什么修改。
+4. 合并到 `dev` 分支，填写标题和描述，说明您做了什么修改。
 5. 等待此项目所有者 [@LYOfficial](https://github.com/LYOfficial) 和项目管理员 [@sheep-realms](https://github.com/sheep-realms) 通过审核。
 
 ### 如何更改数据？
