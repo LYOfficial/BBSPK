@@ -658,8 +658,8 @@ const db_forums = [
         state: "up",
         createdAt: "2024/03/02",
         updatedAt: "2024/03/22",
-        hasICP: "no",
-        hasNetSec: "no",
+        hasICP: "in_progress",
+        hasNetSec: "in_progress",
         note: "非大陆服务器。",
         reference: [
             {
