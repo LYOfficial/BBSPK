@@ -297,9 +297,9 @@ const db_forums = [
     {
         title: "MC-BBS",
         url: "https://mc-bbs.net",
-        state: "failure",
+        state: "up",
         createdAt: "2022/08/30",
-        updatedAt: "2024/03/23",
+        updatedAt: "2024/03/24",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -453,7 +453,7 @@ const db_forums = [
         updatedAt: "2024/03/23",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "大陆服务器，主营Java版，含基岩版。",
+        note: "主营Java版，含基岩版。",
         reference: [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
@@ -639,14 +639,19 @@ const db_forums = [
         hasICP: "yes",
         hasNetSec: "no",
         note: "",
-        reference: []
+        reference: [
+            {
+                title: "我的世界土豆论坛-刚开没多久的论坛 欢迎来搬运mcbbs的资源",
+                url: "https://www.bilibili.com/video/BV1QS421w7cp/"
+            }
+        ]
     },
     {
         title: "青草原MC社区",
         url: "https://qcymc.top",
-        state: "failure",
+        state: "up",
         createdAt: "2024/02/27",
-        updatedAt: "2024/03/23",
+        updatedAt: "2024/03/24",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -704,6 +709,10 @@ const db_forums = [
             {
                 title: "REMCBBS，国内新一代Minecraft开源社区",
                 url: "https://www.bilibili.com/video/BV1oi421o7PT/"
+            },
+            {
+                title: "【mcbbs】remcbbs情况汇报，新一届MC论坛。mcbbs复兴有望！",
+                url: "https://www.bilibili.com/video/BV1q1421S75B/"
             }
         ]
     },
