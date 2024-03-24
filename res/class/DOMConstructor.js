@@ -88,6 +88,7 @@ class DOMForumList {
             <div class="icon">${ Icon[icon]() }</div>
             <div class="title">${ title }</div>
             <div class="line right"></div>
+            <div class="date">2024/01/17</div>
         </div>`;
     }
 
