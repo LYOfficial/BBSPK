@@ -780,6 +780,22 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1nx4y1D7r2/"
             }
         ]
+    },
+    {
+        title: "BetaMC",
+        url: "https://www.betamc.net",
+        state: "up",
+        createdAt: "2024/03/22",
+        updatedAt: "2024/03/24",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "以Minecraft爱好者交流为主的我的世界中文社区, 提供优质的MC资源及服务器推荐。",
+        reference: [
+            {
+                title: "注册BetaMC论坛",
+                url: "https://www.betamc.net/register"
+            }
+        ]
     }
 ];
 
