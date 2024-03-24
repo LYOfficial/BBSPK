@@ -196,7 +196,6 @@ a svg {
     width: 1rem;
     height: 1rem;
     fill: var(--color-link);
-    -webkit-tap-highlight-color: transparent;
 }
 
 a:hover {
