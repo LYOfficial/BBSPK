@@ -3,7 +3,7 @@
 
 **欢迎点击 “Star” 按钮来支持我们的编写。**
 
-**前情提要：我的世界中文论坛 [MCBBS](https://www.mcbbs.net) 仍在关站中，近期出现许多新兴我的世界论坛，在此列出目前可见的我的世界中文论坛，旁观晋级赛现状。**
+**前情提要：我的世界中文论坛 [MCBBS](https://www.mcbbs.net) 仍在关站中，近期出现许多新兴我的世界论坛，在此列出目前可见的我的世界简体中文论坛，旁观晋级赛现状。**
 
 本项目展示的网站内容均收集自互联网，不代表参与本项目的任何个人或组织的观点。
 
@@ -18,8 +18,8 @@
 1. [点击这里 Fork 此仓库](https://github.com/LYOfficial/BBSPK/fork)。
 2. 在您 Fork 的仓库内进行修改。
 3. 点击顶部【Pull requests】— 右上角【New pull request】—【Create pull request】。
-4. 合并到 `dev` 分支，填写标题和描述，说明您做了什么修改。
-5. 等待此项目所有者 [@LYOfficial](https://github.com/LYOfficial) 和项目管理员 [@sheep-realms](https://github.com/sheep-realms) 通过审核。
+4. 选择合并到 `dev` 分支，填写标题和描述，说明您做了什么修改。
+5. 提交 PR，等待此项目所有者 [@LYOfficial](https://github.com/LYOfficial) 或项目管理员 [@sheep-realms](https://github.com/sheep-realms) 通过审核。
 
 ### 如何更改数据？
 
@@ -29,13 +29,13 @@
 
 对于 `db_forums`（晋级赛选手），对象有以下属性：
 
-| 属性键名称 | 属性值类型 | 相关描述 |
+| 属性键名称 | 属性值类型 | 属性值描述 |
 | - | - | - |
 | `title` | String | 网站名称。 |
 | `url` | String | 网站 URL 地址。 |
 | `state` | String | 网站状态：<br>`up` - 正常运行<br>`down` - 停摆<br>`failure` - 存在故障或访问困难<br>`close` - 已宣布关闭或不再提供论坛服务<br>`unknow` - 未知 |
 | `createdAt` | String | 网站创建时间，格式为 `yyyy/MM/dd`。<br>请勿填写 “未知” 等其他格式的数据，未知请填写更新时间并在备注中注明。 |
-| `closedAt` | String | 网站关闭时间，格式同上，仅在 `state` 值为 `close` 时显示，可不填。 |
+| `closedAt` | String | 可选。网站关闭时间，格式同上，仅在 `state` 值为 `close` 时显示。 |
 | `updatedAt` | String | 最后更新时间，格式同上。 |
 | `hasICP` | String | 是否 ICP 备案：<br>`yes` - 已备案<br>`no` - 未备案<br>`in_progress` - 备案中 |
 | `hasNetSec` | String | 是否网安备案，同上。 |
@@ -44,7 +44,7 @@
 
 `reference` 是一个数组。其中，对象有以下属性：
 
-| 属性键名称 | 属性值类型 | 相关描述 |
+| 属性键名称 | 属性值类型 | 属性值描述 |
 | - | - | - |
 | `title` | String | 参考资料标题。 |
 | `url` | String | 参考资料 URL 地址。 |
