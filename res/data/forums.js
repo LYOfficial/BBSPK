@@ -124,6 +124,22 @@ const db_forums = [
         reference: []
     },
     {
+        title: "我的世界教育版中文论坛",
+        url: "https://www.mceebbs.com",
+        state: "up",
+        createdAt: "2021/02/23",
+        updatedAt: "2024/03/25",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: [
+            {
+                title: "基岩网络科技工作室＆我的世界教育版中文论坛https://www.mceebbs.com正式对外免费开",
+                url: "https://www.bilibili.com/read/cv9971960/"
+            }
+        ]
+    },
+    {
         title: "小僵尸论坛",
         url: "https://www.zitbbs.com",
         state: "up",

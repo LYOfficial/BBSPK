@@ -43,6 +43,10 @@
             if (nowHours >= 19 || nowHours < 6) {
                 $('.header-banner').addClass('in-night');
             }
+            if (timeNow.getMonth() == 3 && timeNow.getDate() == 1) {
+                $('.header-banner').addClass('in-april-fools');
+                $('#bbspk-logo').attr('src', 'assets/image/logo_april_fools.png');
+            }
         </script>
     </header>
 

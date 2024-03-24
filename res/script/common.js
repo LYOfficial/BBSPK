@@ -1,5 +1,7 @@
 const regUrlBlackList = generateRegexFromArray(db_url_black_list);
 
+let bannerClicked = false;
+
 $('#forum-list').html(DOMForumList.list(
     db_forums.filter((e) => {
         return e.url.search(regUrlBlackList) == -1;
@@ -80,6 +82,13 @@ function generateRegexFromArray(strings) {
 
 
 
+$(document).on('click', '.header-banner:not(.clicked)', function(e) {
+    if (!bannerClicked) {
+        $('.header-banner').addClass('clicked');
+        bannerClicked = true;
+    }
+});
+
 $(document).on('click', '.forum-item-header', function(e) {
     if ($(e.target).closest('a').length) return;
     let $sel = $(this).parents('.forum-item').find('.forum-item-content');
@@ -108,6 +117,10 @@ $(document).on('click', 'nav .nav-item', function() {
 });
 
 $(document).scroll(function() {
+    if (!bannerClicked) {
+        $('.header-banner:not(.clicked)').addClass('clicked');
+        bannerClicked = true;
+    }
     let top = $(document).scrollTop();
     if (top > $('header').offset().top + $('header').height()) {
         $('#bbspk-nav').addClass('in-sticky');
