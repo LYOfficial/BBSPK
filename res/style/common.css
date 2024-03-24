@@ -154,6 +154,18 @@ header {
     background-image: url(../../assets/image/banner_night.png);
 }
 
+.header-banner.in-april-fools {
+    background-image: url(../../assets/image/banner_april_fools.png);
+    height: 100vh;
+    transition: height .7s;
+    cursor: pointer;
+}
+
+.header-banner.in-april-fools.clicked {
+    height: min(400px, 50vh);
+    cursor: unset;
+}
+
 .header-banner h1 {
     font-size: 48px;
     color: #FFFFFF;
