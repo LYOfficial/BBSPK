@@ -687,6 +687,10 @@ const db_forums = [
             {
                 title: "新的MCBBS",
                 url: "https://www.bilibili.com/video/BV1xz421Q7R1/"
+            },
+            {
+                title: "什么 BYD 论坛,❤️❤️爱了爱了",
+                url: "https://www.bilibili.com/video/BV1TF4m1w7cR/"
             }
         ]
     },
