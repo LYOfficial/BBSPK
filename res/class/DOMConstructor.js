@@ -82,7 +82,18 @@ class DOMForumList {
         </div>`;
     }
 
+    static splitLine(title, icon = 'nuke') {
+        return `<div class="split-line">
+            <div class="line left"></div>
+            <div class="icon">${ Icon[icon]() }</div>
+            <div class="title">${ title }</div>
+            <div class="line right"></div>
+        </div>`;
+    }
+
     static list(items = [], target = '') {
+        const mcbbsBoomDate = new Date('2024/01/17').getTime();
+        let setMcbbsBoomLine = false;
         let dom = DOMForumList.listHeader(items, target);
         items = items.sort((a, b) => {
             let da = new Date(a.createdAt).getTime();
@@ -90,6 +101,12 @@ class DOMForumList {
             return da - db;
         });
         items.forEach(e => {
+            try {
+                if (!setMcbbsBoomLine && new Date(e.createdAt).getTime() > mcbbsBoomDate) {
+                    setMcbbsBoomLine = true;
+                    dom += DOMForumList.splitLine('MCBBS 开始无限期维护', 'nuke');
+                }
+            } catch (error) {}
             dom += DOMForumList.item(e);
         });
         return dom;

@@ -564,6 +564,41 @@ nav.in-sticky {
 
 
 
+.split-line {
+    display: flex;
+    margin: 1rem 0;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--ant-color-text-tertiary);
+}
+
+.split-line .line {
+    height: 1px;
+    background-color: var(--ant-color-border);
+}
+
+.split-line .line.left {
+    width: 1rem;
+}
+
+.split-line .line.right {
+    flex: 1;
+}
+
+.split-line .icon {
+    width: 28px;
+    height: 28px;
+}
+
+.split-line .icon svg {
+    width: 28px;
+    height: 28px;
+    fill: var(--ant-color-text-tertiary);
+}
+
+
+
+
 .forum-list-header {
     display: flex;
     flex-direction: column;
