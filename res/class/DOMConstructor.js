@@ -62,7 +62,7 @@ class DOMForumList {
                     <div class="date-icon-text updated-at" title="最后更新时间">${Icon.clockEditOutline()} ${item.updatedAt}</div>
                 </div>
                 <div class="action-box">
-                    <a href="${item.url}" target="_blank">访问网站 ${Icon.openInNew()}</a>
+                    <a href="${item.url}" target="_blank" rel="noopener noreferrer">访问网站 ${Icon.openInNew()}</a>
                 </div>
             </div>
             <div class="forum-item-content">
@@ -123,7 +123,7 @@ class DOMForumList {
                     <div class="date-icon-text updated-at" title="最后更新时间">${Icon.clockEditOutline()} ${item.updatedAt}</div>
                 </div>
                 <div class="action-box">
-                    <a href="${item.url}" target="_blank">访问网站 ${Icon.openInNew()}</a>
+                    <a href="${item.url}" target="_blank" rel="noopener noreferrer">访问网站 ${Icon.openInNew()}</a>
                 </div>
             </div>
             <div class="forum-item-content">
@@ -155,7 +155,7 @@ class DOMForumList {
         return `<div class="archive-url">
             <div class="attr-label">网页存档</div>
             <div class="attr-value">
-                <a href="${value}" target="_blank">查看网页存档 ${Icon.openInNew()}</a>
+                <a href="${value}" target="_blank" rel="noopener noreferrer">查看网页存档 ${Icon.openInNew()}</a>
             </div>
         </div>`;
     }
@@ -182,7 +182,7 @@ class DOMForumList {
     }
 
     static reference(referenceItem) {
-        return `<li>${referenceItem.title}<br><a class="reference-link" href="${referenceItem.url}" target="_blank">${referenceItem.url}</a></li>`;
+        return `<li>${referenceItem.title}<br><a class="reference-link" href="${referenceItem.url}" target="_blank" rel="noopener noreferrer">${referenceItem.url}</a></li>`;
     }
 
     static icpState(value) {
