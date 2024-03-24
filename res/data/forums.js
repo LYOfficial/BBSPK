@@ -725,10 +725,6 @@ const db_forums = [
             {
                 title: "【mcbbs】remcbbs情况汇报，新一届MC论坛。mcbbs复兴有望！",
                 url: "https://www.bilibili.com/video/BV1q1421S75B/"
-            },
-            {
-                title: "【mcbbs】remcbbs情况汇报，新一届MC论坛。mcbbs复兴有望！",
-                url: "https://www.bilibili.com/video/BV1q1421S75B/"
             }
         ]
     },
@@ -777,22 +773,6 @@ const db_forums = [
             {
                 title: "我的世界交流社区网站！！mc社区",
                 url: "https://www.bilibili.com/video/BV1nx4y1D7r2/"
-            }
-        ]
-    },
-    {
-        title: "石头论坛",
-        url: "https://stonebbs.mchc.link/",
-        state: "up",
-        createdAt: "2024/03/24",
-        updatedAt: "2024/03/24",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: [
-            {
-                title: "新的论坛-石头论坛",
-                url: "https://stonebbs.mchc.link/"
             }
         ]
     }
