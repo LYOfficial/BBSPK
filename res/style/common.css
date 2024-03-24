@@ -196,6 +196,7 @@ a svg {
     width: 1rem;
     height: 1rem;
     fill: var(--color-link);
+    -webkit-tap-highlight-color: transparent;
 }
 
 a:hover {
@@ -262,13 +263,6 @@ nav.in-sticky {
         flex: 1;
     }    
 }
-
-@supports (-webkit-tap-highlight-color: transparent) {
-    a {
-        -webkit-tap-highlight-color: transparent;
-    }
-}
-
 
 
 
