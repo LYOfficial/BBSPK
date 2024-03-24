@@ -789,13 +789,8 @@ const db_forums = [
         updatedAt: "2024/03/24",
         hasICP: "no",
         hasNetSec: "no",
-        note: "以Minecraft爱好者交流为主的我的世界中文社区, 提供优质的MC资源及服务器推荐。",
-        reference: [
-            {
-                title: "注册BetaMC论坛",
-                url: "https://www.betamc.net/register"
-            }
-        ]
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
