@@ -35,6 +35,7 @@
 | `url` | String | 网站 URL 地址。 |
 | `state` | String | 网站状态：<br>`up` - 正常运行<br>`down` - 停摆<br>`failure` - 存在故障或访问困难<br>`close` - 已宣布关闭或不再提供论坛服务<br>`unknow` - 未知 |
 | `createdAt` | String | 网站创建时间，格式为 `yyyy/MM/dd`。<br>请勿填写 “未知” 等其他格式的数据，未知请填写更新时间并在备注中注明。 |
+| `closedAt` | String | 网站关闭时间，格式同上，仅在 `state` 值为 `close` 时显示，可不填。 |
 | `updatedAt` | String | 最后更新时间，格式同上。 |
 | `hasICP` | String | 是否 ICP 备案：<br>`yes` - 已备案<br>`no` - 未备案<br>`in_progress` - 备案中 |
 | `hasNetSec` | String | 是否网安备案，同上。 |
