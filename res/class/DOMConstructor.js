@@ -6,6 +6,7 @@ class DOMForumList {
             up: 'check',
             down: 'close',
             failure: 'alert',
+            close: 'nuke',
             unknow: 'help'
         }
         let icon = '';
@@ -19,6 +20,7 @@ class DOMForumList {
             up: '正常运行',
             down: '停摆',
             failure: '存在故障或访问困难',
+            close: '已宣布关闭或不再提供论坛服务',
             unknow: '未知'
         }
 
@@ -27,6 +29,7 @@ class DOMForumList {
             url: "https://www.example.com",
             state: "unknow",
             createdAt: "1970/01/01",
+            closedAt: "1970/01/01",
             updatedAt: "1970/01/01",
             hasICP: "no",
             hasNetSec: "no",
@@ -59,7 +62,12 @@ class DOMForumList {
                 </div>
                 <div class="time-box">
                     <div class="date-icon-text created-at" title="网站创建时间">${Icon.flag()} ${item.createdAt}</div>
-                    <div class="date-icon-text updated-at" title="最后更新时间">${Icon.clockEditOutline()} ${item.updatedAt}</div>
+                    <div
+                        class="date-icon-text ${ item.state == 'close' ? 'closed-at' : 'updated-at' }"
+                        title="${ item.state == 'close' ? '网站关闭时间' : '最后更新时间' }"
+                    >
+                        ${ item.state == 'close' ? Icon.nuke() : Icon.clockEditOutline() } ${ item.state == 'close' ? item.closedAt : item.updatedAt }
+                    </div>
                 </div>
                 <div class="action-box">
                     <a href="${item.url}" target="_blank" rel="noopener noreferrer">访问网站 ${Icon.openInNew()}</a>
@@ -229,7 +237,7 @@ class DOMForumList {
                 return e.state == 'failure';
             }).length,
             downCount     = items.filter((e) => {
-                return e.state == 'down';
+                return e.state == 'down' || e.state == 'close';
             }).length,
             unknowCount   = items.filter((e) => {
                 return e.state == 'unknow';

@@ -526,12 +526,13 @@ const db_forums = [
     {
         title: "EmeraldBBS",
         url: "http://feiyutang.cn",
-        state: "down",
+        state: "close",
         createdAt: "2024/02/20",
-        updatedAt: "2024/03/23",
+        closedAt: "2024/03/24",
+        updatedAt: "2024/03/24",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，原名MineFriend，SC论坛。",
+        note: "非大陆服务器，原名MineFriend，SC论坛。现已改为 Minecraft 镜像下载站。",
         reference: [
             {
                 title: "闲来无事搭建的MC论坛（？",
