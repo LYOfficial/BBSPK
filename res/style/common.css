@@ -481,6 +481,7 @@ nav.in-sticky {
     color: var(--ant-color-primary);
     display: inline-block;
     cursor: pointer;
+    font-size: 14px;
 }
 
 .forum-item-content summary:hover {
