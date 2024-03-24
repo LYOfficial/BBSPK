@@ -780,6 +780,17 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1nx4y1D7r2/"
             }
         ]
+    },
+    {
+        title: "BetaMC",
+        url: "https://www.betamc.net",
+        state: "up",
+        createdAt: "2024/03/22",
+        updatedAt: "2024/03/24",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
