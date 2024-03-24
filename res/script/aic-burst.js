@@ -30,7 +30,7 @@ $(document).keydown(function(e){
                 aicBurstLock = true;
 
                 $(document).scrollTop(0);
-                $('#forum-list .forum-item:not(.aic-burst-check)').attr('class', 'forum-item forum-state-down');
+                $('#forum-list .forum-item:not(.aic-burst-check)').attr('class', 'forum-item forum-state-close');
                 $('#forum-list .forum-item:not(.aic-burst-check) .state-box .state-icon').html(Icon.nuke());
                 $('#forum-list .forum-item:not(.aic-burst-check) .state-box').attr('title', '爆啦！');
                 $('#forum-list .forum-list-header .forum-count-item.survival .forum-count-value, #forum-list .forum-list-header .forum-count-item.up .forum-count-value, #forum-list .forum-list-header .forum-count-item.failure .forum-count-value, #forum-list .forum-list-header .forum-count-item.unknow .forum-count-value').text('0');
