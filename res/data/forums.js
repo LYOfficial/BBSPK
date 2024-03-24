@@ -749,6 +749,22 @@ const db_forums = [
         ]
     },
     {
+    title: "石头论坛",
+    url: "https://stonebbs.mchc.link",
+    state: "up",
+    createdAt: "2024/03/24",
+    updatedAt: "2024/03/24",
+    hasICP: "no",
+    hasNetSec: "no",
+    note: "",
+    reference: [
+        {
+            title: "新的论坛-石头论坛",
+            url: "https://b23.tv/Rcc5ekM"
+        }
+    ]
+    },
+    {
         title: "MC星空社",
         url: "https://www.ufacai.top",
         state: "up",
