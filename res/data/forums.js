@@ -703,8 +703,8 @@ const db_forums = [
     },
     {
         title: "星幻论坛",
-        url: "https://remcbbs.top",
-        state: "failure",
+        url: "https://remcbbs.com",
+        state: "up",
         createdAt: "2024/03/04",
         updatedAt: "2024/03/24",
         hasICP: "no",
