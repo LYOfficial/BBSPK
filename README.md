@@ -64,11 +64,11 @@
     reference: [
         {
             title: "这是第一条参考资料",
-            url: "https://www.mcbbs.net"
+            url: "https://www.bilibili.com"
         },
         {
             title: "这是第二条参考资料",
-            url: "https://www.mcbbs.net"
+            url: "https://www.bilibili.com"
         }
     ]
 }

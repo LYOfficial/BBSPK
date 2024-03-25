@@ -238,7 +238,7 @@ const db_forums = [
     {
         title: "MineTalk",
         url: "https://minebox.store",
-        state: "up",
+        state: "failure",
         createdAt: "2022/06/06",
         updatedAt: "2024/03/24",
         hasICP: "yes",
