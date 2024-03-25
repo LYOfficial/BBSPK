@@ -494,6 +494,10 @@ const db_forums = [
             {
                 title: "一个可以替代MCBBS的网站！",
                 url: "https://www.bilibili.com/video/BV13r42187th/"
+            },
+            {
+                title: "HiMCBBS大更新 快来加入我们~",
+                url: "https://www.bilibili.com/video/BV1VA4m1P7Dy/"
             }
         ]
     },
@@ -678,9 +682,9 @@ const db_forums = [
     {
         title: "青草原MC社区",
         url: "https://qcymc.top",
-        state: "up",
+        state: "failure",
         createdAt: "2024/02/27",
-        updatedAt: "2024/03/24",
+        updatedAt: "2024/03/26",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
