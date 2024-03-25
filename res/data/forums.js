@@ -702,11 +702,11 @@ const db_forums = [
         reference: []
     },
     {
-        title: "星幻论坛",
+        title: "REMCBBS",
         url: "https://remcbbs.com",
-        state: "failure",
+        state: "up",
         createdAt: "2024/03/04",
-        updatedAt: "2024/03/24",
+        updatedAt: "2024/03/25",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
