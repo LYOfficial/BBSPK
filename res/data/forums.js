@@ -516,7 +516,7 @@ const db_forums = [
     {
         title: "MineSMS服务器论坛",
         url: "https://bbs.minesms.lol",
-        state: "up",
+        state: "failure",
         createdAt: "2024/02/11",
         updatedAt: "2024/03/24",
         hasICP: "no",
