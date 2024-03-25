@@ -518,7 +518,7 @@ const db_forums = [
         url: "https://bbs.minesms.lol",
         state: "failure",
         createdAt: "2024/02/11",
-        updatedAt: "2024/03/24",
+        updatedAt: "2024/03/25",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
