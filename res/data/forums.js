@@ -555,7 +555,7 @@ const db_forums = [
         note: "非大陆服务器。",
         reference: [
             {
-                title: "@你的小蕉呀 的动态 - 动态",
+                title: "@你的小蕉呀 的动态 - 哔哩哔哩",
                 url: "https://www.bilibili.com/opus/900600276318158885/"
             }
         ]
