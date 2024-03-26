@@ -203,12 +203,12 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1SC4y1Y7Ha/"
             },
             {
-                title: "MCUTC论坛，欢迎各位开发者和玩家注册，探索无尽可能性，打造你的游戏世界！",
-                url: "https://www.bilibili.com/video/BV18W421N7uv/"
-            },
-            {
                 title: "MCUTC,我的世界资源论坛！欢迎您的访问！",
                 url: "https://www.bilibili.com/video/BV1oS421P7XM/"
+            },
+            {
+                title: "MCUTC论坛，欢迎各位开发者和玩家注册，探索无尽可能性，打造你的游戏世界！",
+                url: "https://www.bilibili.com/video/BV18W421N7uv/"
             },
             {
                 title: "[MCUTC]新开我的世界论坛，欢迎各位来注册！",
@@ -430,7 +430,7 @@ const db_forums = [
         reference: [
             {
                 title: "再见Mcbbs，新生McFun",
-                url: "https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g/"
+                url: "https://mp.weixin.qq.com/s/jIiF39QaG9hgUTtpoYRA0g"
             },
             {
                 title: "2024/03/13 论坛页面存档（见上方备注）",
