@@ -281,6 +281,7 @@ nav.in-sticky {
     display: flex;
     margin: 1rem;
     gap: 1rem;
+    align-items: center;
 }
 
 .bbspk-portal-left {
@@ -779,7 +780,8 @@ footer>.page-content {
     color: var(--ant-color-success);
 }
 
-#btn-bbspk-join {
+#btn-bbspk-join,
+#btn-nuke-attack {
     display: block;
     outline: unset;
     border: unset;
@@ -793,11 +795,34 @@ footer>.page-content {
 }
 
 #btn-bbspk-join:hover,
-#btn-bbspk-join:focus-visible {
+#btn-nuke-attack:hover,
+#btn-bbspk-join:focus-visible,
+#btn-nuke-attack:focus-visible {
     background-image: url(../../assets/svg/bg-state-unknow.svg);
     background-size: 2rem;
     animation: forum-item-bg 1s linear 0s infinite;
     background-color: var(--ant-color-success-text-hover);
+}
+
+#btn-nuke-attack {
+    margin-top: 1rem;
+    background-color: var(--ant-color-error);
+    display: none;
+}
+
+#btn-nuke-attack:hover,
+#btn-nuke-attack:focus-visible {
+    background-color: var(--ant-color-error-text-hover);
+}
+
+#btn-nuke-attack.disable {
+    background-color:#AAAAAA;
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+body.in-april-fools #btn-nuke-attack {
+    display: block;
 }
 
 .bbspk-join-card {

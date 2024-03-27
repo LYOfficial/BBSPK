@@ -51,6 +51,11 @@ $('#forum-list').append(DOMForumList.item({
 
 createTimer('2024/02/27 00:00:00 GMT+0800', '#timer-bbspk-created');
 
+let nukeReady = false;
+
+
+
+
 function scrollToTitle(id) {
     if (id == 'top') {
         updateView(function() {
@@ -82,12 +87,7 @@ function generateRegexFromArray(strings) {
 
 
 
-$(document).on('click', '.header-banner:not(.clicked)', function(e) {
-    if (!bannerClicked) {
-        $('.header-banner').addClass('clicked');
-        bannerClicked = true;
-    }
-});
+$(document).on('click', '.header-banner:not(.clicked)', bannerClick);
 
 $(document).on('click', '.forum-item-header', function(e) {
     if ($(e.target).closest('a').length) return;
@@ -117,14 +117,63 @@ $(document).on('click', 'nav .nav-item', function() {
 });
 
 $(document).scroll(function() {
-    if (!bannerClicked) {
-        $('.header-banner:not(.clicked)').addClass('clicked');
-        bannerClicked = true;
-    }
+    bannerClick();
     let top = $(document).scrollTop();
     if (top > $('header').offset().top + $('header').height()) {
         $('#bbspk-nav').addClass('in-sticky');
     } else {
         $('#bbspk-nav').removeClass('in-sticky');
     }
+});
+
+function bannerClick() {
+    if (!bannerClicked) {
+        $('.header-banner:not(.clicked)').addClass('clicked');
+        bannerClicked = true;
+
+        if ($('body').hasClass('in-april-fools')) {
+
+            mixer.play('ra2_csof003', 0);
+            mixer.play('ra2_nuke', 0);
+
+            createNukeTimer();
+        }
+    }
+}
+
+function createNukeTimer() {
+    let tn2 = new Date;
+    let nukeTime = tn2.getTime() + 150000;
+    nukeReady = false;
+    
+    $('#ra2-nuke').removeClass('ready hide');
+    $('#btn-nuke-attack').addClass('disable');
+
+    createTimer(nukeTime, '#ra2-nuke', 4, true, false, function() {
+        if (!nukeReady) {
+            nukeReady = true;
+            mixer.play('ra2_csof003');
+            $('#ra2-nuke').addClass('ready');
+            $('#btn-nuke-attack').removeClass('disable');
+        }
+    });
+}
+
+$(document).on('click', '#btn-nuke-attack:not(.disable)', function() {
+    mixer.play('ra2_nuke', 0.6);
+    setTimeout(function() {
+        $('body').addClass('ani-nuke-attack');
+        setTimeout(function() {
+            $('#forum-list .forum-item:not(.aic-burst-check)').attr('class', 'forum-item forum-state-close');
+            $('#forum-list .forum-item:not(.aic-burst-check) .state-box .state-icon').html(Icon.nuke());
+            $('#forum-list .forum-item:not(.aic-burst-check) .state-box').attr('title', '爆啦！');
+            $('#forum-list .forum-list-header .forum-count-item.survival .forum-count-value, #forum-list .forum-list-header .forum-count-item.up .forum-count-value, #forum-list .forum-list-header .forum-count-item.failure .forum-count-value, #forum-list .forum-list-header .forum-count-item.unknow .forum-count-value').text('0');
+            $('#forum-list .forum-list-header .forum-count-item.down .forum-count-value').text($('#forum-list .forum-list-header .forum-count-item.total .forum-count-value').text());
+            $('.aic-burst-check').removeClass('aic-burst-check');
+        }, 1000);
+        setTimeout(function() {
+            $('body').removeClass('ani-nuke-attack');
+        }, 5000);
+    }, 8500);
+    createNukeTimer();
 });

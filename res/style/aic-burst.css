@@ -124,3 +124,44 @@ body.aic-burst {
 .aic-burst-check {
     display: none;
 }
+
+
+
+
+
+#ra2-nuke {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: #000000;
+    color: #EE0000;
+    font-weight: bold;
+    padding: 0.125rem 0.35rem;
+    z-index: 5000;
+}
+
+#ra2-nuke.ready {
+    animation: ra2-nuke-ready 2s linear infinite;
+}
+
+#ra2-nuke.hide {
+    display: none;
+}
+
+@keyframes ra2-nuke-ready {
+    0% { color: #FFFFFF; }
+    50% { color: #FFFFFF; }
+    50.01% { color: #EE0000; }
+    100% { color: #EE0000; }
+}
+
+body.ani-nuke-attack {
+    animation: ra2-nuke-attack 1.5s linear 1;
+}
+
+@keyframes ra2-nuke-attack {
+    0% { filter: brightness(1); }
+    20% { filter: brightness(1.5); }
+    80% { filter: brightness(1.5); }
+    100% { filter: brightness(1); }
+}
