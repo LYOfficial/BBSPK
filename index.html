@@ -28,6 +28,8 @@
     <script src="res/data/url-black-list.js"></script>
     <script src="res/class/Icon.js"></script>
     <script src="res/class/DOMConstructor.js"></script>
+    <script src="res/class/Mixer.js"></script>
+    <script src="res/data/sounds.js"></script>
     <script src="res/script/timer.js"></script>
 </head>
 
@@ -44,6 +46,7 @@
                 $('.header-banner').addClass('in-night');
             }
             if (timeNow.getMonth() == 3 && timeNow.getDate() == 1) {
+                $('body').addClass('in-april-fools');
                 $('.header-banner').addClass('in-april-fools');
                 $('#bbspk-logo').attr('src', 'assets/image/logo_april_fools.png');
             }
@@ -65,19 +68,19 @@
                         <div class="timer-title">距离晋级赛开始已过去</div>
                         <div class="timer-content">
                             <span class="timer-item">
-                                <span class="timer-item-value days">0</span>
+                                <span class="timer-item-value days">-</span>
                                 <span>天</span>
                             </span>
                             <span class="timer-item">
-                                <span class="timer-item-value hours">0</span>
+                                <span class="timer-item-value hours">-</span>
                                 <span>小时</span>
                             </span>
                             <span class="timer-item">
-                                <span class="timer-item-value minutes">0</span>
+                                <span class="timer-item-value minutes">-</span>
                                 <span>分钟</span>
                             </span>
                             <span class="timer-item">
-                                <span class="timer-item-value seconds">0</span>
+                                <span class="timer-item-value seconds">-</span>
                                 <span>秒</span>
                             </span>
                         </div>
@@ -87,6 +90,7 @@
                     <div class="bbspk-join-card">
                         <span class="bbspk-join-message">想要加入吗？</span>
                         <a id="btn-bbspk-join" href="https://github.com/LYOfficial/BBSPK/blob/main/README.md" target="_blank">立即报名 ➤</a>
+                        <a id="btn-nuke-attack" href="javascript:;" class="disable">发射</a>
                     </div>
                 </div>
             </div>
@@ -160,6 +164,11 @@
         <div class="aic-burst-block block-1"></div>
         <div class="aic-burst-block block-2"></div>
         <div class="aic-burst-icon">爆</div>
+    </div>
+
+    <div id="ra2-nuke" class="hide">
+        <span>核彈攻擊&nbsp;</span>
+        <span class="minutes">10</span><span>:</span><span class="seconds">00</span>
     </div>
     
     <script src="res/script/common.js"></script>
