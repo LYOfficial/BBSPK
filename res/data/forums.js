@@ -463,9 +463,9 @@ const db_forums = [
     {
         title: "ikunmc",
         url: "https://www.ikunmc.com",
-        state: "failure",
+        state: "down",
         createdAt: "2023/10/28",
-        updatedAt: "2024/03/26",
+        updatedAt: "2024/03/30",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
