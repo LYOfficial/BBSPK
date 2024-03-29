@@ -463,7 +463,7 @@ const db_forums = [
     {
         title: "ikunmc",
         url: "https://www.ikunmc.com",
-        state: "up",
+        state: "failure",
         createdAt: "2023/10/28",
         updatedAt: "2024/03/26",
         hasICP: "no",
