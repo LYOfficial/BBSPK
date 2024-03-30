@@ -65,12 +65,12 @@ const db_forums = [
     {
         title: "暮光方块论坛",
         url: "https://bbs.tsfk.top",
-        state: "failure",
+        state: "up",
         createdAt: "2019/02/15",
         updatedAt: "2024/03/30",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "预计维护到 2024/3/30 20:00。",
+        note: "",
         reference: []
     },
     {
