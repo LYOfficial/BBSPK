@@ -745,6 +745,10 @@ const db_forums = [
             {
                 title: "什么 BYD 论坛,❤️❤️爱了爱了",
                 url: "https://www.bilibili.com/video/BV1TF4m1w7cR/"
+            },
+            {
+                title: "过个正经的愚人节 - MineNets",
+                url: "https://www.bilibili.com/video/BV1TD421j7Ka/"
             }
         ]
     },
