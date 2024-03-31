@@ -784,6 +784,10 @@ const db_forums = [
             {
                 title: "【mcbbs】remcbbs情况汇报，新一届MC论坛。mcbbs复兴有望！",
                 url: "https://www.bilibili.com/video/BV1q1421S75B/"
+            },
+            {
+                title: "【REmcbbs】我的世界论坛重大更新",
+                url: "https://www.bilibili.com/video/BV1Tu4m1M7KQ/"
             }
         ]
     },
