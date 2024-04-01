@@ -516,7 +516,7 @@ const db_forums = [
         url: "https://www.himcbbs.net",
         state: "up",
         createdAt: "2024/01/28",
-        updatedAt: "2024/03/30",
+        updatedAt: "2024/04/01",
         hasICP: "yes",
         hasNetSec: "no",
         note: "主营Java版，含基岩版。",
@@ -532,6 +532,10 @@ const db_forums = [
             {
                 title: "HiMCBBS大更新 快来加入我们~",
                 url: "https://www.bilibili.com/video/BV1VA4m1P7Dy/"
+            },
+            {
+                title: "【余人劫】⚡为什么会变成这样呢？⚡",
+                url: "https://www.bilibili.com/video/BV1AA4m1P7rd/"
             }
         ]
     },
