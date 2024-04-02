@@ -565,12 +565,13 @@ const db_forums = [
     {
         title: "画了个圈中文资源站",
         url: "https://mcbbs.run",
-        state: "up",
+        state: "close",
         createdAt: "2024/02/13",
+        closedAt: "2024/04/02",
         updatedAt: "2024/03/30",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "",
+        note: "已改为云计算产品交流论坛。",
         reference: []
     },
     {
