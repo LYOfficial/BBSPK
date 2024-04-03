@@ -694,6 +694,17 @@ const db_forums = [
             }
         ]
     },
+        {
+        title: "MINEBBS",
+        url: "https://www.minebbs.cc/",
+        state: "up",
+        createdAt: "2024/02/23",
+        updatedAt: "2024/04/04",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "海外服务器，Cloudflare加速。",
+        reference: []
+    },
     {
         title: "potatobbs",
         url: "http://potato.eeeyt.cn",
