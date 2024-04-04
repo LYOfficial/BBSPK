@@ -460,14 +460,14 @@ const db_forums = [
         ]
     },
     {
-        title: "MCSBBS",
+        title: "我的世界服务器论坛",
         url: "https://www.mcsbbs.com",
         state: "up",
         createdAt: "2023/05/29",
         updatedAt: "2024/04/01",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。MFP我的世界服务器文件加速mcproxy.mcsbbs.com",
         reference: []
     },
     {
