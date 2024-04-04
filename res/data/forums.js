@@ -999,7 +999,7 @@ const db_forums_ex = [
         title: "StoneMCBBS",
         url: "http://feiyutang.cn",
         updatedAt: "2024/04/04",
-        note: "非大陆服务器，原名MineFriend，SC论坛。2024/03/24 改为 Minecraft 镜像下载站，现改为StoneMCBBS。",
+        note: "非大陆服务器，原名MineFriend，SC论坛，曾用名EmeraldBBS。2024/03/24 改为 Minecraft 镜像下载站，现改为StoneMCBBS。",
         reference: [
             {
                 title: "闲来无事搭建的MC论坛（？",
