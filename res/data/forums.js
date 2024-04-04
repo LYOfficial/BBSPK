@@ -595,7 +595,7 @@ const db_forums = [
         updatedAt: "2024/04/01",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，原名MineFriend，SC论坛。现已改为 Minecraft 镜像下载站。",
+        note: "非大陆服务器，原名MineFriend，SC论坛。2024/03/24 改为 Minecraft 镜像下载站，现改为StoneMCBBS，使用 WordPress 搭建。",
         reference: [
             {
                 title: "闲来无事搭建的MC论坛（？",
@@ -693,6 +693,17 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1jH4y1W7tr/"
             }
         ]
+    },
+        {
+        title: "MINEBBS",
+        url: "https://www.minebbs.cc/",
+        state: "up",
+        createdAt: "2024/02/23",
+        updatedAt: "2024/04/04",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "海外服务器，Cloudflare加速。",
+        reference: []
     },
     {
         title: "potatobbs",
@@ -1004,5 +1015,21 @@ const db_forums_ex = [
         updatedAt: "2024/03/31",
         note: "诸位冒险家们，从3月32日开始，特别公告！在■■斡旋下，我须弥谨此刻之时，宣告一大喜讯。备份渠道现已被轻启，可轻启链接：bbs.7c7.icu/laotan。愿此神奇链接，为你们带来无尽冒险与欢笑。前行吧，勇敢的旅行者们！",
         reference: []
+    },
+    {
+        title: "StoneMCBBS",
+        url: "http://feiyutang.cn",
+        updatedAt: "2024/04/04",
+        note: "非大陆服务器，原名MineFriend，SC论坛，曾用名EmeraldBBS。2024/03/24 改为 Minecraft 镜像下载站，现改为StoneMCBBS，使用 WordPress 搭建。",
+        reference: [
+            {
+                title: "闲来无事搭建的MC论坛（？",
+                url: "https://www.bilibili.com/video/BV1TZ42127wN/"
+            },
+            {
+                title: "『Emerald论坛』我们开始恢复MCBBS的资源了？",
+                url: "https://www.bilibili.com/video/BV1KH4y1s7aN/"
+            }
+        ]
     }
 ];
