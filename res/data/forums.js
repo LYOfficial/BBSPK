@@ -587,15 +587,14 @@ const db_forums = [
         ]
     },
     {
-        title: "EmeraldBBS",
+        title: "StoneMCBBS",
         url: "http://feiyutang.cn",
-        state: "close",
+        state: "up",
         createdAt: "2024/02/20",
-        closedAt: "2024/03/24",
-        updatedAt: "2024/04/01",
+        updatedAt: "2024/04/04",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，原名MineFriend，SC论坛。现已改为 Minecraft 镜像下载站。",
+        note: "非大陆服务器，原名MineFriend，SC论坛。2024/03/24 改为 Minecraft 镜像下载站，现改为StoneMCBBS。",
         reference: [
             {
                 title: "闲来无事搭建的MC论坛（？",
