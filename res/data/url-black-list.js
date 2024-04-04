@@ -13,5 +13,8 @@ const db_url_black_list = [
     'surge.sh',
     'vercel.app',
     'web1337.net',
-    'webadorsite.com'
+    'webadorsite.com',
+    'freeflarum.com',
+    'mysxl.cn',
+    'evai.pl'
 ];
