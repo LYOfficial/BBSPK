@@ -528,6 +528,10 @@ const db_forums = [
             {
                 title: "【余人劫】⚡为什么会变成这样呢？⚡",
                 url: "https://www.bilibili.com/video/BV1AA4m1P7rd/"
+            },
+            {
+                title: "MCBBS没了，找不到资源？MC老玩家们组成的论坛欢迎你！已备案不跑路~",
+                url: "https://www.bilibili.com/video/BV1iK421Y7RQ/"
             }
         ]
     },
@@ -857,6 +861,17 @@ const db_forums = [
         state: "up",
         createdAt: "2024/03/22",
         updatedAt: "2024/04/01",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
+        title: "MCBBS 3rd",
+        url: "https://mcbbs.asia",
+        state: "up",
+        createdAt: "2024/04/02",
+        updatedAt: "2024/04/04",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
