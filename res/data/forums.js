@@ -21,7 +21,7 @@ const db_forums = [
         updatedAt: "2024/04/05",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "网站处于待出售状态，暂停新用户注册，用户活动基本停止。",
+        note: "网站处于待出售状态，暂停新用户注册，用户活动基本停止。网站屏蔽了大量机房 IP，存在误伤。",
         reference: []
     },
     {
@@ -464,7 +464,7 @@ const db_forums = [
         url: "https://www.mcsbbs.com",
         state: "up",
         createdAt: "2023/05/29",
-        updatedAt: "2024/04/01",
+        updatedAt: "2024/04/05",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
