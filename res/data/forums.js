@@ -18,7 +18,7 @@ const db_forums = [
         url: "http://www.zuimc.com",
         state: "up",
         createdAt: "2013/04/18",
-        updatedAt: "2024/04/01",
+        updatedAt: "2024/04/05",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "网站处于待出售状态，暂停新用户注册，用户活动基本停止。",
@@ -460,7 +460,7 @@ const db_forums = [
         ]
     },
     {
-        title: "MCSBBS",
+        title: "我的世界服务器论坛",
         url: "https://www.mcsbbs.com",
         state: "up",
         createdAt: "2023/05/29",
