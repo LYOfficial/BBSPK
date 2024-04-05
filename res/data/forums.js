@@ -997,10 +997,10 @@ const db_forums_ex = [
         ]
     },
     {
-        title: "MCBBS复活赛",
+        title: "MCBBS帖子存档",
         url: "https://bbs-archive.github.io",
         updatedAt: "2024/03/21",
-        note: "MCBBS部分帖子的存档，持续收集中！",
+        note: "MCBBS部分帖子的存档，持续收集中！恭喜牢坛打赢复活赛！",
         reference: []
     },
     {
