@@ -16,7 +16,7 @@ const db_forums = [
     {
         title: "最MC",
         url: "http://www.zuimc.com",
-        state: "unknow",
+        state: "up",
         createdAt: "2013/04/18",
         updatedAt: "2024/04/05",
         hasICP: "yes",
@@ -467,7 +467,7 @@ const db_forums = [
         updatedAt: "2024/04/01",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。MFP我的世界服务器文件加速mcproxy.mcsbbs.com",
+        note: "非大陆服务器。",
         reference: []
     },
     {
