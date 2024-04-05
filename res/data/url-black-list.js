@@ -16,5 +16,5 @@ const db_url_black_list = [
     'webadorsite.com',
     'freeflarum.com',
     'mysxl.cn',
-    'evai.pl'
+    'workers.dev'
 ];
