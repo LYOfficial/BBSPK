@@ -1,11 +1,13 @@
 const db_url_black_list = [
     'firebaseapp.com',
+    'freeflarum.com',
     'flarum.cloud',
     'github.io',
     'gitlab.io',
     'gitee.io',
     'herokuapp.com,',
     'icoc.me',
+    'mysxl.cn',
     'netlify.app',
     'pages.dev',
     'rth5.com',
@@ -14,7 +16,5 @@ const db_url_black_list = [
     'vercel.app',
     'web1337.net',
     'webadorsite.com',
-    'freeflarum.com',
-    'mysxl.cn',
-    'workers.dev'
+    'workers.dev',
 ];
