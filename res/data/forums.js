@@ -1027,6 +1027,7 @@ const db_forums_ex = [
     {
         title: "复活牢坛",
         url: "https://bbs.7c7.icu",
+        archiveUrl: "https://web.archive.org/web/20240401165314/https://bbs.7c7.icu/",
         updatedAt: "2024/03/31",
         note: "诸位冒险家们，从3月32日开始，特别公告！在■■斡旋下，我须弥谨此刻之时，宣告一大喜讯。备份渠道现已被轻启，可轻启链接：bbs.7c7.icu/laotan。愿此神奇链接，为你们带来无尽冒险与欢笑。前行吧，勇敢的旅行者们！",
         reference: []
