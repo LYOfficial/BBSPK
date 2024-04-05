@@ -16,9 +16,9 @@ const db_forums = [
     {
         title: "最MC",
         url: "http://www.zuimc.com",
-        state: "up",
+        state: "unknow",
         createdAt: "2013/04/18",
-        updatedAt: "2024/04/01",
+        updatedAt: "2024/04/05",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "网站处于待出售状态，暂停新用户注册，用户活动基本停止。",
