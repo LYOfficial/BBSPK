@@ -577,12 +577,12 @@ const db_forums = [
     {
         title: "CMCBBS",
         url: "https://www.cmcbbs.cn",
-        state: "up",
+        state: "close",
         createdAt: "2024/02/20",
-        updatedAt: "2024/04/01",
+        updatedAt: "2024/04/05",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "因摄政被强制要求关站，已被墙。",
         reference: [
             {
                 title: "@你的小蕉呀 的动态 - 哔哩哔哩",
