@@ -877,6 +877,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "MCBBS 4th",
+        url: "https://mcbbs.lol",
+        state: "up",
+        createdAt: "2024/04/06",
+        updatedAt: "2024/04/06",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
