@@ -16,7 +16,7 @@ const db_forums = [
     {
         title: "最MC",
         url: "http://www.zuimc.com",
-        state: "up",
+        state: "failure",
         createdAt: "2013/04/18",
         updatedAt: "2024/04/05",
         hasICP: "yes",
