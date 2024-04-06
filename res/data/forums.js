@@ -877,6 +877,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "MCBBS 4th",
+        url: "https://mcbbs.lol",
+        state: "up",
+        createdAt: "2024/04/06",
+        updatedAt: "2024/04/06",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
@@ -1048,5 +1059,12 @@ const db_forums_ex = [
                 url: "https://www.bilibili.com/video/BV1KH4y1s7aN/"
             }
         ]
+    },
+    {
+        title: "MCBBS 114514th",
+        url: "https://sheep-realms.github.io/MCBBS-114514TH/",
+        updatedAt: "2024/03/31",
+        note: "第 114514 个使用 MCBBS 名称的论坛。",
+        reference: []
     }
 ];
