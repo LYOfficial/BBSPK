@@ -896,7 +896,18 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
-    }
+    },
+    {
+        title: "MineMC我的世界中文资源论坛",
+        url: "https://mc422.zyz",
+        state: "up",
+        createdAt: "2023/10/19",
+        updatedAt: "2024/04/05",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+}
 ];
 
 
