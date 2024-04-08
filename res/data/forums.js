@@ -1089,5 +1089,13 @@ const db_forums_ex = [
         updatedAt: "2024/04/06",
         note: "第 114514 个使用 MCBBS 名称的论坛。",
         reference: []
+    },
+    {
+        title: "点击复活 MCBBS",
+        url: "https://mcbbs.click/",
+        archiveUrl: "https://web.archive.org/web/20240408131452/https://mcbbs.click/",
+        updatedAt: "2024/04/08",
+        note: "点击尝试复活 MCBBS吧！",
+        reference: []
     }
 ];
