@@ -183,17 +183,6 @@ const db_forums = [
         reference: []
     },
     {
-        title: "我的世界铁路中文社区",
-        url: "https://www.mtrbbs.com.cn",
-        state: "up",
-        createdAt: "2022/02/26",
-        updatedAt: "2024/04/06",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: [] 
-    },
-    {
         title: "我的世界UTC论坛",
         url: "https://bbs.mcutc.cn",
         state: "up",
@@ -250,17 +239,6 @@ const db_forums = [
         ]
     },
     {
-        title: "我的世界铁路中文论坛",
-        url: "https://www.mtrbbs.top",
-        state: "up",
-        createdAt: "2022/05/15",
-        updatedAt: "2024/04/06",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: []
-    },
-    {
         title: "MineTalk",
         url: "https://www.minebox.store",
         state: "up",
@@ -303,17 +281,6 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1J1421U7z2/"
             }
         ]
-    },
-    {
-        title: "氧气社区",
-        url: "https://bbs.oxygenstudio.cn",
-        state: "up",
-        createdAt: "2022/07/25",
-        updatedAt: "2024/04/06",
-        hasICP: "yes",
-        hasNetSec: "no",
-        note: "",
-        reference: [] 
     },
     {
         title: "像素世界论坛",
@@ -1088,6 +1055,14 @@ const db_forums_ex = [
         url: "https://sheep-realms.github.io/MCBBS-114514TH/",
         updatedAt: "2024/04/06",
         note: "第 114514 个使用 MCBBS 名称的论坛。",
+        reference: []
+    },
+    {
+        title: "点击复活 MCBBS",
+        url: "https://mcbbs.click/",
+        archiveUrl: "https://web.archive.org/web/20240408131452/https://mcbbs.click/",
+        updatedAt: "2024/04/08",
+        note: "点击尝试复活 MCBBS吧！",
         reference: []
     }
 ];
