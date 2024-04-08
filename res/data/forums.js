@@ -640,6 +640,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "MineMC我的世界中文资源论坛",
+        url: "https://mc422.xyz",
+        state: "up",
+        createdAt: "2024/02/20",
+        updatedAt: "2024/04/08",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "大家的世界",
         url: "https://bbs.mclqj.site",
         state: "up",
@@ -654,6 +665,17 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1uA4m137rL/"
             }
         ]
+    },
+    {
+        title: "MINEBBS",
+        url: "https://www.minebbs.cc/",
+        state: "up",
+        createdAt: "2024/02/23",
+        updatedAt: "2024/04/06",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     },
     {
         title: "黑曜石论坛",
@@ -702,17 +724,6 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1WK421h7da/"
             }
         ]
-    },
-        {
-        title: "MINEBBS",
-        url: "https://www.minebbs.cc/",
-        state: "up",
-        createdAt: "2024/02/23",
-        updatedAt: "2024/04/06",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: []
     },
     {
         title: "potatobbs",
