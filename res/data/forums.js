@@ -427,17 +427,6 @@ const db_forums = [
         ]
     },
     {
-        title: "我的世界服务器论坛",
-        url: "https://www.mcsbbs.com",
-        state: "up",
-        createdAt: "2023/05/29",
-        updatedAt: "2024/04/06",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: []
-    },
-    {
         title: "末影论坛",
         url: "https://enderbbs.wavemoe.com",
         state: "up",
