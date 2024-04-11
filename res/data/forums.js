@@ -745,14 +745,14 @@ const db_forums = [
         ]
     },
     {
-        title: "米饭MCBBS",
+        title: "MCBBS TOP",
         url: "https://www.mcbbs.top",
         state: "up",
         createdAt: "2024/03/04",
         updatedAt: "2024/04/06",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "我的世界资源站。",
+        note: "我的世界中文资源站",
         reference: []
     },
     {
@@ -867,7 +867,18 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
-    }
+    },
+    {
+        title: "MCBBS APP",
+        url: "https://app.mcbbs.top",
+        state: "up",
+        createdAt: "2024/04/11",
+        updatedAt: "2024/04/11",
+        hasICP: "yes",
+        hasNetSec: "no",
+        note: "基于开源社区分享我的世界相关资源。",
+        reference: []
+    },
 ];
 
 
