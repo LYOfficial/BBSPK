@@ -87,9 +87,9 @@ const db_forums = [
     {
         title: "小黑资源论坛",
         url: "https://www.blmcpia.com",
-        state: "failure",
+        state: "up",
         createdAt: "2019/10/04",
-        updatedAt: "2024/04/06",
+        updatedAt: "2024/04/11",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器，主营基岩版。",
@@ -435,7 +435,12 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
-        reference: []
+        reference: [
+            {
+                title: "mc末影论坛正式上线！试试新的交互方法吧",
+                url: "https://www.bilibili.com/video/BV1nA4m1F7tN/"
+            }
+        ]
     },
     {
         title: "ikunmc",
@@ -556,7 +561,7 @@ const db_forums = [
         updatedAt: "2024/04/06",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，原名MineFriend，SC论坛。2024/03/24 改为 Minecraft 镜像下载站，现改为StoneMCBBS，使用 WordPress 搭建。",
+        note: "非大陆服务器，原名MineFriend，曾用名SC论坛。最初为论坛，2024/03/24 改为 Minecraft 镜像下载站，现改回论坛（见表演赛），使用 WordPress 搭建。",
         reference: [
             {
                 title: "闲来无事搭建的MC论坛（？",
@@ -1024,10 +1029,10 @@ const db_forums_ex = [
         reference: []
     },
     {
-        title: "StoneMCBBS",
+        title: "MineFriend",
         url: "http://feiyutang.cn",
-        updatedAt: "2024/04/04",
-        note: "非大陆服务器，原名MineFriend，SC论坛，曾用名EmeraldBBS。2024/03/24 改为 Minecraft 镜像下载站，现改为StoneMCBBS，使用 WordPress 搭建。",
+        updatedAt: "2024/04/11",
+        note: "非大陆服务器，原名MineFriend，曾用名SC论坛、EmeraldBBS、StoneMCBBS。经多次修改，改回原名。最初为论坛，2024/03/24 改为 Minecraft 镜像下载站，现改回论坛，使用 WordPress 搭建。",
         reference: [
             {
                 title: "闲来无事搭建的MC论坛（？",
