@@ -878,6 +878,17 @@ const db_forums = [
         note: "基于开源社区分享我的世界相关资源。",
         reference: []
     },
+    {
+        title: "我的世界CyanBukkit资源分享站",
+        url: "https://www.cyanbukkit.net",
+        state: "up",
+        createdAt: "2019/10/24",
+        updatedAt: "2024/04/12",
+        hasICP: "yes",
+        hasNetSec: "yes",
+        note: "我的世界青桶插件资源分享 | 瑞鸿网络科技工作室官网 | 瑞鸿CyanBukkit总主站",
+        reference: []
+    }
 ];
 
 
