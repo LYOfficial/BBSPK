@@ -1051,5 +1051,12 @@ const db_forums_ex = [
         updatedAt: "2024/04/08",
         note: "点击尝试复活 MCBBS吧！",
         reference: []
+    },
+    {
+        title: "MCBBS 神教",
+        url: "https://mcbbs.xin/",
+        updatedAt: "2024/04/12",
+        note: "MCBBS 纪念站",
+        reference: []
     }
 ];
