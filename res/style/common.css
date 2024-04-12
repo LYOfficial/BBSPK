@@ -785,6 +785,7 @@ footer>.page-content {
     display: block;
     outline: unset;
     border: unset;
+    border-radius: var(--ant-border-radius);
     background-color: var(--ant-color-success);
     color: #FFFFFF;
     font-size: 20px;
