@@ -751,7 +751,7 @@ const db_forums = [
         updatedAt: "2024/04/11",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "我的世界中文资源站",
+        note: "我的世界中文资源站。另有子站点：app.mcbbs.top",
         reference: []
     },
     {
@@ -865,17 +865,6 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
-        reference: []
-    },
-    {
-        title: "MCBBS APP",
-        url: "https://app.mcbbs.top",
-        state: "up",
-        createdAt: "2024/04/11",
-        updatedAt: "2024/04/11",
-        hasICP: "yes",
-        hasNetSec: "no",
-        note: "基于开源社区分享我的世界相关资源。",
         reference: []
     },
     {
