@@ -888,6 +888,22 @@ const db_forums = [
         hasNetSec: "yes",
         note: "我的世界青桶插件资源分享 | 瑞鸿网络科技工作室官网 | 瑞鸿CyanBukkit总主站",
         reference: []
+    },
+        {
+        title: "基岩我的世界中文论坛",
+        url: "http://bedrockmcbbs.web1337.net",
+        updatedAt: "2024/03/21",
+        note: "使用免费主机。",
+        reference: [
+            {
+                title: "自搭的MC论坛:BedrockMCBBS",
+                url: "https://www.bilibili.com/video/BV1uZ42117iK/"
+            },
+            {
+                title: "【猫meme】当你搭建了一个MC论坛时。。。",
+                url: "https://www.bilibili.com/video/BV1ut421H7F7/"
+            }
+        ]
     }
 ];
 
