@@ -554,9 +554,9 @@ const db_forums = [
     {
         title: "MineFriend",
         url: "http://feiyutang.cn",
-        state: "failure",
+        state: "up",
         createdAt: "2024/02/20",
-        updatedAt: "2024/04/11",
+        updatedAt: "2024/04/13",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器，原名MineFriend，曾用名SC论坛、EmeraldBBS、StoneMCBBS。最初为论坛，2024/03/24 改为 Minecraft 镜像下载站，后改为使用 WordPress 搭建论坛，现改回使用 XenForo 搭建论坛，名称重新改为 MineFriend。",
@@ -628,9 +628,9 @@ const db_forums = [
     {
         title: "MINEBBS",
         url: "https://www.minebbs.cc/",
-        state: "failure",
+        state: "up",
         createdAt: "2024/02/23",
-        updatedAt: "2024/04/11",
+        updatedAt: "2024/04/13",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -751,7 +751,7 @@ const db_forums = [
         updatedAt: "2024/04/11",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "我的世界中文资源站",
+        note: "我的世界中文资源站。另有子站点：app.mcbbs.top",
         reference: []
     },
     {
@@ -865,28 +865,6 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
-        reference: []
-    },
-    {
-        title: "MCBBS APP",
-        url: "https://app.mcbbs.top",
-        state: "up",
-        createdAt: "2024/04/11",
-        updatedAt: "2024/04/11",
-        hasICP: "yes",
-        hasNetSec: "no",
-        note: "基于开源社区分享我的世界相关资源。",
-        reference: []
-    },
-    {
-        title: "我的世界CyanBukkit资源分享站",
-        url: "https://www.cyanbukkit.net",
-        state: "up",
-        createdAt: "2019/10/24",
-        updatedAt: "2024/04/12",
-        hasICP: "yes",
-        hasNetSec: "yes",
-        note: "我的世界青桶插件资源分享 | 瑞鸿网络科技工作室官网 | 瑞鸿CyanBukkit总主站",
         reference: []
     }
 ];
