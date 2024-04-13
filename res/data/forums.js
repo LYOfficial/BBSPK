@@ -554,9 +554,9 @@ const db_forums = [
     {
         title: "MineFriend",
         url: "http://feiyutang.cn",
-        state: "failure",
+        state: "up",
         createdAt: "2024/02/20",
-        updatedAt: "2024/04/11",
+        updatedAt: "2024/04/13",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器，原名MineFriend，曾用名SC论坛、EmeraldBBS、StoneMCBBS。最初为论坛，2024/03/24 改为 Minecraft 镜像下载站，后改为使用 WordPress 搭建论坛，现改回使用 XenForo 搭建论坛，名称重新改为 MineFriend。",
@@ -628,9 +628,9 @@ const db_forums = [
     {
         title: "MINEBBS",
         url: "https://www.minebbs.cc/",
-        state: "failure",
+        state: "up",
         createdAt: "2024/02/23",
-        updatedAt: "2024/04/11",
+        updatedAt: "2024/04/13",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
