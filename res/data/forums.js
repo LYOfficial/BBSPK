@@ -702,7 +702,7 @@ const db_forums = [
     },
     {
         title: "青草原MC社区",
-        url: "https://qcymc.top",
+        url: "https://qcymc.net",
         state: "down",
         createdAt: "2024/02/27",
         updatedAt: "2024/04/11",
