@@ -744,14 +744,14 @@ const db_forums = [
         ]
     },
     {
-        title: "MCBBS TOP",
+        title: "MC中文资源站",
         url: "https://www.mcbbs.top",
         state: "up",
         createdAt: "2024/03/04",
         updatedAt: "2024/04/11",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "我的世界中文资源站。另有子站点：app.mcbbs.top",
+        note: "我的世界中文资源站。另有子站点 MC开源共建社区：https://doc.mcbbs.top",
         reference: []
     },
     {
