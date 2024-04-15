@@ -702,10 +702,10 @@ const db_forums = [
     },
     {
         title: "青草原MC社区",
-        url: "https://qcymc.top",
-        state: "down",
+        url: "https://qcymc.net",
+        state: "up",
         createdAt: "2024/02/27",
-        updatedAt: "2024/04/11",
+        updatedAt: "2024/04/15",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
