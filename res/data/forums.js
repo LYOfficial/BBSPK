@@ -848,9 +848,9 @@ const db_forums = [
     {
         title: "MCBBS 3rd",
         url: "https://mcbbs.asia",
-        state: "up",
+        state: "failure",
         createdAt: "2024/04/02",
-        updatedAt: "2024/04/11",
+        updatedAt: "2024/04/16",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
