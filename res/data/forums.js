@@ -1034,11 +1034,11 @@ const db_forums_ex = [
         reference: []
     },
     {
-        title: "点击复活 MCBBS",
+        title: "⚡点击复活不了 MCBBS⚡",
         url: "https://mcbbs.click/",
         archiveUrl: "https://web.archive.org/web/20240408131452/https://mcbbs.click/",
         updatedAt: "2024/04/08",
-        note: "点击尝试复活 MCBBS吧！",
+        note: "点击尝试复活 MCBBS吧！放心，你复活不了哒~",
         reference: []
     },
     {
