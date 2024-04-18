@@ -467,12 +467,12 @@ const db_forums = [
     {
         title: "Hi世界Minecraft论坛",
         url: "https://www.himcbbs.net",
-        state: "up",
+        state: "failure",
         createdAt: "2024/01/28",
-        updatedAt: "2024/04/11",
+        updatedAt: "2024/04/18",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "主营Java版，含基岩版。",
+        note: "目前因摄政部分地区被墙，正在关站维护。主营Java版，含基岩版。",
         reference: [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
