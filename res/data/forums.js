@@ -574,12 +574,12 @@ const db_forums = [
     {
         title: "PRT幻界轨迹社区",
         url: "https://mcprt.cn",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/20",
-        updatedAt: "2024/04/11",
+        updatedAt: "2024/04/20",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，主营光影材质包。",
+        note: "非大陆服务器，主营光影材质包，已无法访问。",
         reference: [
             {
                 title: "【minecraft PRT社区】快来白嫖众多光影材质包，patrix,乐高材质包，PTGI光影，全清晰度免费下载！！！",
@@ -601,12 +601,13 @@ const db_forums = [
     {
         title: "MineMC我的世界中文资源论坛",
         url: "https://mc422.xyz",
-        state: "up",
+        state: "close",
         createdAt: "2024/02/20",
-        updatedAt: "2024/04/11",
+        closedAt: "2024/04/20",
+        updatedAt: "2024/04/20",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器，已变为服务器官网。",
         reference: []
     },
     {
@@ -821,12 +822,12 @@ const db_forums = [
     {
         title: "MC星空社",
         url: "https://www.ufacai.top",
-        state: "up",
+        state: "down",
         createdAt: "2024/03/18",
-        updatedAt: "2024/04/11",
+        updatedAt: "2024/04/20",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器，已无法访问。",
         reference: [
             {
                 title: "我的世界交流社区网站！！mc社区",
