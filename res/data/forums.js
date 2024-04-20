@@ -579,7 +579,7 @@ const db_forums = [
         updatedAt: "2024/04/20",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，主营光影材质包。",
+        note: "非大陆服务器，主营光影材质包，已无法访问。",
         reference: [
             {
                 title: "【minecraft PRT社区】快来白嫖众多光影材质包，patrix,乐高材质包，PTGI光影，全清晰度免费下载！！！",
@@ -835,7 +835,7 @@ const db_forums = [
         updatedAt: "2024/04/20",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器，已无法访问。",
         reference: [
             {
                 title: "我的世界交流社区网站！！mc社区",
