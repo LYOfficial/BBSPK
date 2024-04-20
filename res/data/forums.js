@@ -239,6 +239,17 @@ const db_forums = [
         ]
     },
     {
+        title: "MCraft BBS",
+        url: "https://mcraftbbs.cn/",
+        state: "failure",
+        createdAt: "2022/04/24",
+        updatedAt: "2024/04/20",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。SSL证书已到期。",
+        reference: []
+    },
+    {
         title: "MineTalk",
         url: "https://www.minebox.store",
         state: "up",
