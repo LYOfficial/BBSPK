@@ -246,7 +246,7 @@ const db_forums = [
         updatedAt: "2024/04/20",
         hasICP: "no",
         hasNetSec: "no",
-        note: "SSL证书已到期",
+        note: "非大陆服务器。SSL证书已到期。",
         reference: []
     },
     {
