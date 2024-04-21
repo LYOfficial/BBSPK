@@ -476,14 +476,14 @@ const db_forums = [
         reference: []
     },
     {
-        title: "Hi世界Minecraft论坛",
-        url: "https://www.himcbbs.net",
+        title: "HiMCBBS",
+        url: "https://www.himcbbs.com",
         state: "failure",
         createdAt: "2024/01/28",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/04/21",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "因摄政被停止解析，正在申诉中，目前关站维护。主营Java版，含基岩版。",
+        note: "因摄政.net域名作废，正在重新备案，目前关站维护。主营Java版，含基岩版。",
         reference: [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
@@ -496,10 +496,6 @@ const db_forums = [
             {
                 title: "HiMCBBS大更新 快来加入我们~",
                 url: "https://www.bilibili.com/video/BV1VA4m1P7Dy/"
-            },
-            {
-                title: "【余人劫】⚡为什么会变成这样呢？⚡",
-                url: "https://www.bilibili.com/video/BV1AA4m1P7rd/"
             },
             {
                 title: "MCBBS没了，找不到资源？MC老玩家们组成的论坛欢迎你！已备案不跑路~",
