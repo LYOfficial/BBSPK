@@ -737,10 +737,10 @@ const db_forums = [
         url: "https://www.minenets.cn",
         state: "up",
         createdAt: "2024/03/02",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/04/22",
         hasICP: "yes",
-        hasNetSec: "in_progress",
-        note: "非大陆服务器。临时域名www.minenets.net",
+        hasNetSec: "yes",
+        note: "大陆服务器",
         reference: [
             {
                 title: "“不模仿 MCBBS，而是重新定义 MCBBS”?",
@@ -753,10 +753,6 @@ const db_forums = [
             {
                 title: "什么 BYD 论坛,❤️❤️爱了爱了",
                 url: "https://www.bilibili.com/video/BV1TF4m1w7cR/"
-            },
-            {
-                title: "过个正经的愚人节 - MineNets",
-                url: "https://www.bilibili.com/video/BV1TD421j7Ka/"
             },
             {
                 title: "我的世界论坛 - MineNets",
