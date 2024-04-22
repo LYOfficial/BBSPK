@@ -480,8 +480,8 @@ const db_forums = [
         url: "https://www.himcbbs.com",
         state: "failure",
         createdAt: "2024/01/28",
-        updatedAt: "2024/04/21",
-        hasICP: "yes",
+        updatedAt: "2024/04/22",
+        hasICP: "in_progress",
         hasNetSec: "no",
         note: "因摄政.net域名作废，正在重新备案，目前关站维护。主营Java版，含基岩版。",
         reference: [
@@ -860,10 +860,10 @@ const db_forums = [
         url: "https://www.betamc.net",
         state: "failure",
         createdAt: "2024/03/22",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/04/22",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器，因摄政国内被墙。",
         reference: []
     },
     {
