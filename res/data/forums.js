@@ -886,10 +886,10 @@ const db_forums = [
     },
     {
         title: "minecraft服务器交流论坛",
-        url: "mcserver.online",
+        url: "https://mcserver.online",
         state: "up",
-        createdAt: "2024/4/22",
-        updatedAt: "2024/4/22",
+        createdAt: "2024/04/22",
+        updatedAt: "2024/04/22",
         hasICP: "no",
         hasNetSec: "no",
         note: "非中国大陆服务器。",
