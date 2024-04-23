@@ -883,7 +883,19 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "minecraft服务器交流论坛",
+        url: "mcserver.online",
+        state: "up",
+        createdAt: "2024/4/22",
+        updatedAt: "2024/4/22",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非中国大陆服务器。",
+        reference: []
     }
+        
 ];
 
 
