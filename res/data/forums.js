@@ -1064,5 +1064,11 @@ const db_forums_ex = [
         updatedAt: "2024/04/12",
         note: "MCBBS 纪念站",
         reference: []
-    }
+    },
+    {
+        title: "MCBBS 还在寄吗？",
+        url: "https://uptime.jasonhk.space/status/mcbbs",
+        updatedAt: "2024/04/25",
+        note: "MCBBS 还在寄吗？还在寄！（自架了个 Uptime Kuma 站，突然想到可以用来监视泥潭是否复活了（并不会））",
+        reference: []
 ];
