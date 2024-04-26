@@ -738,7 +738,7 @@ const db_forums = [
     },
     {
         title: "MineNets",
-        url: "https://www.minenets.cn",
+        url: "https://minenets.cn",
         state: "up",
         createdAt: "2024/03/02",
         updatedAt: "2024/04/22",
@@ -777,7 +777,7 @@ const db_forums = [
     },
     {
         title: "REMCBBS我的世界星幻论坛",
-        url: "https://www.remcbbs.com",
+        url: "https://remcbbs.com",
         state: "up",
         createdAt: "2024/03/04",
         updatedAt: "2024/04/20",
@@ -883,7 +883,7 @@ const db_forums = [
     },
     {
         title: "MCBBS 4th",
-        url: "https://mcbbs.lol",
+        url: "https://www.mcbbs.lol",
         state: "up",
         createdAt: "2024/04/06",
         updatedAt: "2024/04/20",
