@@ -561,7 +561,7 @@ const db_forums = [
     {
         title: "MineFriend",
         url: "http://feiyutang.cn",
-        state: "unknow",
+        state: "failure",
         createdAt: "2024/02/20",
         updatedAt: "2024/04/26",
         hasICP: "no",
