@@ -478,12 +478,12 @@ const db_forums = [
     {
         title: "HiMCBBS",
         url: "https://www.himcbbs.com",
-        state: "failure",
+        state: "up",
         createdAt: "2024/01/28",
-        updatedAt: "2024/04/22",
-        hasICP: "in_progress",
+        updatedAt: "2024/04/26",
+        hasICP: "yes",
         hasNetSec: "no",
-        note: "因摄政.net域名作废，正在重新备案，目前关站维护。主营Java版，含基岩版。",
+        note: "因摄政.net域名作废。主营Java版，含基岩版。",
         reference: [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
@@ -506,15 +506,15 @@ const db_forums = [
     {
         title: "方块社区",
         url: "https://mineforum.cn",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/10",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/04/26",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: [
             {
-                title: "方块社区 —— 一个 Minecraft 交流平台",
+                title: "方块社区 —— 一个 Minecraft 交流平台。状态码500无法访问。",
                 url: "https://www.bilibili.com/video/BV1KK421x7FQ/"
             }
         ]
@@ -522,12 +522,12 @@ const db_forums = [
     {
         title: "MineSpeak论坛",
         url: "https://bbs.minesms.lol",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/11",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/04/26",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。无法访问，出现cloudflare连接超时提醒。",
         reference: []
     },
     {
@@ -561,12 +561,12 @@ const db_forums = [
     {
         title: "MineFriend",
         url: "http://feiyutang.cn",
-        state: "up",
+        state: "failure",
         createdAt: "2024/02/20",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/04/26",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，原名MineFriend，曾用名SC论坛、EmeraldBBS、StoneMCBBS。最初为论坛，2024/03/24 改为 Minecraft 镜像下载站，后改为使用 WordPress 搭建论坛，现改回使用 XenForo 搭建论坛，名称重新改为 MineFriend。",
+        note: "非大陆服务器，原名MineFriend，曾用名SC论坛、EmeraldBBS、StoneMCBBS。最初为论坛，2024/03/24 改为 Minecraft 镜像下载站，后改为使用 WordPress 搭建论坛，现改回使用 XenForo 搭建论坛，名称重新改为 MineFriend。备案维护中。",
         reference: [
             {
                 title: "闲来无事搭建的MC论坛（？",
