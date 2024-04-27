@@ -583,7 +583,7 @@ const db_forums = [
         ]
     },
     {
-        title: "MCNEO光影社区",
+        title: "neo社区",
         url: "https://mcneo.cn",
         state: "up",
         createdAt: "2024/02/20",
