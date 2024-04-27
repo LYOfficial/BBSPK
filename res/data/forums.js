@@ -477,13 +477,13 @@ const db_forums = [
     },
     {
         title: "HiMCBBS",
-        url: "https://www.himcbbs.com",
+        url: "https://www.himcbbs.cn",
         state: "up",
         createdAt: "2024/01/28",
-        updatedAt: "2024/04/26",
+        updatedAt: "2024/04/27",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "因摄政.net域名作废。主营Java版，含基岩版。",
+        note: "主营Java版，含基岩版。",
         reference: [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
@@ -500,6 +500,10 @@ const db_forums = [
             {
                 title: "MCBBS没了，找不到资源？MC老玩家们组成的论坛欢迎你！已备案不跑路~",
                 url: "https://www.bilibili.com/video/BV1iK421Y7RQ/"
+            },
+            {
+                title: "HiMCBBS打赢复活赛！重新开站！",
+                url: "https://www.bilibili.com/video/BV12t421A7NK/"
             }
         ]
     },
