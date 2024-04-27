@@ -887,6 +887,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "土豆社区",
+        url: "https://bbs2.potatokj.top",
+        state: "failure",
+        createdAt: "2024/03/24",
+        updatedAt: "2024/04/27",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
@@ -1016,27 +1027,6 @@ const db_forums_ex = [
         url: "https://bbs-archive.github.io",
         updatedAt: "2024/03/21",
         note: "MCBBS部分帖子的存档，持续收集中！恭喜牢坛打赢复活赛！",
-        reference: []
-    },
-    {
-        title: "Hiluobo萝卜论坛&方块宇宙",
-        url: "https://hiluobo.flarum.cloud",
-        updatedAt: "2024/03/24",
-        note: "使用FreeFlarum。",
-        reference: []
-    },
-    {
-        title: "土豆社区",
-        url: "https://bbs2.potatokj.top",
-        updatedAt: "2024/03/24",
-        note: "使用FreeFlarum。",
-        reference: []
-    },
-    {
-        title: "BOF-Minecraft中文交流论坛",
-        url: "https://laojiang.freeflarum.com",
-        updatedAt: "2024/03/26",
-        note: "使用FreeFlarum。",
         reference: []
     },
     {
