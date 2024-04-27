@@ -477,13 +477,13 @@ const db_forums = [
     },
     {
         title: "HiMCBBS",
-        url: "https://www.himcbbs.com",
+        url: "https://www.himcbbs.cn",
         state: "up",
         createdAt: "2024/01/28",
-        updatedAt: "2024/04/26",
+        updatedAt: "2024/04/27",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "因摄政.net域名作废。主营Java版，含基岩版。",
+        note: "主营Java版，含基岩版。",
         reference: [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
@@ -871,6 +871,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "土豆社区",
+        url: "https://bbs2.potatokj.top",
+        state: "failure",
+        createdAt: "2024/03/24",
+        updatedAt: "2024/04/27",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "MCBBS 3rd",
         url: "https://mcbbs.asia",
         state: "up",
@@ -1020,27 +1031,6 @@ const db_forums_ex = [
         url: "https://bbs-archive.github.io",
         updatedAt: "2024/03/21",
         note: "MCBBS部分帖子的存档，持续收集中！恭喜牢坛打赢复活赛！",
-        reference: []
-    },
-    {
-        title: "Hiluobo萝卜论坛&方块宇宙",
-        url: "https://hiluobo.flarum.cloud",
-        updatedAt: "2024/03/24",
-        note: "使用FreeFlarum。",
-        reference: []
-    },
-    {
-        title: "土豆社区",
-        url: "https://bbs2.potatokj.top",
-        updatedAt: "2024/03/24",
-        note: "使用FreeFlarum。",
-        reference: []
-    },
-    {
-        title: "BOF-Minecraft中文交流论坛",
-        url: "https://laojiang.freeflarum.com",
-        updatedAt: "2024/03/26",
-        note: "使用FreeFlarum。",
         reference: []
     },
     {
