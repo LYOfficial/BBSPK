@@ -867,6 +867,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "土豆社区",
+        url: "https://bbs2.potatokj.top",
+        state: "failure",
+        createdAt: "2024/03/24",
+        updatedAt: "2024/04/27",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "MCBBS 3rd",
         url: "https://mcbbs.asia",
         state: "up",
@@ -883,17 +894,6 @@ const db_forums = [
         state: "up",
         createdAt: "2024/04/06",
         updatedAt: "2024/04/20",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: []
-    },
-    {
-        title: "土豆社区",
-        url: "https://bbs2.potatokj.top",
-        state: "failure",
-        createdAt: "2024/03/24",
-        updatedAt: "2024/04/27",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
