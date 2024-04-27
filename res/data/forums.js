@@ -761,6 +761,10 @@ const db_forums = [
             {
                 title: "我的世界论坛 - MineNets",
                 url: "https://www.bilibili.com/video/BV12z421o7d1/"
+            },
+            {
+                title: "我的世界论坛",
+                url: "https://www.bilibili.com/video/BV11F4m1w7CN/"
             }
         ]
     },
@@ -808,6 +812,10 @@ const db_forums = [
             {
                 title: "【REMCBBS】一个独属于MC玩家的社区",
                 url: "https://www.bilibili.com/video/BV1mz42167sj/"
+            },
+            {
+                title: "【REmcbbs】独属于MC玩家的论坛社区",
+                url: "https://www.bilibili.com/video/BV1BH4y1A7qw/"
             }
         ]
     },
