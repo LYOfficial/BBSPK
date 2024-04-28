@@ -1077,5 +1077,12 @@ const db_forums_ex = [
         updatedAt: "2024/04/25",
         note: "MCBBS 还在寄吗？还在寄！（Uptime Kuma 自动监测泥潭上线状态）",
         reference: []
+    },
+    {
+        title: "MCBBS 浴火重生计划",
+        url: "https://mcbbs-reborn.aismc.bid/",
+        updatedAt: "2024/04/28",
+        note: "你说得对,但是MCBBS浴火重生计划是你需要找回失散的“MCBBS”帮MCBBS打赢复活赛的计划。(Vue.js+canvas实现的页面小游戏)",
+        reference: []
     }
 ];
