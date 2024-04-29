@@ -1047,5 +1047,12 @@ const db_forums_ex = [
         updatedAt: "2024/04/12",
         note: "MCBBS 纪念站",
         reference: []
+    },
+    {
+        title: "BBSPK实时全部论坛状态在线监控",
+        url: "https://pk.mcbbs.top/status/bbspk",
+        updatedAt: "2024/04/29",
+        note: "BBSPK实时全部论坛状态在线监控",
+        reference: []
     }
 ];
