@@ -738,10 +738,10 @@ const db_forums = [
     },
     {
         title: "MineNets",
-        url: "https://minenets.cn",
+        url: "https://www.minenets.cn",
         state: "up",
         createdAt: "2024/03/02",
-        updatedAt: "2024/04/22",
+        updatedAt: "2024/04/30",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
