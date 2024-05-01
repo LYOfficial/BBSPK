@@ -910,6 +910,26 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "M&A互助论坛",
+        url: "https://bbs.mscaome.top",
+        state: "up",
+        createdAt: "2024/01/16",
+        updatedAt: "2024/05/01",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: [
+            {
+                title: "MA-CAT服务器联盟",
+                url: "https://mc.mscaome.top/"
+            },
+            {
+                title: "Minecraft服务器集体宣传组织（MSCPO）成员服",
+                url: "http://mscpo.netlify.app/"
+            }
+        ]
     }
 ];
 
