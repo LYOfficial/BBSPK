@@ -880,12 +880,12 @@ const db_forums = [
     },
     {
         title: "史莱姆社区",
-        url: "https://www.slmsns.com/author/1",
+        url: "https://www.slmsns.com/",
         state: "up",
         createdAt: "2024/03/23",
-        updatedAt: "2024/05/01",
-        hasICP: "no",
-        hasNetSec: "no",
+        updatedAt: "2024/05/02",
+        hasICP: "yes",
+        hasNetSec: "yes",
         note: "大陆CDN。",
         reference: []
     },
