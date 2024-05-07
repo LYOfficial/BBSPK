@@ -40,10 +40,10 @@ const db_forums = [
         url: "https://minebbs.com",
         state: "up",
         createdAt: "2018/03/16",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/05/07",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "综合性MC论坛，以基岩版服务端资源为主要特色，于今年二月初重启Java版。",
+        note: "综合性MC论坛，以基岩版服务端资源为主要特色，于今年二月初重启Java版，目前Java版服务端资源发展较为迅速。",
         reference: [
             {
                 title: "[MineBBS]何为一个成熟的基岩版社区？",
@@ -467,12 +467,12 @@ const db_forums = [
     {
         title: "SimpBBS",
         url: "https://www.simpbbs.com",
-        state: "up",
+        state: "down",
         createdAt: "2023/10/28",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/05/07",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。502无法访问。",
         reference: []
     },
     {
@@ -518,7 +518,7 @@ const db_forums = [
         note: "非大陆服务器。",
         reference: [
             {
-                title: "方块社区 —— 一个 Minecraft 交流平台。状态码500无法访问。",
+                title: "方块社区 —— 一个 Minecraft 交流平台。",
                 url: "https://www.bilibili.com/video/BV1KK421x7FQ/"
             }
         ]
@@ -565,12 +565,12 @@ const db_forums = [
     {
         title: "MineFriend",
         url: "http://feiyutang.cn",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/20",
-        updatedAt: "2024/04/27",
+        updatedAt: "2024/05/07",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。原名MineFriend，曾用名SC论坛、EmeraldBBS、StoneMCBBS。最初为论坛，2024/03/24 改为 Minecraft 镜像下载站，后改为使用 WordPress 搭建论坛，现改回使用 XenForo 搭建论坛，名称重新改为 MineFriend。",
+        note: "非大陆服务器。原名MineFriend，曾用名SC论坛、EmeraldBBS、StoneMCBBS。最初为论坛，2024/03/24 改为 Minecraft 镜像下载站，后改为使用 WordPress 搭建论坛，现改回使用 XenForo 搭建论坛，名称重新改为 MineFriend。无法访问。",
         reference: [
             {
                 title: "闲来无事搭建的MC论坛（？",
@@ -645,12 +645,12 @@ const db_forums = [
     {
         title: "MINEBBS",
         url: "https://www.minebbs.cc",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/23",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/05/07",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。无法访问。",
         reference: []
     },
     {
@@ -892,12 +892,12 @@ const db_forums = [
     {
         title: "土豆社区",
         url: "https://bbs2.potatokj.top",
-        state: "failure",
+        state: "up",
         createdAt: "2024/03/24",
-        updatedAt: "2024/04/27",
+        updatedAt: "2024/05/07",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。大部分地区无法访问。",
         reference: []
     },
     {
