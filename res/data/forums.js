@@ -298,10 +298,10 @@ const db_forums = [
         url: "https://www.pixelbbs.cn",
         state: "up",
         createdAt: "2022/08/12",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/05/09",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "收费服务。",
+        note: "含付费VIP特权。",
         reference: [
             {
                 title: "求求你，让我成为你的下一个mcbbs平替论坛",
@@ -678,14 +678,14 @@ const db_forums = [
         ]
     },
     {
-        title: "MCBBS 2nd",
+        title: "天空论坛SkyMC",
         url: "https://mcbbs.app",
         state: "up",
         createdAt: "2024/02/25",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/05/09",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。准备换域名。",
+        note: "非大陆服务器，旧名称为 MCBBS 2nd ，现即将更换域名。",
         reference: [
             {
                 title: "MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！",
@@ -868,14 +868,14 @@ const db_forums = [
         ]
     },
     {
-        title: "BetaMC",
-        url: "https://www.betamc.net",
-        state: "failure",
+        title: "贝塔MC(BetaMC)",
+        url: "https://www.betamc.cn",
+        state: "up",
         createdAt: "2024/03/22",
-        updatedAt: "2024/04/22",
+        updatedAt: "2024/05/09",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。因摄政国内被墙。",
+        note: "非大陆服务器。因摄政.net域名被墙，现已启用.cn域名。",
         reference: []
     },
     {
