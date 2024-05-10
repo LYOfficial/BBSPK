@@ -921,7 +921,23 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
-    }
+    },
+    {
+        title: "SarBBS",
+        url: "https://forum.sarskin.cn/",
+        state: "up",
+        createdAt: "2023.1.5",
+        updatedAt: "2024/03/03",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。广东地区无法访问。",
+        reference: [
+            {
+                title: "新起的MC论坛——",
+                url: "https://www.bilibili.com/video/BV1xy421z729"
+            }
+        ]
+    },
 ];
 
 
