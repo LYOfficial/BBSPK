@@ -937,7 +937,7 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1xy421z729"
             }
         ]
-    },
+    }
 ];
 
 
