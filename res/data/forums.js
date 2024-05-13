@@ -100,11 +100,16 @@ const db_forums = [
         url: "https://klpbbs.com",
         state: "up",
         createdAt: "2020/03/01",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/05/13",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "主营基岩版，含Java版。",
-        reference: []
+        reference: [
+            {
+                title: "苦力怕论坛？装进手机里！",
+                url: "https://www.bilibili.com/video/BV1cb421a7We/"
+            }
+        ]
     },
     {
         title: "深空Aurora",
@@ -240,13 +245,13 @@ const db_forums = [
     },
     {
         title: "MCraft BBS",
-        url: "http://mcraftbbs.cn/",
+        url: "https://mcraftbbs.cn",
         state: "up",
         createdAt: "2022/04/24",
-        updatedAt: "2024/04/27",
+        updatedAt: "2024/05/13",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。SSL证书已到期。",
+        note: "非大陆服务器。",
         reference: []
     },
     {
@@ -308,7 +313,7 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1Hr421s7DK/"
             },
             {
-                title: "MCBBS回来了？不！新世界中文论坛！",
+                title: "PixelBBS官方宣传片 | MCBBS | 论坛功能介绍 |",
                 url: "https://www.bilibili.com/video/BV1HF4m1c7MN/"
             }
         ]
@@ -769,6 +774,26 @@ const db_forums = [
         ]
     },
     {
+        title: "唯安侠",
+        url: "https://weianxq.com",
+        state: "up",
+        createdAt: "2024/03/03",
+        updatedAt: "2024/05/13",
+        hasICP: "yes",
+        hasNetSec: "yes",
+        note: "",
+        reference: [
+            {
+                title: "我的世界新论坛基地唯安侠",
+                url: "https://www.bilibili.com/video/BV13j421R7wA/"
+            },
+            {
+                title: "【唯安侠论坛】mcbbs关站了？我的世界唯安侠MC论坛欢迎您！",
+                url: "https://www.bilibili.com/video/BV14M4m1C7QW/"
+            }
+        ]
+    },
+    {
         title: "MC中文资源站",
         url: "https://www.mcbbs.top",
         state: "up",
@@ -840,7 +865,7 @@ const db_forums = [
         url: "https://nwbbs.cn",
         state: "up",
         createdAt: "2024/03/16",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/05/13",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -848,6 +873,10 @@ const db_forums = [
             {
                 title: "MCBBS回来了？不！新世界中文论坛！",
                 url: "https://www.bilibili.com/video/BV1t2421N7bB/"
+            },
+            {
+                title: "新世界中文论坛-Minecraft 快来分享你的资源",
+                url: "https://www.bilibili.com/video/BV1ds421P7mi/"
             }
         ]
     },
@@ -880,14 +909,27 @@ const db_forums = [
     },
     {
         title: "史莱姆社区",
-        url: "https://www.slmsns.com/",
+        url: "https://www.slmsns.com",
         state: "up",
         createdAt: "2024/03/23",
-        updatedAt: "2024/05/02",
+        updatedAt: "2024/05/13",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "大陆CDN。",
-        reference: []
+        note: "",
+        reference: [
+            {
+                title: "赠送MC正版的活动！我的世界中文论坛关停后，史莱姆社区举办了新活动",
+                url: "https://www.bilibili.com/video/BV1sw4m1C7EF/"
+            },
+            {
+                title: "大型纪录片《新兴的MC论坛》",
+                url: "https://www.bilibili.com/video/BV1sm41117NJ/"
+            },
+            {
+                title: "我们是做MC活动的，老板让搞点动静出来！不知道这动静老板满意吗",
+                url: "https://www.bilibili.com/video/BV1kb42187Kr/"
+            }
+        ]
     },
     {
         title: "土豆社区",
