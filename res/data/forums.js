@@ -965,7 +965,7 @@ const db_forums = [
         reference: []
     },
     {
-        title: "imc",
+        title: "iMC",
         url: "https://www.imc.lol/",
         state: "up",
         createdAt: "2024/04/30",

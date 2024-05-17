@@ -130,6 +130,8 @@ jobs:
             url: "https://mcbbs.asia"
           - title: "MCBBS 4th"
             url: "https://www.mcbbs.lol"
+          - title: "iMC"
+            url: "https://www.imc.lol/"
     steps:
       - uses: actions/checkout@v4
       - name: Setup .NET Core
