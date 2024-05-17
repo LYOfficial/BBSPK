@@ -972,7 +972,7 @@ const db_forums = [
         updatedAt: "2024/05/16",
         hasICP: "no",
         hasNetSec: "no",
-        note: "致力于推动Minecraft二次创作的中文社区.",
+        note: "非大陆服务器。",
         reference: []
     }
 ];
