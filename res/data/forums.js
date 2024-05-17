@@ -590,7 +590,7 @@ const db_forums = [
     {
         title: "neo社区",
         url: "https://mcneo.cn",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/20",
         updatedAt: "2024/04/21",
         hasICP: "no",
@@ -733,7 +733,7 @@ const db_forums = [
     {
         title: "青草原MC社区",
         url: "https://qcymc.net",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/27",
         updatedAt: "2024/04/27",
         hasICP: "no",
@@ -744,7 +744,7 @@ const db_forums = [
     {
         title: "MineNets",
         url: "https://www.minenets.cn",
-        state: "up",
+        state: "down",
         createdAt: "2024/03/02",
         updatedAt: "2024/04/30",
         hasICP: "yes",
@@ -776,9 +776,9 @@ const db_forums = [
     {
         title: "唯安侠",
         url: "https://weianxq.com",
-        state: "up",
+        state: "down",
         createdAt: "2024/03/03",
-        updatedAt: "2024/05/13",
+        updatedAt: "2024/05/17",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -807,7 +807,7 @@ const db_forums = [
     {
         title: "REMCBBS我的世界星幻论坛",
         url: "https://remcbbs.com",
-        state: "up",
+        state: "down",
         createdAt: "2024/03/04",
         updatedAt: "2024/04/20",
         hasICP: "no",
@@ -967,7 +967,7 @@ const db_forums = [
     {
         title: "iMC",
         url: "https://www.imc.lol/",
-        state: "up",
+        state: "down",
         createdAt: "2024/04/30",
         updatedAt: "2024/05/16",
         hasICP: "no",
