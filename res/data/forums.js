@@ -963,6 +963,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "imc",
+        url: "https://www.imc.lol/",
+        state: "up",
+        createdAt: "2024/04/30",
+        updatedAt: "2024/05/16",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
