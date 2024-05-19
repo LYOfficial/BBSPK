@@ -482,11 +482,11 @@ const db_forums = [
     },
     {
         title: "HiMCBBS",
-        url: "https://www.himcbbs.cn",
-        state: "down",
+        url: "https://www.himcbbs.com",
+        state: "failure",
         createdAt: "2024/01/28",
-        updatedAt: "2024/05/18",
-        hasICP: "yes",
+        updatedAt: "2024/05/19",
+        hasICP: "in_progress",
         hasNetSec: "no",
         note: "主营Java版，含基岩版。",
         reference: [
@@ -499,11 +499,7 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV13r42187th/"
             },
             {
-                title: "HiMCBBS大更新 快来加入我们~",
-                url: "https://www.bilibili.com/video/BV1VA4m1P7Dy/"
-            },
-            {
-                title: "MCBBS没了，找不到资源？MC老玩家们组成的论坛欢迎你！已备案不跑路~",
+                title: "MCBBS没了，找不到资源？MC老玩家们组成的论坛欢迎你！",
                 url: "https://www.bilibili.com/video/BV1iK421Y7RQ/"
             },
             {
