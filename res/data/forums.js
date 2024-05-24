@@ -472,12 +472,12 @@ const db_forums = [
     {
         title: "SimpBBS",
         url: "https://www.simpbbs.com",
-        state: "down",
+        state: "up",
         createdAt: "2023/10/28",
-        updatedAt: "2024/05/07",
+        updatedAt: "2024/05/24",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。502无法访问。",
+        note: "非大陆服务器，访问极其缓慢。",
         reference: []
     },
     {
@@ -893,7 +893,7 @@ const db_forums = [
         ]
     },
     {
-        title: "贝塔MC(BetaMC)",
+        title: "BetaMC",
         url: "https://www.betamc.cn",
         state: "up",
         createdAt: "2024/03/22",
@@ -969,6 +969,17 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
+        reference: []
+    },
+    {
+        title: "唯安侠论坛",
+        url: "https://weianxq.com/",
+        state: "down",
+        createdAt: "2024/03/03",
+        updatedAt: "2024/05/24",
+        hasICP: "yes",
+        hasNetSec: "yes",
+        note: "大陆服务器。",
         reference: []
     }
 ];
