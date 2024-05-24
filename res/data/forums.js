@@ -1144,5 +1144,13 @@ const db_forums_ex = [
         updatedAt: "2024/04/28",
         note: "你说得对，但是 MCBBS 浴火重生计划是你需要找回失散的 “MCBBS” 帮 MCBBS 打赢复活赛的计划。（Vue.js + canvas 实现的页面小游戏）",
         reference: []
-    }
+    },
+    {
+    title: "MCBBSv50纪念站",
+    url: "https://v50.mcbbs.rip/",
+    archiveUrl: "",
+    updatedAt: "2024/05/24",
+    note: "v我50，复活牢坛",
+    reference: []
+}
 ];
