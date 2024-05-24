@@ -483,11 +483,11 @@ const db_forums = [
     {
         title: "HiMCBBS",
         url: "https://www.himcbbs.com",
-        state: "failure",
+        state: "up",
         createdAt: "2024/01/28",
-        updatedAt: "2024/05/19",
-        hasICP: "in_progress",
-        hasNetSec: "no",
+        updatedAt: "2024/05/24",
+        hasICP: "yes",
+        hasNetSec: "in_progress",
         note: "主营Java版，含基岩版。",
         reference: [
             {
