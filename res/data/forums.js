@@ -1146,11 +1146,11 @@ const db_forums_ex = [
         reference: []
     },
     {
-    title: "MCBBSv50纪念站",
-    url: "https://v50.mcbbs.rip/",
-    archiveUrl: "",
-    updatedAt: "2024/05/24",
-    note: "v我50，复活牢坛",
-    reference: []
-}
+        title: "MCBBSv50纪念站",
+        url: "https://v50.mcbbs.rip/",
+        archiveUrl: "",
+        updatedAt: "2024/05/24",
+        note: "v我50，复活牢坛",
+        reference: []
+    }
 ];
