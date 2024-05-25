@@ -774,7 +774,7 @@ const db_forums = [
         url: "https://weianxq.com",
         state: "down",
         createdAt: "2024/03/03",
-        updatedAt: "2024/05/17",
+        updatedAt: "2024/05/24",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -969,17 +969,6 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
-        reference: []
-    },
-    {
-        title: "唯安侠论坛",
-        url: "https://weianxq.com/",
-        state: "down",
-        createdAt: "2024/03/03",
-        updatedAt: "2024/05/24",
-        hasICP: "yes",
-        hasNetSec: "yes",
-        note: "大陆服务器。",
         reference: []
     }
 ];
