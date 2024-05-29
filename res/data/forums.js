@@ -970,7 +970,23 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
-    }
+    },
+    {
+    title: "MC灵依资源网",
+    url: "https://mcres.cn",
+    state: "up",
+    createdAt: "2023/10/02",
+    updatedAt: "2024/05/29",
+    hasICP: "no",
+    hasNetSec: "no",
+    note: "宣布永久公益性质的专为MC服主提供资源镜像下载的资源站。",
+    reference: [
+        {
+            title: "[Bilibili] 我们的官方账号",
+            url: "https://space.bilibili.com/510152186"
+        }
+    ]
+}
 ];
 
 
