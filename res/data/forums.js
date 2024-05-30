@@ -960,18 +960,6 @@ const db_forums = [
         note: "非大陆服务器。",
         reference: []
     },
-     {
-        title: "mcwuebbs",
-        url: "https://mcbbs.wuenuo.com/",
-        state: "up",
-        createdAt: "2024/04/16",
-        updatedAt: "2024/05/29",
-        hasICP: "yes",
-        hasNetSec: "yes",
-        note: "国内服务器。",
-        reference: []
-    }
-];
     {
         title: "iMC",
         url: "https://www.imc.lol/",
