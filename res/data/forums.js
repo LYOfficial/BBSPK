@@ -1125,11 +1125,17 @@ const db_forums_ex = [
         reference: []
     },
     {
-        title: "MCBBS 神教",
+        title: "⚡MCBBS 神教⚡",
         url: "https://mcbbs.xin/",
+        archiveUrl: "https://web.archive.org/web/20240601161142/https://mcbbs.xin/",
         updatedAt: "2024/04/12",
-        note: "MCBBS 纪念站",
-        reference: []
+        note: "MCBBS 纪念站，注意：此站不包含任何诈骗元素",
+        reference: [
+            {
+                title: "MCBBS 神教",
+                url: "https://github.com/YangLine/mcbbs.xin"
+            }
+        ]
     },
     {
         title: "MCBBS 还在寄吗？",
