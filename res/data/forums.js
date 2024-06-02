@@ -976,10 +976,10 @@ const db_forums = [
     url: "https://mcres.cn",
     state: "up",
     createdAt: "2023/10/02",
-    updatedAt: "2024/05/29",
+    updatedAt: "2024/06/02",
     hasICP: "no",
     hasNetSec: "no",
-    note: "宣布永久公益性质的专为MC服主提供资源镜像下载的资源站。",
+    note: "非大陆服务器。",
     reference: [
         {
             title: "[Bilibili] 我们的官方账号",
