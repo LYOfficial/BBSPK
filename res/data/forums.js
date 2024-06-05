@@ -7,6 +7,7 @@ const db_forums = [
         url: "https://www.mcbbs.net",
         state: "close",
         createdAt: "2010/10/30",
+        closedAt: "2024/01/17",
         updatedAt: "2024/06/05",
         hasICP: "yes",
         hasNetSec: "yes",
