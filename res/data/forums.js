@@ -340,6 +340,7 @@ const db_forums = [
         url: "https://mc-bbs.net",
         state: "close",
         createdAt: "2022/08/30",
+        closedAt: "2024/01/01",
         updatedAt: "2024/06/05",
         hasICP: "no",
         hasNetSec: "no",
