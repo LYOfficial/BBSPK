@@ -965,9 +965,9 @@ const db_forums = [
     {
         title: "iMC",
         url: "https://www.imc.lol/",
-        state: "down",
+        state: "up",
         createdAt: "2024/04/30",
-        updatedAt: "2024/05/17",
+        updatedAt: "2024/06/08",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
