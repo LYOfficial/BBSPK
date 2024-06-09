@@ -954,7 +954,7 @@ const db_forums = [
     {
         title: "MCBBS 4th",
         url: "https://www.mcbbs.lol",
-        state: "down",
+        state: "up",
         createdAt: "2024/04/06",
         updatedAt: "2024/06/09",
         hasICP: "no",
