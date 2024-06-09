@@ -983,6 +983,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "McBBS 我的世界中文论坛 -MoTeam",
+        url: "https://www.mcbbs.blog/",
+        state: "up",
+        createdAt: "2024/04/16",
+        updatedAt: "2024/06/09",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器，且论坛活动停滞已久。",
+        reference: []
     }
 ];
 
