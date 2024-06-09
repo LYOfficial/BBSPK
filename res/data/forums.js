@@ -324,6 +324,7 @@ const db_forums = [
         url: "https://www.luobomc.top",
         state: "close",
         createdAt: "2022/08/28",
+        closedAt: "2024/03/29",
         updatedAt: "2024/06/09",
         hasICP: "no",
         hasNetSec: "no",
