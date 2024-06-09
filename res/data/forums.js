@@ -19,10 +19,10 @@ const db_forums = [
         url: "http://www.zuimc.com",
         state: "up",
         createdAt: "2013/04/18",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/06/09",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "网站处于待出售状态，暂停新用户注册，用户活动基本停止。网站屏蔽了大量机房 IP，存在误伤。现访问出现数据库错误。",
+        note: "网站处于待出售状态，暂停新用户注册，用户活动基本停止。网站屏蔽了大量机房 IP，存在误伤。",
         reference: []
     },
     {
@@ -322,9 +322,9 @@ const db_forums = [
     {
         title: "萝卜我的世界论坛",
         url: "https://www.luobomc.top",
-        state: "down",
+        state: "close",
         createdAt: "2022/08/28",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/06/09",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -943,12 +943,12 @@ const db_forums = [
     {
         title: "MCBBS 3rd",
         url: "https://mcbbs.asia",
-        state: "up",
+        state: "down",
         createdAt: "2024/04/02",
-        updatedAt: "2024/05/17",
+        updatedAt: "2024/06/09",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器，使用免费虚拟主机搭建。",
         reference: []
     },
     {
@@ -956,10 +956,10 @@ const db_forums = [
         url: "https://www.mcbbs.lol",
         state: "down",
         createdAt: "2024/04/06",
-        updatedAt: "2024/06/05",
+        updatedAt: "2024/06/09",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器，使用免费虚拟主机搭建。",
         reference: []
     },
     {
@@ -1119,11 +1119,11 @@ const db_forums_ex = [
         reference: []
     },
     {
-        title: "⚡点击复活不了 MCBBS⚡",
+        title: "⚡复活不了 MCBBS⚡",
         url: "https://mcbbs.click/",
         archiveUrl: "https://web.archive.org/web/20240408131452/https://mcbbs.click/",
         updatedAt: "2024/04/17",
-        note: "点击尝试复活 MCBBS吧！放心，你复活不了哒~",
+        note: "😭😭😭回来吧MCBBS😭😭😭",
         reference: []
     },
     {
@@ -1156,8 +1156,8 @@ const db_forums_ex = [
     {
         title: "MCBBSv50纪念站",
         url: "https://v50.mcbbs.rip/",
-        archiveUrl: "",
-        updatedAt: "2024/05/24",
+        archiveUrl: "https://web.archive.org/web/20240609005306/https://v50.mcbbs.rip/",
+        updatedAt: "2024/06/09",
         note: "v我50，复活牢坛",
         reference: []
     }
