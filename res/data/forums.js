@@ -972,6 +972,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "axxdsn",
+        url: "https://www.axxdsn.cn/",
+        state: "up",
+        createdAt: "2024/06/08",
+        updatedAt: "2024/06/09",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
