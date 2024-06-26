@@ -948,9 +948,9 @@ const db_forums = [
     {
         title: "MCBBS 3rd",
         url: "https://mcbbs.asia",
-        state: "down",
+        state: "up",
         createdAt: "2024/04/02",
-        updatedAt: "2024/06/09",
+        updatedAt: "2024/06/23",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器，使用免费虚拟主机搭建。",
@@ -961,10 +961,10 @@ const db_forums = [
         url: "https://www.mcbbs.lol",
         state: "up",
         createdAt: "2024/04/06",
-        updatedAt: "2024/06/09",
+        updatedAt: "2024/06/23",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，使用免费虚拟主机搭建。",
+        note: "非大陆服务器。",
         reference: []
     },
     {
