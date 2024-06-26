@@ -1014,7 +1014,12 @@ const db_forums = [
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
-        reference: []
+        reference: [
+            {
+                title: "Minecraft论坛建好了！快来注册一个吧",
+                url: "https://www.bilibili.com/video/BV1Wm421K7P4/"
+            }
+        ]
     },
     {
         title: "axxdsn",
