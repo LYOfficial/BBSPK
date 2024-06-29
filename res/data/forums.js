@@ -383,6 +383,10 @@ const db_forums = [
             {
                 title: "新起的MC论坛——",
                 url: "https://www.bilibili.com/video/BV1xy421z729/"
+            },
+            {
+                title: "SarBBS论坛-Minecraft游戏论坛",
+                url: "https://www.bilibili.com/video/BV1Kf42117uF/"
             }
         ]
     },
@@ -682,6 +686,10 @@ const db_forums = [
             {
                 title: "【黑曜石论坛】欢迎加入我的世界黑曜石论坛 请为我们提供一些建议！",
                 url: "https://www.bilibili.com/video/BV1vD421G7q6/"
+            },
+            {
+                title: "多种奖品等你来拿！我的世界黑曜石论坛夏日狂欢活动已开启！Minecraft正版账号，原神月卡，哔哩哔哩大会员！",
+                url: "https://www.bilibili.com/video/BV15M4m1U7Ys/"
             }
         ]
     },
@@ -793,6 +801,10 @@ const db_forums = [
             {
                 title: "【唯安侠论坛】mcbbs关站了？我的世界唯安侠MC论坛欢迎您！",
                 url: "https://www.bilibili.com/video/BV14M4m1C7QW/"
+            },
+            {
+                title: "欢迎光临我的世界论坛(国内中文版)",
+                url: "https://www.bilibili.com/video/BV1mGVEe9ETz/"
             }
         ]
     },
@@ -844,6 +856,10 @@ const db_forums = [
             {
                 title: "【REmcbbs】独属于MC玩家的论坛社区",
                 url: "https://www.bilibili.com/video/BV1BH4y1A7qw/"
+            },
+            {
+                title: "REMCBBS 2.0内则即将开启",
+                url: "https://www.bilibili.com/video/BV1f5TteQEMf/"
             }
         ]
     },
@@ -988,6 +1004,22 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "mcwuebbs",
+        url: "https://mcbbs.wuenuo.com",
+        state: "up",
+        createdAt: "2024/05/15",
+        updatedAt: "2024/06/26",
+        hasICP: "yes",
+        hasNetSec: "yes",
+        note: "",
+        reference: [
+            {
+                title: "Minecraft论坛建好了！快来注册一个吧",
+                url: "https://www.bilibili.com/video/BV1Wm421K7P4/"
+            }
+        ]
     },
     {
         title: "axxdsn",
