@@ -1032,6 +1032,17 @@ const db_forums = [
         note: "非大陆服务器。",
         reference: []
     }
+    {
+        title: "TBBBS",
+        url: "https://www.tbedu.top",
+        state: "up",
+        createdAt: "2024/07/07",
+        updatedAt: "2024/07/08",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "TBBBS,Welcome!",
+        reference: []
+    }
 ];
 
 
