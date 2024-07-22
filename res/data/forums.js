@@ -468,9 +468,9 @@ const db_forums = [
     {
         title: "ikunmc",
         url: "https://www.ikunmc.com",
-        state: "up",
+        state: "down",
         createdAt: "2023/10/28",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/07/22",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -484,7 +484,7 @@ const db_forums = [
         updatedAt: "2024/05/24",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，访问极其缓慢。",
+        note: "非大陆服务器。",
         reference: []
     },
     {
@@ -787,9 +787,9 @@ const db_forums = [
     {
         title: "唯安侠",
         url: "https://weianxq.com",
-        state: "up",
+        state: "down",
         createdAt: "2024/03/03",
-        updatedAt: "2024/05/24",
+        updatedAt: "2024/07/22",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -953,9 +953,9 @@ const db_forums = [
     {
         title: "土豆社区",
         url: "https://bbs2.potatokj.top",
-        state: "failure",
+        state: "down",
         createdAt: "2024/03/24",
-        updatedAt: "2024/06/05",
+        updatedAt: "2024/07/22",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。大部分地区无法访问。",
@@ -997,9 +997,9 @@ const db_forums = [
     {
         title: "iMC",
         url: "https://www.imc.lol/",
-        state: "up",
+        state: "down",
         createdAt: "2024/04/30",
-        updatedAt: "2024/06/30",
+        updatedAt: "2024/07/22",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -1008,9 +1008,9 @@ const db_forums = [
     {
         title: "mcwuebbs",
         url: "https://mcbbs.wuenuo.com",
-        state: "up",
+        state: "down",
         createdAt: "2024/05/15",
-        updatedAt: "2024/06/26",
+        updatedAt: "2024/07/22",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -1022,7 +1022,7 @@ const db_forums = [
         ]
     },
     {
-        title: "axxdsn",
+        title: "Axxdsn论坛",
         url: "https://www.axxdsn.cn/",
         state: "up",
         createdAt: "2024/06/08",
