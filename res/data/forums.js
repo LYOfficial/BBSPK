@@ -258,12 +258,13 @@ const db_forums = [
     {
         title: "MineTalk",
         url: "https://www.minebox.store",
-        state: "up",
+        state: "close",
         createdAt: "2022/06/06",
-        updatedAt: "2024/04/20",
+        closedAt: "2024/07/28",
+        updatedAt: "2024/07/28",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "Java版与基岩版论坛。",
+        note: "Java版与基岩版论坛。因经济因素影响现已关闭。",
         reference: [
             {
                 title: "闹剧之后:实锤“MineTalk”论坛抄袭＆贩卖用户数据",
@@ -468,9 +469,9 @@ const db_forums = [
     {
         title: "ikunmc",
         url: "https://www.ikunmc.com",
-        state: "down",
+        state: "up",
         createdAt: "2023/10/28",
-        updatedAt: "2024/07/22",
+        updatedAt: "2024/07/26",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
