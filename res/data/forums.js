@@ -126,7 +126,7 @@ const db_forums = [
     {
         title: "像素工坊",
         url: "https://www.pixelecraft.com",
-        state: "down",
+        state: "up",
         createdAt: "2021/01/09",
         updatedAt: "2024/06/30",
         hasICP: "yes",
