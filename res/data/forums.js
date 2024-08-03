@@ -1032,6 +1032,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "金苹果论坛",
+        url: "https://mcodw.com/",
+        state: "up",
+        createdAt: "2024/07/28",
+        updatedAt: "2024/08/03",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
