@@ -615,7 +615,7 @@ const db_forums = [
     {
         title: "SodaMC",
         url: "https://sodamc.com",
-        state: "down",
+        state: "up",
         createdAt: "2024/02/20",
         updatedAt: "2024/06/30",
         hasICP: "yes",
@@ -883,12 +883,13 @@ const db_forums = [
     {
         title: "新世界中文论坛",
         url: "https://nwbbs.cn",
-        state: "up",
+        state: "close",
         createdAt: "2024/03/16",
-        updatedAt: "2024/06/30",
+        closedAt: "2024/08/03",
+        updatedAt: "2024/08/04",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。因资金链断裂停止运营。",
         reference: [
             {
                 title: "MCBBS回来了？不！新世界中文论坛！",
