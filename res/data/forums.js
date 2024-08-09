@@ -1043,6 +1043,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "Minecraft Fans 论坛",
+        url: "https://mcbbs.fan/",
+        state: "up",
+        createdAt: "2024/08/04",
+        updatedAt: "2024/08/10",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
