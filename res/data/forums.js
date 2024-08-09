@@ -1044,6 +1044,16 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    title: "STONE BBS",
+        url: "https://www.mcyouxi.asia/",
+        state: "up",
+        createdAt: "2024/07/29",
+        updatedAt: "2024/08/09",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
