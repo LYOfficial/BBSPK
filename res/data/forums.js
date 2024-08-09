@@ -555,15 +555,14 @@ const db_forums = [
         reference: []
     },
     {
-        title: "CMCBBS",
-        url: "https://www.cmcbbs.cn",
-        state: "close",
+        title: "NMCBBS",
+        url: "https://www.nmcbbs.com",
+        state: "up",
         createdAt: "2024/02/20",
-        closedAt: "2024/04/05",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/08/09",
         hasICP: "no",
         hasNetSec: "no",
-        note: "因摄政被强制要求关站，已被墙。",
+        note: "前CMCBBS，因摄政被强制要求关站，已被墙。现更名为NMCBBS并使用新域名。",
         reference: [
             {
                 title: "@你的小蕉呀 的动态 - 哔哩哔哩",
