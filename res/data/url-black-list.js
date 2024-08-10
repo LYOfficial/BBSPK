@@ -1,4 +1,5 @@
 const db_url_black_list = [
+    'app.tc',
     'firebaseapp.com',
     'freeflarum.com',
     'flarum.cloud',
