@@ -492,7 +492,7 @@ const db_forums = [
         title: "HiMCBBS",
         url: "https://www.himcbbs.com",
         state: "up",
-        createdAt: "2023/08/12",
+        createdAt: "2024/01/28",
         updatedAt: "2024/08/10",
         hasICP: "yes",
         hasNetSec: "in_progress",
