@@ -1049,6 +1049,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "CraftBBS",
+        url: "https://craftbbs.cn/",
+        state: "up",
+        createdAt: "2024/07/28",
+        updatedAt: "2024/08/10",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "STONE BBS",
         url: "http://stonebbs.zryai.asia/",
         state: "up",
