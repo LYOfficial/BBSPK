@@ -453,9 +453,9 @@ const db_forums = [
     {
         title: "末影论坛",
         url: "https://enderbbs.wavemoe.com",
-        state: "up",
+        state: "failure",
         createdAt: "2023/08/28",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/08/10",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -493,7 +493,7 @@ const db_forums = [
         url: "https://www.himcbbs.com",
         state: "up",
         createdAt: "2024/01/28",
-        updatedAt: "2024/05/24",
+        updatedAt: "2024/08/10",
         hasICP: "yes",
         hasNetSec: "in_progress",
         note: "主营Java版，含基岩版。",
@@ -513,6 +513,10 @@ const db_forums = [
             {
                 title: "HiMCBBS打赢复活赛！重新开站！",
                 url: "https://www.bilibili.com/video/BV12t421A7NK/"
+            },
+            {
+                title: "什么？这个论坛发资源能赚钱？？",
+                url: "https://www.bilibili.com/video/BV1JoYeeBEAf/"
             }
         ]
     },
@@ -1039,6 +1043,39 @@ const db_forums = [
         state: "up",
         createdAt: "2024/07/28",
         updatedAt: "2024/08/03",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
+        title: "STONE BBS",
+        url: "http://stonebbs.zryai.asia/",
+        state: "up",
+        createdAt: "2024/07/29",
+        updatedAt: "2024/08/10",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
+        title: "Minecraft Fans 论坛",
+        url: "https://mcbbs.fan/",
+        state: "up",
+        createdAt: "2024/08/04",
+        updatedAt: "2024/08/10",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
+        title: "KMCBBS",
+        url: "https://hubs.app.tc/",
+        state: "up",
+        createdAt: "2024/08/09",
+        updatedAt: "2024/08/10",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
