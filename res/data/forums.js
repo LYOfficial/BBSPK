@@ -1062,9 +1062,9 @@ const db_forums = [
     {
         title: "STONE BBS",
         url: "http://stonebbs.zryai.asia/",
-        state: "up",
+        state: "failure",
         createdAt: "2024/07/29",
-        updatedAt: "2024/08/10",
+        updatedAt: "2024/08/11",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
