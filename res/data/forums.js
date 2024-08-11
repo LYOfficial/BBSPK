@@ -451,6 +451,38 @@ const db_forums = [
         ]
     },
     {
+        title: "HiMCBBS",
+        url: "https://www.himcbbs.com",
+        state: "up",
+        createdAt: "2023/08/12",
+        updatedAt: "2024/08/11",
+        hasICP: "yes",
+        hasNetSec: "in_progress",
+        note: "主营Java版，含基岩版。",
+        reference: [
+            {
+                title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
+                url: "https://www.bilibili.com/video/BV1n2421M7yt/"
+            },
+            {
+                title: "一个可以替代MCBBS的网站！",
+                url: "https://www.bilibili.com/video/BV13r42187th/"
+            },
+            {
+                title: "MCBBS没了，找不到资源？MC老玩家们组成的论坛欢迎你！",
+                url: "https://www.bilibili.com/video/BV1iK421Y7RQ/"
+            },
+            {
+                title: "HiMCBBS打赢复活赛！重新开站！",
+                url: "https://www.bilibili.com/video/BV12t421A7NK/"
+            },
+            {
+                title: "什么？这个论坛发资源能赚钱？？",
+                url: "https://www.bilibili.com/video/BV1JoYeeBEAf/"
+            }
+        ]
+    },
+    {
         title: "末影论坛",
         url: "https://enderbbs.wavemoe.com",
         state: "failure",
@@ -487,38 +519,6 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
-    },
-    {
-        title: "HiMCBBS",
-        url: "https://www.himcbbs.com",
-        state: "up",
-        createdAt: "2024/01/28",
-        updatedAt: "2024/08/10",
-        hasICP: "yes",
-        hasNetSec: "in_progress",
-        note: "主营Java版，含基岩版。",
-        reference: [
-            {
-                title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
-                url: "https://www.bilibili.com/video/BV1n2421M7yt/"
-            },
-            {
-                title: "一个可以替代MCBBS的网站！",
-                url: "https://www.bilibili.com/video/BV13r42187th/"
-            },
-            {
-                title: "MCBBS没了，找不到资源？MC老玩家们组成的论坛欢迎你！",
-                url: "https://www.bilibili.com/video/BV1iK421Y7RQ/"
-            },
-            {
-                title: "HiMCBBS打赢复活赛！重新开站！",
-                url: "https://www.bilibili.com/video/BV12t421A7NK/"
-            },
-            {
-                title: "什么？这个论坛发资源能赚钱？？",
-                url: "https://www.bilibili.com/video/BV1JoYeeBEAf/"
-            }
-        ]
     },
     {
         title: "方块社区",
