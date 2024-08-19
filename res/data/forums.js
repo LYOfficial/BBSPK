@@ -1081,6 +1081,17 @@ const db_forums = [
         note: "非大陆服务器。",
         reference: []
     }
+    {
+        title: "KMCBBS",
+        url: "https://hubs.app.tc",
+        state: "up",
+        createdAt: "2024/8/10",
+        updatedAt: "2024/8/10",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "KMCBBS - 又一个 Minecraft 论坛。",
+        reference: []
+    }
 ];
 
 
