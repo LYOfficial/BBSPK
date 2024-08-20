@@ -485,9 +485,9 @@ const db_forums = [
     {
         title: "末影论坛",
         url: "https://enderbbs.wavemoe.com",
-        state: "failure",
+        state: "up",
         createdAt: "2023/08/28",
-        updatedAt: "2024/08/10",
+        updatedAt: "2024/08/20",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -1062,9 +1062,9 @@ const db_forums = [
     {
         title: "STONE BBS",
         url: "http://stonebbs.zryai.asia/",
-        state: "failure",
+        state: "down",
         createdAt: "2024/07/29",
-        updatedAt: "2024/08/11",
+        updatedAt: "2024/08/20",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
