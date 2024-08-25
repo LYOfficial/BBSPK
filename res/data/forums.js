@@ -323,10 +323,9 @@ const db_forums = [
     {
         title: "萝卜我的世界论坛",
         url: "https://www.luobomc.top",
-        state: "close",
+        state: "up",
         createdAt: "2022/08/28",
-        closedAt: "2024/03/29",
-        updatedAt: "2024/06/09",
+        updatedAt: "2024/08/25",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -451,6 +450,17 @@ const db_forums = [
         ]
     },
     {
+        title: "KunMC 我的世界论坛",
+        url: "https://www.ikunmc.com",
+        state: "up",
+        createdAt: "2023/08/01",
+        updatedAt: "2024/08/25",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "HiMCBBS",
         url: "https://www.himcbbs.com",
         state: "up",
@@ -497,17 +507,6 @@ const db_forums = [
                 url: "https://www.bilibili.com/video/BV1nA4m1F7tN/"
             }
         ]
-    },
-    {
-        title: "ikunmc",
-        url: "https://www.ikunmc.com",
-        state: "up",
-        createdAt: "2023/10/28",
-        updatedAt: "2024/07/26",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: []
     },
     {
         title: "SimpBBS",
