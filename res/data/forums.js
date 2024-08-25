@@ -450,7 +450,7 @@ const db_forums = [
         ]
     },
     {
-        title: "ikunmc",
+        title: "KunMC 我的世界论坛",
         url: "https://www.ikunmc.com",
         state: "up",
         createdAt: "2023/08/01",
