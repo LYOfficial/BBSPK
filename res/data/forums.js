@@ -323,10 +323,9 @@ const db_forums = [
     {
         title: "萝卜我的世界论坛",
         url: "https://www.luobomc.top",
-        state: "close",
+        state: "up",
         createdAt: "2022/08/28",
-        closedAt: "2024/03/29",
-        updatedAt: "2024/06/09",
+        updatedAt: "2024/08/25",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
