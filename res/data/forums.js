@@ -450,6 +450,17 @@ const db_forums = [
         ]
     },
     {
+        title: "ikunmc",
+        url: "https://www.ikunmc.com",
+        state: "up",
+        createdAt: "2023/08/01",
+        updatedAt: "2024/08/25",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "HiMCBBS",
         url: "https://www.himcbbs.com",
         state: "up",
@@ -462,17 +473,6 @@ const db_forums = [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
                 url: "https://www.bilibili.com/video/BV1n2421M7yt/"
-            },
-            {
-        title: "ikunmc",
-        url: "https://www.ikunmc.com",
-        state: "up",
-        createdAt: "2023/08/01",
-        updatedAt: "2024/08/25",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: []
             },
             {
                 title: "一个可以替代MCBBS的网站！",
