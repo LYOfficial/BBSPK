@@ -38,7 +38,7 @@ const db_forums = [
     },
     {
         title: "MineBBS",
-        url: "https://minebbs.com",
+        url: "https://www.minebbs.com",
         state: "up",
         createdAt: "2018/03/16",
         updatedAt: "2024/05/07",
@@ -301,7 +301,7 @@ const db_forums = [
         ]
     },
     {
-        title: "像素世界论坛",
+        title: "PixelBBS",
         url: "https://www.pixelbbs.cn",
         state: "up",
         createdAt: "2022/08/12",
@@ -467,7 +467,7 @@ const db_forums = [
         createdAt: "2023/08/12",
         updatedAt: "2024/08/11",
         hasICP: "yes",
-        hasNetSec: "in_progress",
+        hasNetSec: "no",
         note: "主营Java版，含基岩版。",
         reference: [
             {
@@ -565,7 +565,7 @@ const db_forums = [
         updatedAt: "2024/08/09",
         hasICP: "no",
         hasNetSec: "no",
-        note: "前CMCBBS，因摄政被强制要求关站，已被墙。现更名为NMCBBS并使用新域名。",
+        note: "前CMCBBS，因摄政被强制要求关站。现更名为NMCBBS并使用新域名。",
         reference: [
             {
                 title: "@你的小蕉呀 的动态 - 哔哩哔哩",
@@ -1041,22 +1041,40 @@ const db_forums = [
         url: "https://mcodw.com/",
         state: "up",
         createdAt: "2024/07/28",
-        updatedAt: "2024/08/03",
+        updatedAt: "2024/08/29",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
-        reference: []
+        reference: [
+            {
+                title: "你的下一个mc论坛，何必是论坛？",
+                url: "https://www.bilibili.com/video/BV1i5YrenEBk/"
+            },
+            {
+                title: "新兴，自由的我的世界JAVA版交流社区！",
+                url: "https://www.bilibili.com/video/BV1QiWGegEnS/"
+            }
+        ]
     },
     {
         title: "CraftBBS",
         url: "https://craftbbs.cn/",
-        state: "up",
+        state: "down",
         createdAt: "2024/07/28",
-        updatedAt: "2024/08/10",
+        updatedAt: "2024/08/29",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
-        reference: []
+        reference: [
+            {
+                title: "没有一个主营Java版的社区？CraftBBS - 新一代我的世界（Minecraft）游戏论坛",
+                url: "https://www.bilibili.com/video/BV1vAsLeWEzL/"
+            },
+            {
+                title: "CraftBBS开放注册辣",
+                url: "https://www.bilibili.com/video/BV1gZs7esEUJ/"
+            }
+        ]
     },
     {
         title: "STONE BBS",
@@ -1081,15 +1099,21 @@ const db_forums = [
         reference: []
     },
     {
-        title: "CraftBBS",
-        url: "https://craftbbs.top/",
-        state: "up",
-        createdAt: "2024/07/27",
+        title: "QuickShaders",
+        url: "https://www.shader.icu/",
+        state: "close",
+        createdAt: "2024/08/07",
+        closeAt: "2024/08/26",
         updatedAt: "2024/08/29",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: []
+        note: "非大陆服务器，因人流量太小而关站",
+        reference: [
+            {
+                title: "全新的我的世界公益光影站？超多精美照片与作者链接",
+                url: "https://www.bilibili.com/video/BV1oLa2ecEuM/"
+            }
+        ]
     }
 ];
 
