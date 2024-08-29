@@ -1079,6 +1079,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "CraftBBS",
+        url: "https://craftbbs.top/",
+        state: "up",
+        createdAt: "2024/07/27",
+        updatedAt: "2024/08/29",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
