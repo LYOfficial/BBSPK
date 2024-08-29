@@ -1267,5 +1267,13 @@ const db_forums_ex = [
         updatedAt: "2024/06/09",
         note: "v我50，复活牢坛",
         reference: []
-    }
+    },
+{
+    title: "CraftBBS",
+    url: "https://craftbbs.top",
+    state: "up",
+    createdAt: "2023/10/17",
+    updatedAt: "2024/8/29",
+    note: "新一代MC游戏论坛",
+    reference: []
 ];
