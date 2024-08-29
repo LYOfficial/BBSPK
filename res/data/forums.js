@@ -1274,6 +1274,9 @@ const db_forums_ex = [
     state: "up",
     createdAt: "2023/10/17",
     updatedAt: "2024/8/29",
+    hasICP:"in_progress",
+    hasNetSec: "no",
     note: "新一代MC游戏论坛",
     reference: []
+}
 ];
