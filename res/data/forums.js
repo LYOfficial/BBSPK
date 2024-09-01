@@ -1097,23 +1097,6 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
-    },
-    {
-        title: "QuickShaders",
-        url: "https://www.shader.icu/",
-        state: "close",
-        createdAt: "2024/08/07",
-        closeAt: "2024/08/26",
-        updatedAt: "2024/08/29",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器，因人流量太小而关站",
-        reference: [
-            {
-                title: "全新的我的世界公益光影站？超多精美照片与作者链接",
-                url: "https://www.bilibili.com/video/BV1oLa2ecEuM/"
-            }
-        ]
     }
 ];
 
