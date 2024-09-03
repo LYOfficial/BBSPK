@@ -1098,6 +1098,21 @@ const db_forums = [
         note: "非大陆服务器。",
         reference: []
     }
+    title: "MIEBBS",
+    url: "https://miebbs.ltyun.top/",
+    state: "up",
+    createdAt: "2024/08/05",
+    updatedAt: "2024/09/03",
+    hasICP: "no",
+    hasNetSec: "no",
+    note: "新一代我的世界论坛，我的世界，国际综合论坛支持主流语言！开放交流，资源分享让MIEBBS变得更好！",
+    reference: [
+        {
+            title: "【新项目新起点】打造我的世界高自由论坛",
+            url: "https://www.bilibili.com/video/BV1T1bpekENz/?share_source=copy_web&vd_source=5117f2132ec83012bdaf12c3b656f1db"
+        }
+    ]
+}
 ];
 
 
