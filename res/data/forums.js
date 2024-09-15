@@ -450,14 +450,14 @@ const db_forums = [
         ]
     },
     {
-        title: "KunMC 我的世界论坛",
-        url: "https://www.ikunmc.com",
+        title: "MCNeko 我的世界论坛",
+        url: "https://www.mcneko.com",
         state: "up",
         createdAt: "2023/08/01",
-        updatedAt: "2024/08/25",
+        updatedAt: "2024/09/14",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。原名为 “KunMC我的世界论坛”。",
         reference: []
     },
     {
