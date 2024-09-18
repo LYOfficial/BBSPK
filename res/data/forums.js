@@ -1030,9 +1030,9 @@ const db_forums = [
     {
         title: "Axxdsn论坛",
         url: "https://www.axxdsn.cn/",
-        state: "up",
+        state: "down",
         createdAt: "2024/06/08",
-        updatedAt: "2024/06/09",
+        updatedAt: "2024/09/18",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -1092,9 +1092,9 @@ const db_forums = [
     {
         title: "Minecraft Fans 论坛",
         url: "https://mcbbs.fan/",
-        state: "up",
+        state: "down",
         createdAt: "2024/08/04",
-        updatedAt: "2024/08/10",
+        updatedAt: "2024/09/18",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
