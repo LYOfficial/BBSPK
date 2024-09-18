@@ -1041,12 +1041,12 @@ const db_forums = [
     {
         title: "金苹果论坛",
         url: "https://mcodw.com/",
-        state: "up",
+        state: "down",
         createdAt: "2024/07/28",
-        updatedAt: "2024/08/29",
+        updatedAt: "2024/09/18",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。站长疑似待跑路状态。",
         reference: [
             {
                 title: "你的下一个mc论坛，何必是论坛？",
