@@ -923,12 +923,13 @@ const db_forums = [
     {
         title: "BetaMC",
         url: "https://www.betamc.cn",
-        state: "up",
+        state: "close",
         createdAt: "2024/03/22",
-        updatedAt: "2024/05/17",
+        closeAt: "2024/08/26",
+        updatedAt: "2024/09/18",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。因摄政.net域名被墙，现已启用.cn域名。",
+        note: "非大陆服务器。因摄政.net域名被墙，后已启用.cn域名。现已更改为主机技术交流论坛。",
         reference: []
     },
     {
