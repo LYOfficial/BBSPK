@@ -464,8 +464,8 @@ const db_forums = [
         title: "HiMCBBS",
         url: "https://www.himcbbs.com",
         state: "up",
-        createdAt: "2023/08/12",
-        updatedAt: "2024/08/11",
+        createdAt: "2024/01/28",
+        updatedAt: "2024/09/18",
         hasICP: "yes",
         hasNetSec: "no",
         note: "主营Java版，含基岩版。",
@@ -481,14 +481,6 @@ const db_forums = [
             {
                 title: "MCBBS没了，找不到资源？MC老玩家们组成的论坛欢迎你！",
                 url: "https://www.bilibili.com/video/BV1iK421Y7RQ/"
-            },
-            {
-                title: "HiMCBBS打赢复活赛！重新开站！",
-                url: "https://www.bilibili.com/video/BV12t421A7NK/"
-            },
-            {
-                title: "什么？这个论坛发资源能赚钱？？",
-                url: "https://www.bilibili.com/video/BV1JoYeeBEAf/"
             }
         ]
     },
