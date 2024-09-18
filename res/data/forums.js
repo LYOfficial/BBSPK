@@ -560,12 +560,13 @@ const db_forums = [
     {
         title: "NMCBBS",
         url: "https://www.nmcbbs.com",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/20",
-        updatedAt: "2024/08/09",
+        closeAt: "2024/09/06",
+        updatedAt: "2024/09/18",
         hasICP: "no",
         hasNetSec: "no",
-        note: "前CMCBBS，因摄政被强制要求关站。现更名为NMCBBS并使用新域名。",
+        note: "前CMCBBS，因摄政被强制要求关站，后更名为NMCBBS并使用新域名。现因数据库丢失进入无限期停站。",
         reference: [
             {
                 title: "@你的小蕉呀 的动态 - 哔哩哔哩",
