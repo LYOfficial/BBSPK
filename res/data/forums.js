@@ -464,8 +464,8 @@ const db_forums = [
         title: "HiMCBBS",
         url: "https://www.himcbbs.com",
         state: "up",
-        createdAt: "2023/08/12",
-        updatedAt: "2024/08/11",
+        createdAt: "2024/01/28",
+        updatedAt: "2024/09/18",
         hasICP: "yes",
         hasNetSec: "no",
         note: "主营Java版，含基岩版。",
@@ -481,14 +481,6 @@ const db_forums = [
             {
                 title: "MCBBS没了，找不到资源？MC老玩家们组成的论坛欢迎你！",
                 url: "https://www.bilibili.com/video/BV1iK421Y7RQ/"
-            },
-            {
-                title: "HiMCBBS打赢复活赛！重新开站！",
-                url: "https://www.bilibili.com/video/BV12t421A7NK/"
-            },
-            {
-                title: "什么？这个论坛发资源能赚钱？？",
-                url: "https://www.bilibili.com/video/BV1JoYeeBEAf/"
             }
         ]
     },
@@ -560,12 +552,13 @@ const db_forums = [
     {
         title: "NMCBBS",
         url: "https://www.nmcbbs.com",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/20",
-        updatedAt: "2024/08/09",
+        closeAt: "2024/09/06",
+        updatedAt: "2024/09/18",
         hasICP: "no",
         hasNetSec: "no",
-        note: "前CMCBBS，因摄政被强制要求关站。现更名为NMCBBS并使用新域名。",
+        note: "前CMCBBS，因摄政被强制要求关站，后更名为NMCBBS并使用新域名。现因数据库丢失进入无限期停站。",
         reference: [
             {
                 title: "@你的小蕉呀 的动态 - 哔哩哔哩",
@@ -922,12 +915,13 @@ const db_forums = [
     {
         title: "BetaMC",
         url: "https://www.betamc.cn",
-        state: "up",
+        state: "close",
         createdAt: "2024/03/22",
-        updatedAt: "2024/05/17",
+        closeAt: "2024/08/26",
+        updatedAt: "2024/09/18",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。因摄政.net域名被墙，现已启用.cn域名。",
+        note: "非大陆服务器。因摄政.net域名被墙，后已启用.cn域名。现已更改为主机技术交流论坛。",
         reference: []
     },
     {
@@ -1028,9 +1022,9 @@ const db_forums = [
     {
         title: "Axxdsn论坛",
         url: "https://www.axxdsn.cn/",
-        state: "up",
+        state: "down",
         createdAt: "2024/06/08",
-        updatedAt: "2024/06/09",
+        updatedAt: "2024/09/18",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -1039,12 +1033,12 @@ const db_forums = [
     {
         title: "金苹果论坛",
         url: "https://mcodw.com/",
-        state: "up",
+        state: "down",
         createdAt: "2024/07/28",
-        updatedAt: "2024/08/29",
+        updatedAt: "2024/09/18",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。站长疑似待跑路状态。",
         reference: [
             {
                 title: "你的下一个mc论坛，何必是论坛？",
@@ -1090,9 +1084,9 @@ const db_forums = [
     {
         title: "Minecraft Fans 论坛",
         url: "https://mcbbs.fan/",
-        state: "up",
+        state: "down",
         createdAt: "2024/08/04",
-        updatedAt: "2024/08/10",
+        updatedAt: "2024/09/18",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
