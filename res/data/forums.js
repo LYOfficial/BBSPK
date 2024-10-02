@@ -117,18 +117,18 @@ const db_forums = [
         url: "https://bbs.aurora-sky.top",
         state: "up",
         createdAt: "2020/11/20",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/10/02",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。Minecraft 基岩版论坛。",
+        note: "非大陆服务器。Minecraft 基岩版论坛。目前处于无人管理状态，站内广告机泛滥。",
         reference: []
     },
     {
         title: "像素工坊",
-        url: "https://www.pixelecraft.com",
+        url: "https://www.pixelyun.net/",
         state: "up",
         createdAt: "2021/01/09",
-        updatedAt: "2024/06/30",
+        updatedAt: "2024/10/02",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -351,23 +351,23 @@ const db_forums = [
     {
         title: "MCSbbs",
         url: "https://mcsbbs.cn",
-        state: "up",
+        state: "failure",
         createdAt: "2022/09/12",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/10/02",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "",
+        note: "论坛活动停滞，SSL证书过期。",
         reference: []
     },
     {
         title: "美西螈论坛",
         url: "https://www.mcmxy.cn",
-        state: "up",
+        state: "failure",
         createdAt: "2022/11/10",
-        updatedAt: "2024/04/20",
+        updatedAt: "2024/10/02",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "",
+        note: "SSL证书过期。",
         reference: []
     },
     {
@@ -546,7 +546,7 @@ const db_forums = [
         updatedAt: "2024/04/20",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "最初为 Minecraft 论坛，2024/04/02 改为云计算产品交流论坛，现改回原论坛，并更换域名。",
+        note: "最初为 Minecraft 论坛，2024/04/02 改为云计算产品交流论坛，现改回原论坛，并更换域名。论坛活动停滞。",
         reference: []
     },
     {
@@ -740,9 +740,9 @@ const db_forums = [
     {
         title: "青草原MC社区",
         url: "https://qcymc.net",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/27",
-        updatedAt: "2024/06/30",
+        updatedAt: "2024/10/02",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -1085,12 +1085,12 @@ const db_forums = [
     {
         title: "Minecraft Fans 论坛",
         url: "https://mcbbs.fan/",
-        state: "down",
+        state: "failure",
         createdAt: "2024/08/04",
-        updatedAt: "2024/09/18",
+        updatedAt: "2024/10/02",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。网页样式出现问题。",
         reference: []
     }
 ];
