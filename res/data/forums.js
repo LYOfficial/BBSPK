@@ -15,6 +15,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "MC百科",
+        url: "https://www.mcmod.cn",
+        state: "up",
+        createdAt: "2014/03/29",
+        updatedAt: "2024/10/07",
+        hasICP: "yes",
+        hasNetSec: "yes",
+        note: "MC百科 (mcmod.cn) 是一个非营利性的知识共享平台。",
+        reference: []
+    },
+    {
         title: "最MC",
         url: "http://www.zuimc.com",
         state: "up",
