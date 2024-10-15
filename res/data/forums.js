@@ -1275,9 +1275,9 @@ const db_forums_ex = [
     },
     {
         title: "MCBBSv50纪念站",
-        url: "https://v50.mcbbs.rip/",
+        url: "https://mcbbs.sbs/",
         archiveUrl: "https://web.archive.org/web/20240609005306/https://v50.mcbbs.rip/",
-        updatedAt: "2024/06/09",
+        updatedAt: "2024/10/15",
         note: "v我50，复活牢坛",
         reference: []
     }
