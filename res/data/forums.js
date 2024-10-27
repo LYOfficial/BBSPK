@@ -823,7 +823,7 @@ const db_forums = [
         updatedAt: "2024/10/27",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，正在重构中...",
+        note: "非大陆服务器，正在重构中。",
         reference: [
             {
                 title: "REMCBBS开站公告",
