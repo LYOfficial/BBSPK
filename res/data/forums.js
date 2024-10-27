@@ -818,12 +818,12 @@ const db_forums = [
     {
         title: "REMCBBS我的世界星幻论坛",
         url: "https://remcbbs.com",
-        state: "down",
+        state: "up",
         createdAt: "2024/03/04",
-        updatedAt: "2024/05/17",
+        updatedAt: "2024/10/27",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器，正在重构中...",
         reference: [
             {
                 title: "REMCBBS开站公告",
