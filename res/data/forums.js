@@ -1087,7 +1087,7 @@ const db_forums = [
         url: "https://mcbbs.fan/",
         state: "down",
         createdAt: "2024/08/04",
-        updatedAt: "2024/10/02",
+        updatedAt: "2024/11/07",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。目前的状态为 502 Bad Gateway。",
