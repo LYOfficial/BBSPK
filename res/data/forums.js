@@ -1085,7 +1085,7 @@ const db_forums = [
     {
         title: "Minecraft Fans 论坛",
         url: "https://mcbbs.fan/",
-        state: "failure",
+        state: "down",
         createdAt: "2024/08/04",
         updatedAt: "2024/10/02",
         hasICP: "no",
