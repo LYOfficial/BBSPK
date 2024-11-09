@@ -1085,12 +1085,12 @@ const db_forums = [
     {
         title: "Minecraft Fans 论坛",
         url: "https://mcbbs.fan/",
-        state: "failure",
+        state: "down",
         createdAt: "2024/08/04",
-        updatedAt: "2024/10/02",
+        updatedAt: "2024/11/07",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。网页样式出现问题。",
+        note: "非大陆服务器。目前的状态为 502 Bad Gateway。",
         reference: []
     }
 ];
@@ -1275,7 +1275,7 @@ const db_forums_ex = [
     },
     {
         title: "MCBBSv50纪念站",
-        url: "https://mcbbs.sbs/",
+        url: "https://mcbbs.co/",
         archiveUrl: "https://web.archive.org/web/20240609005306/https://v50.mcbbs.rip/",
         updatedAt: "2024/10/15",
         note: "v我50，复活牢坛",
