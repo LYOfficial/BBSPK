@@ -742,10 +742,10 @@ const db_forums = [
         url: "https://qcymc.net",
         state: "down",
         createdAt: "2024/02/27",
-        updatedAt: "2024/10/02",
+        updatedAt: "2024/11/17",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "SSL证书过期，CDN过期。",
         reference: []
     },
     {
