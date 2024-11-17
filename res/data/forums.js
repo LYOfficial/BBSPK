@@ -783,7 +783,7 @@ const db_forums = [
     {
         title: "唯安侠",
         url: "https://weianxq.com",
-        state: "down",
+        state: "close",
         createdAt: "2024/03/03",
         updatedAt: "2024/07/22",
         hasICP: "yes",
