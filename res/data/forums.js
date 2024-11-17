@@ -364,7 +364,7 @@ const db_forums = [
         url: "https://www.mcmxy.cn",
         state: "down",
         createdAt: "2022/11/10",
-        updatedAt: "2024/10/02",
+        updatedAt: "2024/11/17",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "SSL证书过期，且无法访问。",
