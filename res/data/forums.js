@@ -513,10 +513,10 @@ const db_forums = [
     },
     {
         title: "方块社区",
-        url: "https://www.mineforum.cn",
+        url: "https://www.cubezone.cc/",
         state: "up",
         createdAt: "2024/02/10",
-        updatedAt: "2024/04/27",
+        updatedAt: "2024/11/17",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
