@@ -353,7 +353,7 @@ const db_forums = [
         url: "https://mcsbbs.cn",
         state: "up",
         createdAt: "2022/09/12",
-        updatedAt: "2024/10/02",
+        updatedAt: "2024/11/17",
         hasICP: "yes",
         hasNetSec: "no",
         note: "论坛活动停滞。",
