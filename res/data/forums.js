@@ -351,23 +351,23 @@ const db_forums = [
     {
         title: "MCSbbs",
         url: "https://mcsbbs.cn",
-        state: "failure",
+        state: "up",
         createdAt: "2022/09/12",
-        updatedAt: "2024/10/02",
+        updatedAt: "2024/11/17",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "论坛活动停滞，SSL证书过期。",
+        note: "论坛活动停滞。",
         reference: []
     },
     {
         title: "美西螈论坛",
         url: "https://www.mcmxy.cn",
-        state: "failure",
+        state: "down",
         createdAt: "2022/11/10",
-        updatedAt: "2024/10/02",
+        updatedAt: "2024/11/17",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "SSL证书过期。",
+        note: "SSL证书过期，且无法访问。",
         reference: []
     },
     {
@@ -513,10 +513,10 @@ const db_forums = [
     },
     {
         title: "方块社区",
-        url: "https://www.mineforum.cn",
+        url: "https://www.cubezone.cc/",
         state: "up",
         createdAt: "2024/02/10",
-        updatedAt: "2024/04/27",
+        updatedAt: "2024/11/17",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -742,10 +742,10 @@ const db_forums = [
         url: "https://qcymc.net",
         state: "down",
         createdAt: "2024/02/27",
-        updatedAt: "2024/10/02",
+        updatedAt: "2024/11/17",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "SSL证书过期，CDN过期。",
         reference: []
     },
     {
@@ -783,9 +783,10 @@ const db_forums = [
     {
         title: "唯安侠",
         url: "https://weianxq.com",
-        state: "down",
+        state: "close",
         createdAt: "2024/03/03",
-        updatedAt: "2024/07/22",
+        updatedAt: "2024/11/17",
+        closedAt: "2024/07/22",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
