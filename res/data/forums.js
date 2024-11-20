@@ -550,6 +550,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "南瓜论坛",
+        url: "https://www.ppbbs.top",
+        state: "up",
+        createdAt: "2024/02/16",
+        updatedAt: "2024/11/20",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "NMCBBS",
         url: "https://www.nmcbbs.com",
         state: "down",
