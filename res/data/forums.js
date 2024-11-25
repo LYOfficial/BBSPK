@@ -1097,12 +1097,13 @@ const db_forums = [
     {
         title: "Minecraft Fans 论坛",
         url: "https://mcbbs.fan/",
-        state: "down",
+        state: "close",
         createdAt: "2024/08/04",
-        updatedAt: "2024/11/07",
+        closedAt: "2024/11/25",
+        updatedAt: "2024/11/25",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。目前的状态为 502 Bad Gateway。",
+        note: "非大陆服务器。目前的状态为 502 Bad Gateway，相关群聊已解散。",
         reference: []
     }
 ];
