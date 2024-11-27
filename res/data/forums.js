@@ -1105,6 +1105,22 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。目前的状态为 502 Bad Gateway，相关群聊已解散。",
         reference: []
+    },
+    {
+        title: "方块星球",
+        url: "https://mcc0.com/",
+        state: "up",
+        createdAt: "2024/11/19",
+        updatedAt: "2024/11/28",
+        hasICP: "yes",
+        hasNetSec: "no",
+        note: "综合性社区，使用 Zibll 子比主题模板构建。",
+        reference: [
+            {
+                title: "@老本願 的动态 - 哔哩哔哩",
+                url: "https://www.bilibili.com/opus/1004345554913722373"
+            }
+        ]
     }
 ];
 
