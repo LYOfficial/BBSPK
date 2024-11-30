@@ -1121,6 +1121,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "一起玩MC",
+        url: "https://www.17wmc.cn/",
+        state: "up",
+        createdAt: "2023/01/17",
+        updatedAt: "2024/11/30",
+        hasICP: "yes",
+        hasNetSec: "no",
+        note: "资源社区，使用 Zibll 子比主题模板构建。",
+        reference: []
     }
 ];
 
