@@ -1110,6 +1110,17 @@ const db_forums = [
                 url: "https://www.bilibili.com/opus/1004345554913722373"
             }
         ]
+    },
+    {
+        title: "Cat BBS",
+        url: "https://bbs.catscavern.com/",
+        state: "up",
+        createdAt: "2024/09/19",
+        updatedAt: "2024/11/30",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
