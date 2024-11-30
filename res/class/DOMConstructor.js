@@ -100,7 +100,7 @@ class DOMForumList {
     }
 
     static list(items = [], target = '') {
-        const mcbbsBoomDate = new Date('2024/01/17').getTime();
+        const mcbbsBoomDate = new Date('2024/01/18').getTime();
         let setMcbbsBoomLine = false;
         let dom = DOMForumList.listHeader(items, target);
         items = items.sort((a, b) => {
