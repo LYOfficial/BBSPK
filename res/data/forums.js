@@ -528,17 +528,6 @@ const db_forums = [
         ]
     },
     {
-        title: "MineSpeak论坛",
-        url: "https://bbs.minesms.lol",
-        state: "down",
-        createdAt: "2024/02/11",
-        updatedAt: "2024/06/30",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。原名MineSMS论坛，曾用名MineCSMS论坛。",
-        reference: []
-    },
-    {
         title: "画了个圈中文资源站",
         url: "https://imcbbs.com",
         state: "up",
