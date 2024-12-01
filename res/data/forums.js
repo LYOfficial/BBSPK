@@ -1096,6 +1096,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "Cat BBS",
+        url: "https://bbs.catscavern.com/",
+        state: "up",
+        createdAt: "2024/09/19",
+        updatedAt: "2024/11/30",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "方块星球",
         url: "https://mcc0.com/",
         state: "up",
