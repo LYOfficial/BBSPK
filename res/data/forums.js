@@ -1121,17 +1121,6 @@ const db_forums = [
                 url: "https://www.bilibili.com/opus/1004345554913722373"
             }
         ]
-    },
-    {
-        title: "hwxar bbs",
-        url: "https://bbs.hwxar.us.kg/",
-        state: "up",
-        createdAt: "2024/11/23",
-        updatedAt: "2024/12/01",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: []
     }
 ];
 
