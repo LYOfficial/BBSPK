@@ -1096,6 +1096,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "Cat BBS",
+        url: "https://bbs.catscavern.com/",
+        state: "up",
+        createdAt: "2024/09/19",
+        updatedAt: "2024/11/30",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "方块星球",
         url: "https://mcc0.com/",
         state: "up",
@@ -1110,28 +1121,6 @@ const db_forums = [
                 url: "https://www.bilibili.com/opus/1004345554913722373"
             }
         ]
-    },
-    {
-        title: "Cat BBS",
-        url: "https://bbs.catscavern.com/",
-        state: "up",
-        createdAt: "2024/09/19",
-        updatedAt: "2024/11/30",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: []
-    },
-    {
-        title: "一起玩MC",
-        url: "https://www.17wmc.cn/",
-        state: "up",
-        createdAt: "2023/01/17",
-        updatedAt: "2024/11/30",
-        hasICP: "yes",
-        hasNetSec: "no",
-        note: "资源社区，使用 Zibll 子比主题模板构建。",
-        reference: []
     },
     {
         title: "hwxar bbs",
