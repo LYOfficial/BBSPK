@@ -1132,6 +1132,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "资源社区，使用 Zibll 子比主题模板构建。",
         reference: []
+    },
+    {
+        title: "hwxar bbs",
+        url: "https://bbs.hwxar.us.kg/",
+        state: "up",
+        createdAt: "2024/11/23",
+        updatedAt: "2024/12/01",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
