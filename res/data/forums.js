@@ -690,14 +690,14 @@ const db_forums = [
         ]
     },
     {
-        title: "天空论坛SkyMC",
+        title: "MCBBS 2nd",
         url: "https://mcbbs.app",
         state: "up",
         createdAt: "2024/02/25",
-        updatedAt: "2024/06/30",
+        updatedAt: "2024/12/04",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，原名MCBBS 2nd。",
+        note: "非大陆服务器。",
         reference: [
             {
                 title: "MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！",
@@ -1094,6 +1094,17 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。目前的状态为 502 Bad Gateway，相关群聊已解散。",
+        reference: []
+    },
+    {
+        title: "Cat BBS",
+        url: "https://bbs.catscavern.com/",
+        state: "up",
+        createdAt: "2024/09/19",
+        updatedAt: "2024/11/30",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
         reference: []
     },
     {
