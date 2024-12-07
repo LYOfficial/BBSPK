@@ -697,7 +697,7 @@ const db_forums = [
         updatedAt: "2024/12/04",
         hasICP: "no",
         hasNetSec: "no",
-        note: "我的世界中文论坛 2nd！",
+        note: "非大陆服务器。",
         reference: [
             {
                 title: "MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！",
