@@ -1023,12 +1023,13 @@ const db_forums = [
     {
         title: "Axxdsn论坛",
         url: "https://www.axxdsn.cn/",
-        state: "down",
+        state: "close",
         createdAt: "2024/06/08",
-        updatedAt: "2024/09/18",
+        closedAt: "2024/12/07",
+        updatedAt: "2024/12/07",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。论坛 QQ 群已解散。",
         reference: []
     },
     {
