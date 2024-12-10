@@ -659,11 +659,11 @@ const db_forums = [
     },
     {
         title: "黑曜石论坛",
-        url: "https://mcobs.fun",
+        url: "https://mcobs.cn",
         state: "up",
         createdAt: "2024/02/24",
-        updatedAt: "2024/05/17",
-        hasICP: "no",
+        updatedAt: "2024/12/09",
+        hasICP: "yes",
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: [
