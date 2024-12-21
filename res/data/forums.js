@@ -1305,11 +1305,11 @@ const db_forums_ex = [
         note: "v我50，复活牢坛",
         reference: []
     },
-        {
+    {
         title: "MCBBS帖子存档",
         url: "https://archives.mcbbs.co",
         updatedAt: "2024/12/21",
         note: "MCBBS部分帖子的存档，持续收集中！存档站现已复活并加入更多数据！",
         reference: []
-    },
+    }
 ];
