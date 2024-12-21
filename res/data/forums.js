@@ -1246,13 +1246,7 @@ const db_forums_ex = [
             }
         ]
     },
-    {
-        title: "MCBBS帖子存档",
-        url: "https://bbs-archive.github.io",
-        updatedAt: "2024/03/21",
-        note: "MCBBS部分帖子的存档，持续收集中！恭喜牢坛打赢复活赛！",
-        reference: []
-    },
+
     {
         title: "复活牢坛",
         url: "https://bbs.7c7.icu",
@@ -1309,6 +1303,13 @@ const db_forums_ex = [
         archiveUrl: "https://web.archive.org/web/20240609005306/https://v50.mcbbs.rip/",
         updatedAt: "2024/10/15",
         note: "v我50，复活牢坛",
+        reference: []
+    },
+    {
+        title: "MCBBS帖子存档",
+        url: "https://archives.mcbbs.co",
+        updatedAt: "2024/12/21",
+        note: "MCBBS部分帖子的存档，持续收集中！存档站现已复活并加入更多数据！",
         reference: []
     }
 ];
