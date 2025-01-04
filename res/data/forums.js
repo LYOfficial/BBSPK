@@ -180,9 +180,9 @@ const db_forums = [
     {
         title: "MCPPS",
         url: "https://mcpps.cn",
-        state: "up",
+        state: "down",
         createdAt: "2022/02/04",
-        updatedAt: "2024/04/20",
+        updatedAt: "2025/01/04",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
@@ -351,9 +351,9 @@ const db_forums = [
     {
         title: "MCSbbs",
         url: "https://mcsbbs.cn",
-        state: "up",
+        state: "failure",
         createdAt: "2022/09/12",
-        updatedAt: "2024/11/17",
+        updatedAt: "2025/01/04",
         hasICP: "yes",
         hasNetSec: "no",
         note: "论坛活动停滞。",
@@ -1122,6 +1122,17 @@ const db_forums = [
                 url: "https://www.bilibili.com/opus/1004345554913722373"
             }
         ]
+    },
+    {
+        title: "Cilbup资源论坛",
+        url: "https://cilbup.com/",
+        state: "up",
+        createdAt: "2024/11/22",
+        updatedAt: "2024/12/26",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。隶属于 HiMCBBS 论坛。",
+        reference: []
     }
 ];
 
