@@ -180,9 +180,9 @@ const db_forums = [
     {
         title: "MCPPS",
         url: "https://mcpps.cn",
-        state: "up",
+        state: "down",
         createdAt: "2022/02/04",
-        updatedAt: "2024/04/20",
+        updatedAt: "2025/01/04",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
