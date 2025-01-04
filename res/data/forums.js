@@ -351,9 +351,9 @@ const db_forums = [
     {
         title: "MCSbbs",
         url: "https://mcsbbs.cn",
-        state: "up",
+        state: "failure",
         createdAt: "2022/09/12",
-        updatedAt: "2024/11/17",
+        updatedAt: "2025/01/04",
         hasICP: "yes",
         hasNetSec: "no",
         note: "论坛活动停滞。",
