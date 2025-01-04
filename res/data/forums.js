@@ -664,7 +664,7 @@ const db_forums = [
         createdAt: "2024/02/24",
         updatedAt: "2024/12/09",
         hasICP: "yes",
-        hasNetSec: "no",
+        hasNetSec: "yes",
         note: "非大陆服务器。",
         reference: [
             {
