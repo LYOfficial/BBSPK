@@ -1122,6 +1122,17 @@ const db_forums = [
                 url: "https://www.bilibili.com/opus/1004345554913722373"
             }
         ]
+    },
+    {
+        title: "Cilbup资源论坛",
+        url: "https://cilbup.com/",
+        state: "up",
+        createdAt: "2024/11/22",
+        updatedAt: "2024/12/26",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。隶属于 HiMCBBS 论坛。",
+        reference: []
     }
 ];
 
