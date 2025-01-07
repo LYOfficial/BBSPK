@@ -662,9 +662,9 @@ const db_forums = [
         url: "https://mcobs.cn",
         state: "up",
         createdAt: "2024/02/24",
-        updatedAt: "2024/12/09",
+        updatedAt: "2025/01/07",
         hasICP: "yes",
-        hasNetSec: "no",
+        hasNetSec: "yes",
         note: "非大陆服务器。",
         reference: [
             {
