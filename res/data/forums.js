@@ -1033,6 +1033,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "新一代我的世界论坛",
+        url: "https://mcbbs.xn--6qq986b3xl/",
+        state: "up",
+        createdAt: "2024/06/08",
+        updatedAt: "2025/01/14",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "金苹果论坛",
         url: "https://mcodw.com/",
         state: "close",
