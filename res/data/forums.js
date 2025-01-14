@@ -1144,6 +1144,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。隶属于 HiMCBBS 论坛。",
         reference: []
+    },
+    {
+        title: "新龙游坛",
+        url: "https://xlshan.cn/",
+        state: "up",
+        createdAt: "2024/12/25",
+        updatedAt: "2025/01/14",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
