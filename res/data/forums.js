@@ -1146,6 +1146,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "MCIDE",
+        url: "https://www.mcide.net/",
+        state: "up",
+        createdAt: "2024/12/02",
+        updatedAt: "2025/01/14",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "新龙游坛",
         url: "https://xlshan.cn/",
         state: "up",
