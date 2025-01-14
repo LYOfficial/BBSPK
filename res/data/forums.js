@@ -662,9 +662,9 @@ const db_forums = [
         url: "https://mcobs.cn",
         state: "up",
         createdAt: "2024/02/24",
-        updatedAt: "2024/12/09",
+        updatedAt: "2025/01/07",
         hasICP: "yes",
-        hasNetSec: "no",
+        hasNetSec: "yes",
         note: "非大陆服务器。",
         reference: [
             {
@@ -1033,6 +1033,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "新一代我的世界论坛",
+        url: "https://mcbbs.xn--6qq986b3xl/",
+        state: "up",
+        createdAt: "2024/06/08",
+        updatedAt: "2025/01/14",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "金苹果论坛",
         url: "https://mcodw.com/",
         state: "close",
@@ -1132,6 +1143,28 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。隶属于 HiMCBBS 论坛。",
+        reference: []
+    },
+    {
+        title: "MCIDE",
+        url: "https://www.mcide.net/",
+        state: "up",
+        createdAt: "2024/12/02",
+        updatedAt: "2025/01/14",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
+        title: "新龙游坛",
+        url: "https://xlshan.cn/",
+        state: "up",
+        createdAt: "2024/12/25",
+        updatedAt: "2025/01/14",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
         reference: []
     }
 ];
