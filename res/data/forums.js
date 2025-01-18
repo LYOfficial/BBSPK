@@ -481,6 +481,10 @@ const db_forums = [
             {
                 title: "MCBBS没了，找不到资源？MC老玩家们组成的论坛欢迎你！",
                 url: "https://www.bilibili.com/video/BV1iK421Y7RQ/"
+            },
+            {
+                title: "殷花红的动态",
+                url: "https://www.bilibili.com/opus/1023357820379070512"
             }
         ]
     },
