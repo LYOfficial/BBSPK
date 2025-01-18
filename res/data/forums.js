@@ -481,6 +481,10 @@ const db_forums = [
             {
                 title: "MCBBS没了，找不到资源？MC老玩家们组成的论坛欢迎你！",
                 url: "https://www.bilibili.com/video/BV1iK421Y7RQ/"
+            },
+            {
+                title: "殷花红的动态",
+                url: "https://www.bilibili.com/opus/1023357820379070512"
             }
         ]
     },
@@ -1033,6 +1037,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "新一代我的世界论坛",
+        url: "https://mcbbs.xn--6qq986b3xl/",
+        state: "up",
+        createdAt: "2024/06/08",
+        updatedAt: "2025/01/14",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "金苹果论坛",
         url: "https://mcodw.com/",
         state: "close",
@@ -1132,6 +1147,28 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。隶属于 HiMCBBS 论坛。",
+        reference: []
+    },
+    {
+        title: "MCIDE",
+        url: "https://www.mcide.net/",
+        state: "up",
+        createdAt: "2024/12/02",
+        updatedAt: "2025/01/14",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
+        title: "新龙游坛",
+        url: "https://xlshan.cn/",
+        state: "up",
+        createdAt: "2024/12/25",
+        updatedAt: "2025/01/14",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
         reference: []
     }
 ];
