@@ -303,9 +303,9 @@ const db_forums = [
     {
         title: "PixelBBS",
         url: "https://www.pixelbbs.cn",
-        state: "up",
+        state: "close",
         createdAt: "2022/08/12",
-        updatedAt: "2024/05/09",
+        updatedAt: "2025/01/19",
         hasICP: "yes",
         hasNetSec: "no",
         note: "含付费VIP特权。",
