@@ -591,22 +591,27 @@ const db_forums = [
         ]
     },
     {
-        title: "neo社区",
+        title: "MCNEO光影资源站",
         url: "https://mcneo.cn",
-        state: "down",
+        state: "up",
         createdAt: "2024/02/20",
-        updatedAt: "2024/05/17",
+        updatedAt: "2025/01/17",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。主营光影材质包，原名PRT幻界轨迹社区。",
+        note: "非大陆服务器。主营光影材质包。",
         reference: [
-            {
-                title: "【minecraft NEO社区】快来白嫖众多光影材质包，patrix,乐高材质包，PTGI光影，全清晰度免费下载！！！",
-                url: "https://www.bilibili.com/video/BV1GJ4m1h7Ly/"
-            },
+            
             {
                 title: " 2024年免费的MC专用内网穿透？MCNeo社区助力小微服务器向上发展！",
                 url: "https://www.bilibili.com/video/BV12r421V79N/"
+            },
+            {
+                title: " 我的世界光影资源下载站：MCNEO光影资源站正式开放，争做国内最好光影站！",
+                url: "https://www.bilibili.com/video/BV1Vm421G7q5/?share_source=copy_web&vd_source=48a2820416758cec7fd4550ca25dbfaf"
+            },
+            {
+                title: " 我的世界光影资源下载站：国内首个MCNEO光影站到底NEO在哪？新在哪？不同在哪？",
+                url: "https://www.bilibili.com/video/BV1gTwqeDEcE/?share_source=copy_web&vd_source=48a2820416758cec7fd4550ca25dbfaf"
             }
 
         ]
