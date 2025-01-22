@@ -1186,6 +1186,17 @@ const db_forums = [
         hasNetSec: "no",
         note: "非大陆服务器。",
         reference: []
+    },
+    {
+        title: "CJSBBS我的世界中文论坛",
+        url: "https://bbs.cjsyun.top/",
+        state: "up",
+        createdAt: "2025/01/21",
+        updatedAt: "2025/01/22",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
     }
 ];
 
