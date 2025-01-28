@@ -1014,6 +1014,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "每天BBS综合论坛",
+        url: "https://www.mtbbs.top/",
+        state: "up",
+        createdAt: "2024/05/10",
+        updatedAt: "2025/01/26",
+        hasICP: "in_progress",
+        hasNetSec: "no",
+        note: "非内地服务器。",
+        reference: []
+    },
+    {
         title: "mcwuebbs",
         url: "https://mcbbs.wuenuo.com",
         state: "down",
@@ -1114,6 +1125,17 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。目前的状态为 502 Bad Gateway，相关群聊已解散。",
+        reference: []
+    },
+    {
+        title: "Nukkit中文论坛",
+        url: "https://bbs.nukkit.cc/",
+        state: "up",
+        createdAt: "2024/08/28",
+        updatedAt: "2025/01/26",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
         reference: []
     },
     {
