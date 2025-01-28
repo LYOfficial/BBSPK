@@ -1014,6 +1014,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "每天BBS综合论坛",
+        url: "https://www.mtbbs.top/",
+        state: "up",
+        createdAt: "2024/05/10",
+        updatedAt: "2025/01/26",
+        hasICP: "in_progress",
+        hasNetSec: "no",
+        note: "非内地服务器。",
+        reference: []
+    },
+    {
         title: "mcwuebbs",
         url: "https://mcbbs.wuenuo.com",
         state: "down",
@@ -1117,6 +1128,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "Nukkit中文论坛",
+        url: "https://bbs.nukkit.cc/",
+        state: "up",
+        createdAt: "2024/08/28",
+        updatedAt: "2025/01/26",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "Cat BBS",
         url: "https://bbs.catscavern.com/",
         state: "up",
@@ -1193,28 +1215,6 @@ const db_forums = [
         state: "up",
         createdAt: "2025/01/21",
         updatedAt: "2025/01/22",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: []
-    }
-    {
-        title: "每天BBS综合论坛",//每天BBS管理员帮忙添加
-        url: "https://www.mtbbs.top/",
-        state: "up",
-        createdAt: "2024/05/11",
-        updatedAt: "2025/01/26",
-        hasICP: "in_progress",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: []
-    }
-    {
-        title: "nukkit中文论坛",//每天BBS管理员帮忙添加
-        url: "https://bbs.nukkit.cc/",
-        state: "up",
-        createdAt: "2024/08/28",
-        updatedAt: "2025/01/26",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
