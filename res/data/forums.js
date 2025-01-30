@@ -490,10 +490,10 @@ const db_forums = [
     },
     {
         title: "末影论坛",
-        url: "https://enderbbs.wavemoe.com",
+        url: "https://enderbbs.fun",
         state: "up",
         createdAt: "2023/08/28",
-        updatedAt: "2024/08/20",
+        updatedAt: "2025/01/30",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
