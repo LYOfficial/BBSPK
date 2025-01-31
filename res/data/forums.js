@@ -1122,6 +1122,17 @@ const db_forums = [
                 url: "https://www.bilibili.com/opus/1004345554913722373"
             }
         ]
+    },
+    {
+        title: "红石中继站",
+        url: "https://www.mczwlt.net",
+        state: "up",
+        createdAt: "2025/01/25",
+        updatedAt: "2025/01/31",
+        hasICP: "yes",
+        hasNetSec: "yes",
+        note: "前身为我的世界中文论坛（MCBBS，域名：www.mcbbs.net），于 2024 年 1 月 20 日关闭，现于 2025 年 1 月 31 日转生。",
+        reference: []
     }
 ];
 

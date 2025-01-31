@@ -50,6 +50,7 @@ $('#forum-list').append(DOMForumList.item({
 }));
 
 createTimer('2024/02/27 00:00:00 GMT+0800', '#timer-bbspk-created');
+createTimer('2025/01/31 00:00:00 GMT+0800', '#timer-bbspk-stage-2');
 
 let nukeReady = false;
 
