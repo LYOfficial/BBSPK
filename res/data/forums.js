@@ -485,6 +485,18 @@ const db_forums = [
             {
                 title: "殷花红的动态",
                 url: "https://www.bilibili.com/opus/1023357820379070512"
+            },
+            {
+                title: "罗总啊_a的动态",
+                url: "https://www.bilibili.com/opus/1024394019887644674"
+            },
+            {
+                title: "老本願的动态",
+                url: "https://www.bilibili.com/opus/1026290520665620483"
+            },
+            {
+                title: "med肥鱼的动态",
+                url: "https://www.bilibili.com/opus/1027412153561251849"
             }
         ]
     },
