@@ -323,12 +323,12 @@ const db_forums = [
     {
         title: "萝卜我的世界论坛",
         url: "https://www.luobomc.top",
-        state: "up",
+        state: "close",
         createdAt: "2022/08/28",
-        updatedAt: "2024/08/25",
+        updatedAt: "2025/2/4",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。论坛首页被替换为 WordPress 安装页面。",
         reference: [
             {
                 title: "我做了个Minecraft论坛？比MCBBS使用简单？ —MC萝卜论坛！",
