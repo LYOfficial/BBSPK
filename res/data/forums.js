@@ -1439,12 +1439,5 @@ const db_forums_ex = [
         updatedAt: "2025/2/9",
         note: "MCBBS的坟头草三米高了。",
         reference: []
-    },
-    {
-        title: "MCBBS.....吗？",
-        url: "https://mcbbs.tax",
-        updatedAt: "2025/2/9",
-        note: "MCBBS的坟头草三米高了。",
-        reference: []
     }
 ];
