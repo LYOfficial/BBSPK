@@ -1434,13 +1434,6 @@ const db_forums_ex = [
         reference: []
     },
     {
-        title: "MCBBS帖子存档",
-        url: "https://archives.mcbbs.co",
-        updatedAt: "2024/12/21",
-        note: "MCBBS部分帖子的存档，持续收集中！存档站现已复活并加入更多数据！",
-        reference: []
-    },
-    {
         title: "MCBBS.....吗？",
         url: "https://mcbbs.moe",
         updatedAt: "2025/2/9",
