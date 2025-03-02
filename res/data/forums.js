@@ -1077,6 +1077,17 @@ const db_forums = [
         reference: []
     },
     {
+        title: "MCArea",
+        url: "https://www.mcarea.top",
+        state: "up",
+        createdAt: "2024/07/04",
+        updatedAt: "2025/03/02",
+        hasICP: "no",
+        hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
         title: "金苹果论坛",
         url: "https://mcodw.com/",
         state: "close",
@@ -1208,6 +1219,17 @@ const db_forums = [
         updatedAt: "2025/01/14",
         hasICP: "no",
         hasNetSec: "no",
+        note: "非大陆服务器。",
+        reference: []
+    },
+    {
+        title: "北凯MC论坛",
+        url: "https://bbs.stbeikai.com",
+        state: "up",
+        createdAt: "2024/12/28",
+        updatedAt: "2025/03/02",
+        hasICP: "yes",
+        hasNetSec: "yes",
         note: "非大陆服务器。",
         reference: []
     },
