@@ -468,7 +468,7 @@ const db_forums = [
         updatedAt: "2024/09/18",
         hasICP: "yes",
         hasNetSec: "no",
-        note: "主营Java版，含基岩版。",
+        note: "主营Java版，含基岩版。使用浮木搭建。",
         reference: [
             {
                 title: "我要做一个可以平替MCBBS的论坛！！！快来加入我们吧~",
@@ -989,7 +989,7 @@ const db_forums = [
         updatedAt: "2024/06/30",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，使用免费虚拟主机搭建。",
+        note: "非大陆服务器。",
         reference: []
     },
     {
