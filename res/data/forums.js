@@ -1310,14 +1310,6 @@ const db_forums_ex = [
         reference: []
     },
     {
-        title: "坛破山河在，坟头草木深",
-        url: "https://mcbbs.homes",
-        archiveUrl: "https://web.archive.org/web/20240302042152/https://mcbbs.homes/",
-        updatedAt: "2024/03/21",
-        note: "回来吧MCBBS，千万创作者的精神故乡！",
-        reference: []
-    },
-    {
         title: "您今天 MCBBS 了吗？",
         url: "https://mcbbs.today",
         archiveUrl: "https://web.archive.org/web/20240302042305/https://mcbbs.today/",
