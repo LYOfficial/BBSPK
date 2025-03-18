@@ -303,20 +303,20 @@ const db_forums = [
     {
         title: "PixelBBS",
         url: "https://www.pixelbbs.cn",
-        state: "close",
+        state: "up",
         createdAt: "2022/08/12",
-        updatedAt: "2025/01/19",
+        updatedAt: "2025/02/02",
         hasICP: "yes",
-        hasNetSec: "no",
-        note: "含付费VIP特权。",
+        hasNetSec: "yes",
+        note: "综合性论坛，主营JAVA版块，前身为mc9z，改版而来。",
         reference: [
-            {
-                title: "求求你，让我成为你的下一个mcbbs平替论坛",
-                url: "https://www.bilibili.com/video/BV1Hr421s7DK/"
-            },
             {
                 title: "PixelBBS官方宣传片 | MCBBS | 论坛功能介绍 |",
                 url: "https://www.bilibili.com/video/BV1HF4m1c7MN/"
+            },
+            {
+                title: "PixelBBS (我的世界论坛）介绍",
+                url: "https://www.bilibili.com/opus/889743694194802696/"
             }
         ]
     },
@@ -485,6 +485,18 @@ const db_forums = [
             {
                 title: "殷花红的动态",
                 url: "https://www.bilibili.com/opus/1023357820379070512"
+            },
+            {
+                title: "罗总啊_a的动态",
+                url: "https://www.bilibili.com/opus/1024394019887644674"
+            },
+            {
+                title: "老本願的动态",
+                url: "https://www.bilibili.com/opus/1026290520665620483"
+            },
+            {
+                title: "med肥鱼的动态",
+                url: "https://www.bilibili.com/opus/1027412153561251849"
             }
         ]
     },
