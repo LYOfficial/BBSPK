@@ -81,6 +81,7 @@
 | `title` | String | 网站名称。 |
 | `url` | String | 网站 URL 地址。 |
 | `archiveUrl` | String | 可选。网站的网页存档 URL 地址。 |
+| `isClosed` | Boolean | 可选。网站是否已关闭。如果关闭，将使用存档地址。如果没有存档地址，将关闭导航。 |
 | `updatedAt` | String | 最后更新时间，格式为 `yyyy/MM/dd`。 |
 | `note` | String | 备注。 |
 | `reference` | Array | 参考资料，见上文。 |

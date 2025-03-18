@@ -222,6 +222,11 @@ a:active {
     --color-link: var(--ant-color-primary-text-active);
 }
 
+a.disable {
+    pointer-events: none;
+    opacity: 0.35;
+}
+
 
 
 

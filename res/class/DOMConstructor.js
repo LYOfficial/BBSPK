@@ -125,6 +125,7 @@ class DOMForumList {
             title: "未命名",
             url: "https://www.example.com",
             archiveUrl: "",
+            isClosed: false,
             updatedAt: "1970/01/01",
             note: "",
             reference: [],
@@ -148,7 +149,14 @@ class DOMForumList {
                     <div class="date-icon-text updated-at" title="最后更新时间">${Icon.clockEditOutline()} ${item.updatedAt}</div>
                 </div>
                 <div class="action-box">
-                    <a href="${item.url}" target="_blank" rel="noopener noreferrer">访问网站 ${Icon.openInNew()}</a>
+                    <a
+                        href="${item.isClosed && item.archiveUrl !== '' ? item.archiveUrl : item.url}"
+                        ${item.isClosed && item.archiveUrl === '' ? 'class="disable"' : ''}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        访问${item.isClosed && item.archiveUrl !== '' ? '存档' : '网站'} ${Icon.openInNew()}
+                    </a>
                 </div>
             </div>
             <div class="forum-item-content">

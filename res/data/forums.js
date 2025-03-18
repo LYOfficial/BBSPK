@@ -1255,7 +1255,8 @@ const db_forums_ex = [
         title: "回来吧 MCBBS",
         url: "http://mcbbs.win",
         archiveUrl: "https://web.archive.org/web/20240302042136/http://mcbbs.win/",
-        updatedAt: "2024/03/21",
+        isClosed: true,
+        updatedAt: "2025/03/18",
         note: "真诚祷告。",
         reference: []
     },
@@ -1263,14 +1264,16 @@ const db_forums_ex = [
         title: "这里<b>不是</b> MCBBS",
         url: "https://mcbbs.wang",
         archiveUrl: "https://web.archive.org/web/20240301071710/https://www.mcbbs.wang/",
-        updatedAt: "2024/03/21",
+        isClosed: true,
+        updatedAt: "2025/03/18",
         note: "这里不是 MCBBS。",
         reference: []
     },
     {
         title: "Minecraft中文综合交流站",
         url: "http://mcforum.wikidot.com",
-        updatedAt: "2024/03/21",
+        isClosed: true,
+        updatedAt: "2025/03/18",
         note: "基于 WikiDot 建立。",
         reference: []
     },
@@ -1278,7 +1281,8 @@ const db_forums_ex = [
         title: "坛破山河在，坟头草木深",
         url: "https://mcbbs.homes",
         archiveUrl: "https://web.archive.org/web/20240302042152/https://mcbbs.homes/",
-        updatedAt: "2024/03/21",
+        isClosed: true,
+        updatedAt: "2025/03/18",
         note: "回来吧MCBBS，千万创作者的精神故乡！",
         reference: []
     },
@@ -1286,7 +1290,8 @@ const db_forums_ex = [
         title: "您今天 MCBBS 了吗？",
         url: "https://mcbbs.today",
         archiveUrl: "https://web.archive.org/web/20240302042305/https://mcbbs.today/",
-        updatedAt: "2024/03/21",
+        isClosed: true,
+        updatedAt: "2025/03/18",
         note: "如果您今天还没有 MCBBS，那就去楼下看看专为您提供的解决方案吧！",
         reference: []
     },
@@ -1294,7 +1299,8 @@ const db_forums_ex = [
         title: "一站式 MCBBS 解决方案",
         url: "https://mcbbs.solutions",
         archiveUrl: "https://archive.org/details/fire-shot-capture-minecraft-mcbbs.solutions",
-        updatedAt: "2024/03/21",
+        isClosed: true,
+        updatedAt: "2025/03/18",
         note: "专为您打造的一站式回忆 MCBBS 解决方案，但解决不了一点。",
         reference: []
     },
@@ -1302,7 +1308,8 @@ const db_forums_ex = [
         title: "MCBBS 纪念站",
         url: "https://www.mcbbs.red",
         archiveUrl: "https://web.archive.org/web/20240310130700/https://www.mcbbs.red/",
-        updatedAt: "2024/03/21",
+        isClosed: true,
+        updatedAt: "2025/03/18",
         note: "MCBBS 网页快照。",
         reference: []
     },
@@ -1310,7 +1317,8 @@ const db_forums_ex = [
         title: "MCBBS - 我的世界中文论坛",
         url: "https://www.mcbbs.info",
         archiveUrl: "https://web.archive.org/web/20240306053304/https://www.mcbbs.info/",
-        updatedAt: "2024/03/21",
+        isClosed: true,
+        updatedAt: "2025/03/18",
         note: "MCBBS 信息状态，复活 MCBBS！！！",
         reference: []
     },
@@ -1326,7 +1334,8 @@ const db_forums_ex = [
         title: "MCBBS UK",
         url: "http://mcbbs.uk",
         archiveUrl: "https://web.archive.org/web/20240310060053/http://mcbbs.uk/",
-        updatedAt: "2024/03/21",
+        isClosed: true,
+        updatedAt: "2025/03/18",
         note: "MCBBS in the UK.",
         reference: []
     },
@@ -1334,14 +1343,16 @@ const db_forums_ex = [
         title: "MCBBS 活着",
         url: "https://mcbbs.life",
         archiveUrl: "https://web.archive.org/web/20240310112317/https://mcbbs.life/",
-        updatedAt: "2024/03/21",
+        isClosed: true,
+        updatedAt: "2025/03/18",
         note: "MCBBS 还活着！😭😭😭",
         reference: []
     },
     {
         title: "基岩我的世界中文论坛",
         url: "http://bedrockmcbbs.web1337.net",
-        updatedAt: "2024/03/21",
+        isClosed: true,
+        updatedAt: "2025/03/18",
         note: "使用免费主机。",
         reference: [
             {
@@ -1354,7 +1365,6 @@ const db_forums_ex = [
             }
         ]
     },
-
     {
         title: "复活牢坛",
         url: "https://bbs.7c7.icu",
@@ -1382,7 +1392,8 @@ const db_forums_ex = [
         title: "⚡MCBBS 神教⚡",
         url: "https://mcbbs.xin/",
         archiveUrl: "https://web.archive.org/web/20240601161142/https://mcbbs.xin/",
-        updatedAt: "2024/04/12",
+        isClosed: true,
+        updatedAt: "2025/03/18",
         note: "MCBBS 纪念站，注意：此站不包含任何诈骗元素",
         reference: [
             {
@@ -1394,6 +1405,7 @@ const db_forums_ex = [
     {
         title: "MCBBS 还在寄吗？",
         url: "https://uptime.jasonhk.space/status/mcbbs",
+        isClosed: true,
         updatedAt: "2024/04/25",
         note: "MCBBS 还在寄吗？还在寄！（Uptime Kuma 自动监测泥潭上线状态）",
         reference: []
@@ -1406,15 +1418,15 @@ const db_forums_ex = [
         reference: []
     },
     {
-        title: "MCBBSv50纪念站",
+        title: "MCBBS 纪念版",
         url: "https://mcbbs.co/",
         archiveUrl: "https://web.archive.org/web/20240609005306/https://v50.mcbbs.rip/",
-        updatedAt: "2024/10/15",
+        updatedAt: "2025/03/18",
         note: "v我50，复活牢坛",
         reference: []
     },
     {
-        title: "MCBBS帖子存档",
+        title: "MCBBS 帖子存档",
         url: "https://archives.mcbbs.co",
         updatedAt: "2024/12/21",
         note: "MCBBS部分帖子的存档，持续收集中！存档站现已复活并加入更多数据！",
