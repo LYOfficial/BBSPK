@@ -990,15 +990,15 @@ const db_forums = [
         updatedAt: "2024/06/30",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器，使用免费虚拟主机搭建。",
+        note: "非大陆服务器。",
         reference: []
     },
     {
         title: "MCBBS 4th",
-        url: "https://www.mcbbs.lol",
+        url: "https://www.sbicp.xyz",
         state: "up",
         createdAt: "2024/04/06",
-        updatedAt: "2024/06/23",
+        updatedAt: "2025/03/22",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
