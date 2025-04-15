@@ -115,7 +115,7 @@ const db_forums = [
     {
         title: "深空Aurora",
         url: "https://www.aurora-sky.top",
-        state: "yes",
+        state: "up",
         createdAt: "2020/11/20",
         updatedAt: "2025/04/15",
         hasICP: "no",
