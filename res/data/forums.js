@@ -121,7 +121,12 @@ const db_forums = [
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。Minecraft 基岩版论坛。",
-        reference: []
+        reference: [
+             {
+                title: "深空Minecraft盒子悬浮窗使用教程",
+                url: "https://www.bilibili.com/video/BV1Z94y1Z7Tx/"
+            }
+        ]
     },
     {
         title: "像素工坊",
