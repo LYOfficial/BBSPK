@@ -114,13 +114,13 @@ const db_forums = [
     },
     {
         title: "深空Aurora",
-        url: "https://bbs.aurora-sky.top",
-        state: "down",
+        url: "https://www.aurora-sky.top",
+        state: "yes",
         createdAt: "2020/11/20",
-        updatedAt: "2024/11/13",
+        updatedAt: "2025/04/15",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。Minecraft 基岩版论坛。域名目前为未解析状态。",
+        note: "非大陆服务器。Minecraft 基岩版论坛。",
         reference: []
     },
     {
