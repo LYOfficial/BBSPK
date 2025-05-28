@@ -2,8 +2,7 @@ name: 检测论坛状态
 run-name: 全部查活
 
 on:
-  schedule:
-    - cron: "55 */6 * * *"
+  workflow_dispatch
 jobs:
   ping:
     runs-on: ubuntu-latest
