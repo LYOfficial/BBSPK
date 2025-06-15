@@ -17,12 +17,12 @@ const db_forums = [
     {
         title: "最MC",
         url: "http://www.zuimc.com",
-        state: "failure",
+        state: "down",
         createdAt: "2013/04/18",
         updatedAt: "2025/01/19",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "网站处于待出售状态，暂停新用户注册，用户活动基本停止。网站屏蔽了大量机房 IP，存在误伤。",
+        note: "论坛已关闭。",
         reference: []
     },
     {
@@ -247,9 +247,9 @@ const db_forums = [
     {
         title: "MCraft BBS",
         url: "https://mcraftbbs.cn",
-        state: "up",
+        state: "down",
         createdAt: "2022/04/24",
-        updatedAt: "2024/05/13",
+        updatedAt: "2025/06/15",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -305,10 +305,10 @@ const db_forums = [
         url: "https://www.pixelbbs.cn",
         state: "up",
         createdAt: "2022/08/12",
-        updatedAt: "2025/02/02",
+        updatedAt: "2025/06/15",
         hasICP: "yes",
         hasNetSec: "yes",
-        note: "综合性论坛，主营JAVA版块，前身为mc9z，改版而来。",
+        note: "综合性论坛，主营JAVA版块，前身为mc9z，改版而来。近期发生一些变动，论坛数据未备份而丢失。",
         reference: [
             {
                 title: "PixelBBS官方宣传片 | MCBBS | 论坛功能介绍 |",
@@ -374,9 +374,9 @@ const db_forums = [
     {
         title: "SarBBS",
         url: "https://forum.sarskin.cn",
-        state: "up",
+        state: "down",
         createdAt: "2023/01/05",
-        updatedAt: "2024/04/20",
+        updatedAt: "2025/06/15",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -606,9 +606,9 @@ const db_forums = [
     {
         title: "MCNEO光影资源站",
         url: "https://mcneo.cn",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/20",
-        updatedAt: "2025/01/17",
+        updatedAt: "2025/06/15",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。主营光影材质包。",
@@ -712,14 +712,14 @@ const db_forums = [
         ]
     },
     {
-        title: "MCBBS 2nd",
-        url: "https://mcbbs.app",
+        title: "Minecraft 我的世界论坛 MCBBS 2nd/NeoMC论坛",
+        url: "https://www.mcbbs.app",
         state: "up",
         createdAt: "2024/02/25",
-        updatedAt: "2024/12/04",
+        updatedAt: "2024/06/15",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器（香港），备用地址: mcbbs.vip以及mcbbs2.cn。",
         reference: [
             {
                 title: "MCBBS 我的世界论坛 2nd已发布！欢迎各位加入我们！",
@@ -988,17 +988,6 @@ const db_forums = [
         state: "down",
         createdAt: "2024/04/02",
         updatedAt: "2024/06/30",
-        hasICP: "no",
-        hasNetSec: "no",
-        note: "非大陆服务器。",
-        reference: []
-    },
-    {
-        title: "MCBBS 4th",
-        url: "https://www.sbicp.xyz",
-        state: "up",
-        createdAt: "2024/04/06",
-        updatedAt: "2025/03/22",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
