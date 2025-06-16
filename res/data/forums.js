@@ -17,6 +17,7 @@ const db_forums = [
     {
         title: "最MC",
         url: "http://www.zuimc.com",
+        // 特别提醒：该网站通常只能通过手机流量访问，不要再乱动它的状态了，它没死！！！
         state: "failure",
         createdAt: "2013/04/18",
         updatedAt: "2025/01/19",
