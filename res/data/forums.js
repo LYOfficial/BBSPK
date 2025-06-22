@@ -996,10 +996,10 @@ const db_forums = [
     },
     {
         title: "MCBBS 4th",
-        url: "https://www.sbicp.xyz",
+        url: "https://www.cdk.my",
         state: "up",
         createdAt: "2024/04/06",
-        updatedAt: "2025/03/22",
+        updatedAt: "2025/06/21",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
