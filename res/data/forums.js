@@ -831,9 +831,9 @@ const db_forums = [
     {
         title: "MC中文资源站",
         url: "https://www.mcbbs.top",
-        state: "up",
+        state: "down",
         createdAt: "2024/03/04",
-        updatedAt: "2024/05/17",
+        updatedAt: "2025/06/26",
         hasICP: "yes",
         hasNetSec: "no",
         note: "我的世界中文资源站。另有子站点 MC开源共建社区：https://doc.mcbbs.top。",
@@ -842,9 +842,9 @@ const db_forums = [
     {
         title: "REMCBBS我的世界星幻论坛",
         url: "https://remcbbs.com",
-        state: "up",
+        state: "down",
         createdAt: "2024/03/04",
-        updatedAt: "2024/10/27",
+        updatedAt: "2025/06/26",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器，正在重构中。",
