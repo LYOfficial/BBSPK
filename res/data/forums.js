@@ -1238,9 +1238,10 @@ const db_forums = [
     {
         title: "新龙游坛",
         url: "https://xlshan.cn/",
-        state: "up",
+        state: "close",
         createdAt: "2024/12/25",
-        updatedAt: "2025/01/14",
+        updatedAt: "2025/06/26",
+        closedAt: "2025/05/30",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
