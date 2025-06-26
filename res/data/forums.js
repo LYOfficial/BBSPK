@@ -127,9 +127,9 @@ const db_forums = [
     {
         title: "像素工坊",
         url: "https://www.pixelyun.net/",
-        state: "up",
+        state: "down",
         createdAt: "2021/01/09",
-        updatedAt: "2024/10/02",
+        updatedAt: "2025/06/26",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
