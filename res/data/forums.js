@@ -409,7 +409,7 @@ const db_forums = [
         url: "https://www.pibopibo.com",
         state: "up",
         createdAt: "2023/01/29",
-        updatedAt: "2024/04/20",
+        updatedAt: "2025/06/26",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
