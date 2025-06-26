@@ -1081,9 +1081,9 @@ const db_forums = [
     {
         title: "MCArea",
         url: "https://www.mcarea.top",
-        state: "up",
+        state: "down",
         createdAt: "2024/07/04",
-        updatedAt: "2025/03/02",
+        updatedAt: "2025/06/26",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
