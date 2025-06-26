@@ -1069,9 +1069,10 @@ const db_forums = [
     {
         title: "新一代我的世界论坛",
         url: "https://mcbbs.xn--6qq986b3xl/",
-        state: "up",
+        state: "close",
         createdAt: "2024/06/08",
-        updatedAt: "2025/01/14",
+        updatedAt: "2025/06/26",
+        closedAt: "2025/06/24",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
