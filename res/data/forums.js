@@ -407,7 +407,7 @@ const db_forums = [
     {
         title: "PiboPibo论坛",
         url: "https://www.pibopibo.com",
-        state: "up",
+        state: "down",
         createdAt: "2023/01/29",
         updatedAt: "2025/06/26",
         hasICP: "no",
@@ -607,9 +607,9 @@ const db_forums = [
     {
         title: "MCNEO光影资源站",
         url: "https://mcneo.cn",
-        state: "up",
+        state: "down",
         createdAt: "2024/02/20",
-        updatedAt: "2025/01/17",
+        updatedAt: "2025/06/26",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。主营光影材质包。",
