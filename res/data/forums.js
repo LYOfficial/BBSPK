@@ -306,10 +306,10 @@ const db_forums = [
         url: "https://www.pixelbbs.cn",
         state: "up",
         createdAt: "2022/08/12",
-        updatedAt: "2025/02/02",
+        updatedAt: "2025/06/26",
         hasICP: "yes",
-        hasNetSec: "yes",
-        note: "综合性论坛，主营JAVA版块，前身为mc9z，改版而来。",
+        hasNetSec: "no",
+        note: "综合性论坛，主营JAVA版块，前身为mc9z，改版而来。2025年5月16日发生重大数据丢失事故。",
         reference: [
             {
                 title: "PixelBBS官方宣传片 | MCBBS | 论坛功能介绍 |",
