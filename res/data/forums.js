@@ -1216,12 +1216,12 @@ const db_forums = [
     {
         title: "MCIDE",
         url: "https://www.mcide.net/",
-        state: "up",
+        state: "close",
         createdAt: "2024/12/02",
-        updatedAt: "2025/01/14",
+        updatedAt: "2025/07/09",
         hasICP: "no",
         hasNetSec: "no",
-        note: "非大陆服务器。",
+        note: "非大陆服务器。已改为技术交流论坛。",
         reference: []
     },
     {
