@@ -417,9 +417,9 @@ const db_forums = [
     {
         title: "Tinksp资源论坛",
         url: "https://www.tinksp.com",
-        state: "up",
+        state: "down",
         createdAt: "2023/02/25",
-        updatedAt: "2024/04/20",
+        updatedAt: "2025/11/14",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
