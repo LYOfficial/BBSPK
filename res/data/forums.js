@@ -1490,5 +1490,12 @@ const db_forums_ex = [
         updatedAt: "2025/2/9",
         note: "MCBBS的坟头草三米高了。",
         reference: []
+    },
+    {
+        title: "繁中方塊社",
+        url: "https://mcbbs.space",
+        updatedAt: "2026/7/20",
+        note: "方塊傳承，初心未改。",
+        reference: []
     }
 ];
