@@ -1497,5 +1497,19 @@ const db_forums_ex = [
         updatedAt: "2026/7/20",
         note: "方塊傳承，初心未改。",
         reference: []
+    },
+    {
+        title: "NMF Memo bbs",
+        url: "https://nmfmemo.me",
+        archiveUrl: "https://web.archive.org/web/20260612075019/https://nmfmemo.me/member.php?mod=logging&action=login&referer=https%3A%2F%2Fnmfmemo.me%2Findex.php",
+        isClosed: false,
+        updatedAt: "2026/6/12",
+        note: "为纪念网易我的世界论坛，使用高仿模版建立。游客无法查看帖子。",
+        reference: [
+             {
+                title: "discuz模板（方块人生|游戏|攻略 商业版_GBK+UTF8）",
+                url: "https://www.52yma.com/thread-2756-1-1.html"
+            }
+        ]
     }
 ];
