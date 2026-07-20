@@ -1492,6 +1492,13 @@ const db_forums_ex = [
         reference: []
     },
     {
+        title: "繁中方塊社",
+        url: "https://mcbbs.space",
+        updatedAt: "2026/7/20",
+        note: "方塊傳承，初心未改。",
+        reference: []
+    },
+    {
         title: "NMF Memo bbs",
         url: "https://nmfmemo.me",
         archiveUrl: "https://web.archive.org/web/20260612075019/https://nmfmemo.me/member.php?mod=logging&action=login&referer=https%3A%2F%2Fnmfmemo.me%2Findex.php",
